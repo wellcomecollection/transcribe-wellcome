@@ -7,3 +7,8 @@
   * [Molly Borer](people/molly-borer.md)
   * [Untitled](people/untitled.md)
 
+## PEOPLE <a id="people-1"></a>
+
+* [Molly Borer](people-1/molly-borer.md)
+* [Captain Saint](people-1/captain-saint.md)
+
