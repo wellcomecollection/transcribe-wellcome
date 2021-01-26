@@ -1,9 +1,9 @@
 # Materials
 
-Transcribed from the [materials classes](https://wellcomecollection.org/works/rrbp6gd5/items?canvas=125) listed in the ['Key to abbreviation in store file'](https://wellcomecollection.org/works/rrbp6gd5/items?canvas=112), dated 4 May 1928. 
+Transcribed from the [materials classes](https://wellcomecollection.org/works/rrbp6gd5/items?canvas=125) listed in the ['Key to abbreviation in store file'](https://wellcomecollection.org/works/rrbp6gd5/items?canvas=112), dated 4 May 1928.
 
 | Code | Material |
-| ----- | ----- |
+| :--- | :--- |
 | A | Glass |
 | AA | Leather, hide, skin |
 | B | Silver |
@@ -33,3 +33,4 @@ Transcribed from the [materials classes](https://wellcomecollection.org/works/rr
 | XX | Shell, includes tortoise shell |
 | Y | Terracotta |
 | Z | Fabric |
+
