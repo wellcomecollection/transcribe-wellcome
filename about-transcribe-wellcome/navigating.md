@@ -14,5 +14,3 @@
 
 {% page-ref page="../" %}
 
-\[\[Category: Museum Staff\]\]
-
