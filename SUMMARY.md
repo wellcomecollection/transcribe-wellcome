@@ -9,4 +9,5 @@
   * [Captain Saint](people/captain-saint.md)
   * [Molly Borer](people/molly-borer.md)
   * [Untitled](people/untitled.md)
+* [Places](places.md)
 
