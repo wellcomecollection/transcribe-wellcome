@@ -14,8 +14,7 @@
   * [Amoruso, Arthur](people/amoruso-arthur.md)
   * [Barber-Lomax, J.W.](people/barber-lomax.md)
   * [Borer, Mary Cathcart](people/borer-mary-cathcart.md)
-* [Locations](locations/README.md)
-  * [Willesden](locations/willesden.md)
+* [Locations](locations.md)
 * [Auction Houses](auction-houses.md)
 
 ## TRANSCRIPTION GUIDELINES
