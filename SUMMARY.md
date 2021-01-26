@@ -14,10 +14,15 @@
   * [Amoruso, Arthur](people/amoruso-arthur.md)
   * [Barber-Lomax, J.W.](people/barber-lomax.md)
   * [Borer, Mary Cathcart](people/borer-mary-cathcart.md)
-* [Locations](locations.md)
+* [Locations](locations/README.md)
+  * [Willesden](locations/willesden.md)
 * [Auction Houses](auction-houses.md)
 
 ## TRANSCRIPTION GUIDELINES
 
 * [Wellcome Historical Medical Museum](transcription-guidelines/wellcome-historical-medical-museum.md)
+
+## ABOUT TRANSCRIBE WELLCOME
+
+* [Untitled](about-transcribe-wellcome/untitled.md)
 
