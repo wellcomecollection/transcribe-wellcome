@@ -6,7 +6,7 @@
 
 ---
 
-* [Documentation Systems](classification-codes/README.md)
+* [Classification](classification-codes/README.md)
   * [Sections](classification-codes/sections.md)
   * [Cultures](classification-codes/cultures.md)
   * [Materials](classification-codes/materials.md)
