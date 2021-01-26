@@ -1,49 +1,6 @@
-# Section
+# Sections
 
-
-
-  
-&lt;!--table  
-	{mso-displayed-decimal-separator:"\.";  
-	mso-displayed-thousand-separator:"\,";}  
-@page  
-	{margin:.75in .7in .75in .7in;  
-	mso-header-margin:.3in;  
-	mso-footer-margin:.3in;}  
-tr  
-	{mso-height-source:auto;}  
-col  
-	{mso-width-source:auto;}  
-br  
-	{mso-data-placement:same-cell;}  
-td  
-	{padding-top:1px;  
-	padding-right:1px;  
-	padding-left:1px;  
-	mso-ignore:padding;  
-	color:black;  
-	font-size:11.0pt;  
-	font-weight:400;  
-	font-style:normal;  
-	text-decoration:none;  
-	font-family:Calibri, sans-serif;  
-	mso-font-charset:0;  
-	mso-number-format:General;  
-	text-align:general;  
-	vertical-align:bottom;  
-	border:none;  
-	mso-background-source:auto;  
-	mso-pattern:auto;  
-	mso-protection:locked visible;  
-	white-space:nowrap;  
-	mso-rotate:0;}  
-.xl63  
-	{font-weight:700;}  
-.xl64  
-	{background:yellow;  
-	mso-pattern:black none;}  
---&gt;  
-
+Transcribed and collated together from several different versions of the [sections abbreviations](https://wellcomecollection.org/works/rrbp6gd5/items?canvas=115) listed in the ['Key to abbreviation in store file'](https://wellcomecollection.org/works/rrbp6gd5/items?canvas=112), dated 4 May 1928 \(archive reference: [WA/HMM/CM/Cla/1](https://wellcomecollection.org/works/rrbp6gd5)\).
 
 | Code | Sections |
 | :--- | :--- |

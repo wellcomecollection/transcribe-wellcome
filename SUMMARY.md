@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Classification Codes](classification-codes/README.md)
-  * [Section](classification-codes/section.md)
+  * [Sections](classification-codes/section.md)
   * [Cultures](classification-codes/cultures.md)
   * [Materials](classification-codes/materials.md)
 * [People](people/README.md)
