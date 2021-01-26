@@ -4,8 +4,6 @@
 
 ## RESEARCHING THE MUSEUM & LIBRARY
 
----
-
 * [Classification](classification-codes/README.md)
   * [Sections](classification-codes/sections.md)
   * [Cultures](classification-codes/cultures.md)
@@ -21,9 +19,9 @@
 ## TRANSCRIPTION GUIDELINES
 
 * [Wellcome Historical Medical Museum](transcription-guidelines/wellcome-historical-medical-museum.md)
-  * [Wellcome Transcribers' Group](grp-wellcome-transcribers.md)
-  * [Transcription Setup](transcription-setup.md)
-  * [General Instructions](general-instructions.md)
+  * [Wellcome Transcribers' Group](transcription-guidelines/grp-wellcome-transcribers.md)
+  * [Transcription Setup](transcription-guidelines/transcription-setup.md)
+  * [General Instructions](transcription-guidelines/general-instructions.md)
 
 ## ABOUT TRANSCRIBE WELLCOME
 
