@@ -25,4 +25,4 @@
 
 ## ABOUT TRANSCRIBE WELLCOME
 
-* [Introduction](about-transcribe-wellcome/untitled.md)
+* [Navigation](about-transcribe-wellcome/navigating.md)
