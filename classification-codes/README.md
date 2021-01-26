@@ -1,2 +1,2 @@
-# \[Classification Codes\]
+# Classification Codes
 
