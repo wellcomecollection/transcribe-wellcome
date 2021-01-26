@@ -1,7 +1,7 @@
 # Cultures
 
 
-Transcribed from the [Nationality list](https://wellcomecollection.org/works/rrbp6gd5/items?canvas=126) in the ['Key to Abbreviations in Store File'](https://wellcomecollection.org/works/rrbp6gd5/items?canvas=112) dated 4 May 1928. 
+Transcribed from the [Nationality list](https://wellcomecollection.org/works/rrbp6gd5/items?canvas=126) in the ['Key to Abbreviations in Store File'](https://wellcomecollection.org/works/rrbp6gd5/items?canvas=112), dated 4 May 1928. 
 
 | Code	| Country |
 | ----- | ----- |
