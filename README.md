@@ -6,4 +6,5 @@ The Wellcome collections were - and are - extensive. At Wellcome's death in 1936
 
 The archive which documents the activities of the Wellcome museum and library from the 1890s onwards, including the histories of acquisition, provenance, and dispersal of the collections items, itself comprises almost 600 boxes of mostly handwritten or typescript documentation. Although most of this archive \(archive collection reference: WA/HMM\) was digitised in 2018 and is [available online](https://wellcomecollection.org/works/k2fae5cz), it remains a very large, complex, and difficult to navigate aggregation of material.
 
-By transcribing the main series of accession and registration records, we aim to help researchers explore the provenance and collecting histories of items acquired for the Wellcome museum and library between 1897 and 2000, and to trace the recipient museums and libraries to which Wellcome collection items were transferred between 1936 and 1983. 
+By transcribing the main series of accession and registration records, we aim to help researchers explore the provenance and collecting histories of items acquired for the Wellcome museum and library between 1897 and 2000, and to trace the recipient museums and libraries to which Wellcome collection items were transferred between 1936 and 1983.
+
