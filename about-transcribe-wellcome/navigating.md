@@ -1,6 +1,6 @@
 # Navigation
 
-[locations](researching-the-museum-and-library/locations.md)
+[locations](researching-the-museum-and-library/locations/README.md)
 
 {% page-ref page="../researching-the-museum-and-library/auction-houses.md" %}
 
