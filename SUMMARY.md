@@ -11,3 +11,7 @@
   * [Untitled](people/untitled.md)
 * [Places](places.md)
 
+## TRANSCRIPTION GUIDELINES
+
+* [Wellcome Historical Medical Museum](transcription-guidelines/wellcome-historical-medical-museum.md)
+
