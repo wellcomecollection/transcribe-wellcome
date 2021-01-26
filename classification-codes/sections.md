@@ -29,14 +29,14 @@ Transcribed and collated together from several different versions of the [sectio
 | CAT | Catastrophe |
 | CCC | Plaster casts |
 | CEL | Celebrities |
-| CH | Chiropodist and barber-surgeon's  |
+| CH | Chiropodist and barber-surgeon's |
 | CHS | Children's |
 | CIR | Circumcision |
 | CK | Clocks |
 | CN | Coins, medals, etc |
 | COS | Librettes |
 | COS | Costume |
-| Crim  | Criminal relics |
+| Crim | Criminal relics |
 | CUR | Currency |
 | D | Pewter |
 | DBC | Mummy boxes |
@@ -183,3 +183,4 @@ Transcribed and collated together from several different versions of the [sectio
 | XX | Shells |
 | Z | Fabrics |
 | ZOD | Zodiacal |
+
