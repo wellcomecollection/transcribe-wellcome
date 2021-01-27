@@ -59,7 +59,6 @@ Transcribed from the ['List of symbols for collections of objects'](https://well
 | C.Wr. | WRIGHT | Folklore & ethnographical |
 
 ### Egyptian Collections
-| --------- | -------- | -------- |
 | C.BnE. | Egyptian Antiquities of the Brunton Expedition ||
 | C.B-S. | British School of Archaeology in Egypt (per Prof. Petrie) 1927 ||
 | C.B-S. | British School of Archaeology in Egypt (per Mr. Starkie) 1930 ||
