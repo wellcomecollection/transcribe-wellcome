@@ -1,6 +1,6 @@
 # Collections abbreviations
 
-Transcribed from the ['List of symbols for collections of objects'](https://wellcomecollection.org/works/rrbp6gd5/items?canvas=24) in [WA/HMM/CM/Cla/1](https://wellcomecollection.org/works/rrbp6gd5), undated, probably c.1928-1935.
+Transcribed from the ['List of symbols for collections of objects'](https://wellcomecollection.org/works/rrbp6gd5/items?canvas=24), undated, probably c.1928-1935 (archive reference: [WA/HMM/CM/Cla/1](https://wellcomecollection.org/works/rrbp6gd5)).
 
 | Collection Symbol | Name of Collection | Character of Collection |
 | -------- | --------- | -------- |
