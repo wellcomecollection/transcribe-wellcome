@@ -8,6 +8,7 @@
   * [Sections](researching-the-museum-and-library/classification-codes/sections.md)
   * [Cultures](researching-the-museum-and-library/classification-codes/cultures.md)
   * [Materials](researching-the-museum-and-library/classification-codes/materials.md)
+  * [Collections Abbreviations](researching-the-museum-and-library/classification-codes/collections.md)
 * [People](researching-the-museum-and-library/people/README.md)
   * [Amoruso, Arthur](researching-the-museum-and-library/people/amoruso-arthur.md)
   * [Barber-Lomax, J.W.](researching-the-museum-and-library/people/barber-lomax.md)
@@ -26,4 +27,3 @@
 ## ABOUT TRANSCRIBE WELLCOME
 
 * [Navigation](about-transcribe-wellcome/navigating.md)
-
