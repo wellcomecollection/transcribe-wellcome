@@ -13,8 +13,8 @@
   * [Amoruso, Arthur](researching-the-museum-and-library/people/amoruso-arthur.md)
   * [Barber-Lomax, J.W.](researching-the-museum-and-library/people/barber-lomax.md)
   * [Borer, Mary Cathcart](researching-the-museum-and-library/people/borer-mary-cathcart.md)
-* [Locations](researching-the-museum-and-library/locations/README.md)
-  * [Willesden](researching-the-museum-and-library/locations/willesden.md)
+* [Places](researching-the-museum-and-library/places/README.md)
+  * [Willesden](researching-the-museum-and-library/places/willesden.md)
 * [Auction Houses](researching-the-museum-and-library/auction-houses.md)
 
 ## TRANSCRIPTION GUIDELINES
