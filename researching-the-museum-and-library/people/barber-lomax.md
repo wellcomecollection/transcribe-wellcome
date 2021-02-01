@@ -4,3 +4,5 @@ description: 'John Walker Barber-Lomax, Assistant Director, WHMM / WIHM, in post
 
 # Barber-Lomax, J.W.
 
+![Image: EPH19](../../.gitbook/assets/barber-lomax-bookplate.jpg)
+
