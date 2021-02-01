@@ -12,6 +12,14 @@
 {% tab title="Second Tab" %}
 
 {% endtab %}
+
+{% tab title="Third Tab" %}
+
+{% endtab %}
+
+{% tab title="Fourth Tab" %}
+
+{% endtab %}
 {% endtabs %}
 
 {% page-ref page="../" %}
