@@ -16,6 +16,7 @@
 * [Places](researching-the-museum-and-library/places/README.md)
   * [Willesden](researching-the-museum-and-library/places/willesden.md)
 * [Auction Houses](researching-the-museum-and-library/auction-houses.md)
+* [Organisations](researching-the-museum-and-library/organisations.md)
 
 ## TRANSCRIPTION GUIDELINES
 
