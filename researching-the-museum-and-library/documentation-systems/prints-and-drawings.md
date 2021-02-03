@@ -20,7 +20,13 @@ Registers: PD 1 to PD 391 \(WA/HMM/IC/1/28-31\); Gap 1938 to 1959; PD 1959-1-1 t
 
 Prints, mostly portraits; series constructed by Pender-Davidson between 1928 and 1933.
 
-Registers PR 1 to PR 1104 \(WA/HMM/IC/1/7\). Later registers are missing but provenance details for PR1 to PR26508 were reconstructed by Earnshaw \(with some gaps\) in a report in WA/HMM/RP/Sta/3. 
+Registers PR 1 to PR 1104 \(WA/HMM/IC/1/7\). Later registers are missing but provenance details for PR1 to PR26508 were reconstructed by Earnshaw \(with some gaps\) in a report in WA/HMM/RP/Sta/3.
+
+## Later documentation of prints
+
+### 1981 to 2000
+
+Paintings and prints were accessioned into the [library accession registers](https://docs.wellcomecollection.org/transcribe-wellcome/researching-the-museum-and-library/documentation-systems/library-accessions) from December 1981 to December 2000.  
 
 
 
