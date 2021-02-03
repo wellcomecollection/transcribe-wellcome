@@ -9,6 +9,7 @@
   * [Old Registration System](researching-the-museum-and-library/documentation-systems/old-registration-system.md)
   * [New Registration System](researching-the-museum-and-library/documentation-systems/new-registration-system.md)
   * [Library Accessions](researching-the-museum-and-library/documentation-systems/library-accessions.md)
+  * [Paintings](researching-the-museum-and-library/documentation-systems/paintings.md)
 * [Classification](researching-the-museum-and-library/classification-codes/README.md)
   * [Sections](researching-the-museum-and-library/classification-codes/sections.md)
   * [Cultures](researching-the-museum-and-library/classification-codes/cultures.md)
