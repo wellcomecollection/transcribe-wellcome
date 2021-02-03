@@ -12,3 +12,5 @@ If objects already had A numbers, or R numbers from the old registration system,
 
 On the objects themselves, old numbers were not usually obliterated, but crossed out with a single red line and the new numbers added in white or black ink close by. 
 
+![R2223/1936 painted on an object now at the Science Museum](../../.gitbook/assets/large_smg00085391.jpg)
+
