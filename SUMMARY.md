@@ -15,6 +15,7 @@
   * [Materials](researching-the-museum-and-library/classification-codes/materials.md)
   * [Collections Abbreviations](researching-the-museum-and-library/classification-codes/collections.md)
 * [People](researching-the-museum-and-library/people/README.md)
+  * [Collectors](researching-the-museum-and-library/people/collectors.md)
   * [Amoruso, Arthur](researching-the-museum-and-library/people/amoruso-arthur.md)
   * [Barber-Lomax, J.W.](researching-the-museum-and-library/people/barber-lomax.md)
   * [Borer, Mary Cathcart](researching-the-museum-and-library/people/borer-mary-cathcart.md)
