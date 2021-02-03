@@ -16,7 +16,7 @@ On the objects themselves, old numbers were not usually obliterated, but crossed
 
 Paintings were also registered in the museum new registration system between 1935 and 1980. Paintings were supposed to be given ‘P’ prefixes in place of ‘R’, although this doesn't seem to have happened consistently.
 
-On index cards and often on objects, new registration numbers are written without the R prefix. New registration numbers are most frequently expressed as a fraction e.g. $$\frac{2223}{1936}$$ or with a forward slash $$2223/1936$$although other notation styles include an apostrophe separator between the two numbers $$2223'1936$$and the abbreviated date format $$\frac{2223}{36}$$. 
+On index cards and often on objects, new registration numbers are written without the R prefix. New registration numbers are most frequently expressed as a fraction e.g. $$\frac{2223}{1936}$$ or with a forward slash $$2223/1936$$although other notation styles include an apostrophe separator between the two numbers $$2223'1936$$and the abbreviated date format $$2223'36$$. 
 
 In Transcribe Wellcome, new registration numbers are standardised to include the R prefix and the forward slash notation, i.e. R2223/1936.    
 
