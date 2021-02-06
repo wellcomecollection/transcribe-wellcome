@@ -1,5 +1,5 @@
 ---
-description: 'John Walker Barber-Lomax, Assistant Director, WHMM / WIHM, in post 1964-69'
+description: 'J. W. Barber-Lomax, Assistant Director, WHMM / WIHM, in post 1964-69'
 ---
 
 # Barber-Lomax, John Walker
