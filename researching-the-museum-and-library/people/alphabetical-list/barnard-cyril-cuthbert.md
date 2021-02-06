@@ -1,5 +1,5 @@
 ---
-description: 'C.C. Barnard, Assistant Librarian, in post 1919 - 1921'
+description: 'C.C. Barnard, Librarian, in post 1919 - 1921'
 ---
 
 # Barnard, Cyril Cuthbert
