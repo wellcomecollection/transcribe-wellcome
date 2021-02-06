@@ -9,6 +9,7 @@
   * [Old Registration System](researching-the-museum-and-library/documentation-systems/old-registration-system.md)
   * [New Registration System](researching-the-museum-and-library/documentation-systems/new-registration-system.md)
   * [Library Accessions](researching-the-museum-and-library/documentation-systems/library-accessions.md)
+  * [Library Shelfmarks](researching-the-museum-and-library/documentation-systems/library-shelfmarks.md)
   * [Paintings](researching-the-museum-and-library/documentation-systems/paintings.md)
   * [Photographs](researching-the-museum-and-library/documentation-systems/photographs.md)
   * [Prints and Drawings](researching-the-museum-and-library/documentation-systems/prints-and-drawings.md)
