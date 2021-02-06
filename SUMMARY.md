@@ -21,6 +21,7 @@
   * [Alphabetical list](researching-the-museum-and-library/people/alphabetical-list/README.md)
     * [Amoruso, Arthur](researching-the-museum-and-library/people/alphabetical-list/amoruso-arthur.md)
     * [Barber-Lomax, J.W.](researching-the-museum-and-library/people/alphabetical-list/barber-lomax.md)
+    * [Barnard, Cyril Cuthbert](researching-the-museum-and-library/people/alphabetical-list/barnard-cyril-cuthbert.md)
     * [Borer, Mary Cathcart](researching-the-museum-and-library/people/alphabetical-list/borer-mary-cathcart.md)
   * [Collectors](researching-the-museum-and-library/people/collectors.md)
 * [Places](researching-the-museum-and-library/places/README.md)
