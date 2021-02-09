@@ -26,6 +26,7 @@
     * [Borer, Mary Cathcart](researching-the-museum-and-library/people/alphabetical-list/borer-mary-cathcart.md)
   * [Collectors](researching-the-museum-and-library/people/collectors.md)
 * [Places](researching-the-museum-and-library/places/README.md)
+  * [Aldersgate Street](researching-the-museum-and-library/places/aldersgate-street.md)
   * [Willesden](researching-the-museum-and-library/places/willesden.md)
 * [Auction Houses](researching-the-museum-and-library/auction-houses.md)
 * [Organisations](researching-the-museum-and-library/organisations.md)
