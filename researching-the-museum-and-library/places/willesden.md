@@ -14,5 +14,7 @@ Buildings files: [WA/HMM/CO/Sub/188](https://wellcomecollection.org/works/tsvcga
 
 [Library store at Willesden, 1937](https://wellcomecollection.org/works/afek8yqz)
 
+[Photographs of Library stores, c.1937](https://wellcomecollection.org/works/n25bv8tp/items?canvas=17&langCode=false), with locations noted on reverse \(WA/HMM/LI/Pho\)
+
 
 
