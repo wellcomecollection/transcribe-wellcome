@@ -35,10 +35,10 @@
 
 ## TRANSCRIPTION GUIDELINES
 
-* [Wellcome Historical Medical Museum](transcription-guidelines/wellcome-historical-medical-museum/README.md)
-  * [Wellcome Transcribers' Group](transcription-guidelines/wellcome-historical-medical-museum/grp-wellcome-transcribers.md)
-  * [Transcription Setup](transcription-guidelines/wellcome-historical-medical-museum/transcription-setup.md)
-  * [General Instructions](transcription-guidelines/wellcome-historical-medical-museum/general-instructions.md)
+* [Wellcome Transcribers' Group](transcription-guidelines/grp-wellcome-transcribers.md)
+* [Transcription Setup](transcription-guidelines/transcription-setup.md)
+* [General Instructions](transcription-guidelines/general-instructions.md)
+* [WHMM Flimsy Slips](transcription-guidelines/whmm-flimsy-slips.md)
 
 ## ABOUT TRANSCRIBE WELLCOME
 

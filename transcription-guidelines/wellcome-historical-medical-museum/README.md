@@ -1,2 +1,0 @@
-# Wellcome Historical Medical Museum
-
