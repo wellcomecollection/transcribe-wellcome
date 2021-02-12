@@ -22,7 +22,7 @@ Material acquired from the [Church Missionary Society](https://wellcome.quickbas
 
 Life dates: 1890–1975. South African anthropologist. Colonial administrator in Nigeria and Cameroon.
 
-[Material acquired via Jeffreys](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=52) includes ethnographic collections originating from peoples in southern Nigeria and Cameroon. Material was acquired in large shipments from c.1927 to c.1938.
+[Material acquired via Jeffreys](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=52) includes ethnographic collections originating from \(confirmed so far\) Aro, Ibibio, Efik peoples in southern Nigeria and Cameroon. Collections from other peoples may also be included. Material was sent to WHMM in large shipments from c.1927 to c.1938.
 
 #### Archive sources
 
