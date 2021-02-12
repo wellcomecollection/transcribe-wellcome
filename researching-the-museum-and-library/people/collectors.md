@@ -16,20 +16,20 @@ Life dates: 1888–1957. Swedish anthropologist working across Africa and South 
 
 #### Archive sources:
 
-* [WA/HMM/CO/Alp/66](https://wellcomecollection.org/works/yyhgw8md)  1931-1933
-* [WA/HMM/CM/Col/14](https://wellcomecollection.org/works/exys6ufe)  c.1933
-* [WA/HMM/CM/Col/95/1](https://wellcomecollection.org/works/zz6kjvcm)  undated
+* [WA/HMM/CO/Alp/66](https://wellcomecollection.org/works/yyhgw8md)  1931-1933. Photographs discussed \(from [page image 20](https://wellcomecollection.org/works/yyhgw8md/items?canvas=20&langCode=false)\)
+* [WA/HMM/CM/Col/14](https://wellcomecollection.org/works/exys6ufe)  medicinal plants collected in South America, c.1933
+* [WA/HMM/CM/Col/95/1](https://wellcomecollection.org/works/zz6kjvcm)  medicinal plants collected in South America, undated \[not available online\]
 
 ### Church Missionary Society
 
-Material acquired from the [Church Missionary Society](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=55) \(CMS\) includes ethnographic collections originating from peoples in Kenya, Nigeria and Uganda.
+Material acquired from the [Church Missionary Society](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=55) \(CMS\) includes ethnographic collections originating from peoples in Egypt, Kenya, Nigeria and Uganda. Group of material acquired 1962.
 
-Collecting associated with CMS hasn't yet been researched. Archive sources located so far don't relate to the collections transcribed in TW.
+Collecting associated with CMS hasn't yet been researched. Archive sources located so far may not relate to the collections transcribed in TW.
 
 #### Archive sources:
 
 * [WA/HMM/CO/Ear/153](https://wellcomecollection.org/works/dndhap59)  1905-1910  
-* [WA/HMM/CO/Chr/K.22](https://wellcomecollection.org/works/wqhcs3da)  Purchase of African and Japanese musical instruments, 1953-1962
+* [WA/HMM/CO/Chr/K.22](https://wellcomecollection.org/works/wqhcs3da)  Purchases, 1953-1962
 
 
 
@@ -38,6 +38,8 @@ Collecting associated with CMS hasn't yet been researched. Archive sources locat
 Life dates: 1890–1975. South African anthropologist. Colonial administrator in Nigeria and Cameroon.
 
 [Material acquired via Jeffreys](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=52) includes ethnographic collections originating from \(confirmed so far\) Aro, Ibibio, Efik peoples in southern Nigeria and Cameroon. Collections from other peoples may also be included. Material was sent to WHMM in large shipments from c.1927 to c.1938.
+
+Contemporary with Jeffreys' collecting in 1932, peoples of southern Nigeria were also photographed for WHMM by anthropologist [Gustav Bolinder](collectors.md#bolinder-gustav).
 
 #### Archive sources
 
