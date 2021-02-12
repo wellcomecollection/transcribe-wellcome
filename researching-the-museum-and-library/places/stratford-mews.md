@@ -11,6 +11,3 @@ Library premises from c.1921 until 1928. Library moved to [Willesden ](willesden
 8 Stratford Mews used as a correspondence address.
 
 Building files: [WA/HMM/BU/5](https://wellcomecollection.org/works/f8ua7qyh) and [WA/HMM/CO/Sub/193](https://wellcomecollection.org/works/b6fwparj)  
-
-
-
