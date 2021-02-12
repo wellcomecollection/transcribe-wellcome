@@ -26,6 +26,7 @@
     * [Borer, Mary Cathcart](researching-the-museum-and-library/people/alphabetical-list/borer-mary-cathcart.md)
   * [Collectors](researching-the-museum-and-library/people/collectors.md)
 * [Places](researching-the-museum-and-library/places/README.md)
+  * [11a Bushey Hill Road](researching-the-museum-and-library/places/bushey-hill-road.md)
   * [Easley Mews](researching-the-museum-and-library/places/easley-mews.md)
   * [Stratford Mews](researching-the-museum-and-library/places/stratford-mews.md)
   * [Beckenham](researching-the-museum-and-library/places/beckenham.md)
