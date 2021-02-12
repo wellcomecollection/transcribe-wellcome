@@ -6,15 +6,13 @@ description: >-
 
 # Collectors
 
-{% hint style="warning" %}
-Testing out the semantics of grouping various 'collectors'. Plus, looking at how content styling as a name list works.
-{% endhint %}
-
 ## Collecting for WHMM & WHML
 
 ### Bolinder, Gustav
 
-Life dates: 1888–1957. Swedish anthropologist working across Africa and South America. [Material acquired from Bolinder](https://wellcome.quickbase.com/db/bqqgfjb3t?a=q&qid=12) includes anthropological photographs of Ibo peoples in southern Nigeria \(c.1932\).
+Life dates: 1888–1957. Swedish anthropologist working across Africa and South America.
+
+[Material acquired from Bolinder](https://wellcome.quickbase.com/db/bqqgfjb3t?a=q&qid=12) includes anthropological photographs of Ibo peoples in southern Nigeria \(c.1932\).
 
 ### Church Missionary Society
 
@@ -22,7 +20,23 @@ Material acquired from the [Church Missionary Society](https://wellcome.quickbas
 
 ### Jeffreys, Mervyn D. W.
 
-Life dates: 1890–1975. South African anthropologist. Colonial administrator in Nigeria and Cameroon. [Material acquired via Jeffreys](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=52) includes ethnographic collections originating from peoples in southern Nigeria and Cameroon. Material was acquired in large shipments from c.1927 to c.1938.
+Life dates: 1890–1975. South African anthropologist. Colonial administrator in Nigeria and Cameroon.
+
+[Material acquired via Jeffreys](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=52) includes ethnographic collections originating from peoples in southern Nigeria and Cameroon. Material was acquired in large shipments from c.1927 to c.1938.
+
+#### Archive sources
+
+Acquisition and collecting: Over 600 pages of documentation on collecting, from c.1927-32, 1938.
+
+* [WA/HMM/CM/Col/58](https://wellcomecollection.org/works/mb2re2g4)  collections dossier, 1927-38
+* [WA/HMM/CO/Chr/C.14](https://wellcomecollection.org/works/wnjaecbf)  correspondence, 1926
+* [WA/HMM/CO/Chr/F.13](https://wellcomecollection.org/works/ecwy4rqa)  correspondence, 1929
+* [WA/HMM/CO/Chr/J.110](https://wellcomecollection.org/works/h9xab2nx)  correspondence, 1932-47
+
+Museum records on display, cataloguing, and dispersal of material to other institutions.
+
+* [WA/HMM/CM/Col/58](https://wellcomecollection.org/works/mb2re2g4)  collections dossier, 1927-38
+* [WA/HMM/CM/Lis/14](https://wellcomecollection.org/works/hq8gsn94)  beginning at [page image 209](https://wellcomecollection.org/works/hq8gsn94/items?canvas=209&langCode=false), including staff selection of dispersals to Pitt Rivers Museum, 1942
 
 ## Owners of private collections
 
