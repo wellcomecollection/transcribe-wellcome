@@ -29,6 +29,7 @@
   * [Aldersgate Street](researching-the-museum-and-library/places/aldersgate-street.md)
   * [Beckenham](researching-the-museum-and-library/places/beckenham.md)
   * [11a Bushey Hill Road](researching-the-museum-and-library/places/bushey-hill-road.md)
+  * [145 Crystal Palace Road](researching-the-museum-and-library/places/crystal-palace-road.md)
   * [Easley Mews](researching-the-museum-and-library/places/easley-mews.md)
   * [Stratford Mews](researching-the-museum-and-library/places/stratford-mews.md)
   * [Willesden](researching-the-museum-and-library/places/willesden.md)
@@ -45,4 +46,3 @@
 ## ABOUT TRANSCRIBE WELLCOME
 
 * [Navigation](about-transcribe-wellcome/navigating.md)
-
