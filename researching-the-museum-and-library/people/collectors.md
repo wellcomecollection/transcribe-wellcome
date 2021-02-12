@@ -31,8 +31,6 @@ Collecting associated with CMS hasn't yet been researched. Archive sources locat
 * [WA/HMM/CO/Ear/153](https://wellcomecollection.org/works/dndhap59)  1905-1910  
 * [WA/HMM/CO/Chr/K.22](https://wellcomecollection.org/works/wqhcs3da)  Purchases, 1953-1962
 
-
-
 ### Jeffreys, Mervyn D. W.
 
 Life dates: 1890–1975. South African anthropologist. Colonial administrator in Nigeria and Cameroon.
