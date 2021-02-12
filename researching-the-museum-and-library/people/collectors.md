@@ -14,9 +14,24 @@ Life dates: 1888–1957. Swedish anthropologist working across Africa and South 
 
 [Material acquired from Bolinder](https://wellcome.quickbase.com/db/bqqgfjb3t?a=q&qid=12) includes anthropological photographs of Ibo peoples in southern Nigeria \(c.1932\).
 
+#### Archive sources:
+
+* [WA/HMM/CO/Alp/66](https://wellcomecollection.org/works/yyhgw8md)  1931-1933
+* [WA/HMM/CM/Col/14](https://wellcomecollection.org/works/exys6ufe)  c.1933
+* [WA/HMM/CM/Col/95/1](https://wellcomecollection.org/works/zz6kjvcm)  undated
+
 ### Church Missionary Society
 
-Material acquired from the [Church Missionary Society](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=55) includes ethnographic collections originating from peoples in Kenya, Nigeria and Uganda.
+Material acquired from the [Church Missionary Society](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=55) \(CMS\) includes ethnographic collections originating from peoples in Kenya, Nigeria and Uganda.
+
+Collecting associated with CMS hasn't yet been researched. Archive sources located so far don't relate to the collections transcribed in TW.
+
+#### Archive sources:
+
+* [WA/HMM/CO/Ear/153](https://wellcomecollection.org/works/dndhap59)  1905-1910  
+* [WA/HMM/CO/Chr/K.22](https://wellcomecollection.org/works/wqhcs3da)  Purchase of African and Japanese musical instruments, 1953-1962
+
+
 
 ### Jeffreys, Mervyn D. W.
 
@@ -33,7 +48,7 @@ Acquisition and collecting: Over 600 pages of documentation on collecting, from 
 * [WA/HMM/CO/Chr/F.13](https://wellcomecollection.org/works/ecwy4rqa)  correspondence, 1929
 * [WA/HMM/CO/Chr/J.110](https://wellcomecollection.org/works/h9xab2nx)  correspondence, 1932-47
 
-Museum records on display, cataloguing, and dispersal of material to other institutions.
+Museum records related to display, cataloguing, and dispersal of material to other institutions.
 
 * [WA/HMM/CM/Col/58](https://wellcomecollection.org/works/mb2re2g4)  collections dossier, 1927-38
 * [WA/HMM/CM/Lis/14](https://wellcomecollection.org/works/hq8gsn94)  beginning at [page image 209](https://wellcomecollection.org/works/hq8gsn94/items?canvas=209&langCode=false), including staff selection of dispersals to Pitt Rivers Museum, 1942
@@ -42,7 +57,16 @@ Museum records on display, cataloguing, and dispersal of material to other insti
 
 ### Amherst, William Tyssen-Amherst
 
-Life dates: 1835–1909. British Conservative Member of Parliament. Collector of artworks, antiquities and books. [Material acquired from Amherst's collection](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=58) includes ancient Egyptian antiquities and Mesopotamian cuneiform tablets.
+Life dates: 1835–1909. British Conservative Member of Parliament. Collector of artworks, antiquities and books.
+
+[Material acquired from Amherst's collection](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=58) includes ancient Egyptian antiquities and Mesopotamian cuneiform tablets.
+
+#### Archive sources:
+
+* [WA/HMM/CM/Sal/20/252](https://wellcomecollection.org/works/npepnjnf)  Sotheby's auction sale catalogue, Dec 1908-Mar 1909
+* [WA/HMM/CM/Sal/20/259](https://wellcomecollection.org/works/n5pb93xs)  Sotheby's auction sale catalogue, Mar 1909
+* [WA/HMM/CM/Sal/20/497](https://wellcomecollection.org/works/mp3w6ynu)  Sotheby's auction sale catalogue, Jun 1921
+* [WA/HMM/CM/Sal/20/506](https://wellcomecollection.org/works/d9sehdjy)  Sotheby's auction sale catalogue, Nov 1921
 
 ### Gorga, Evangelista
 
