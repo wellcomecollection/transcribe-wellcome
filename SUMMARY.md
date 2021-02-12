@@ -26,11 +26,11 @@
     * [Borer, Mary Cathcart](researching-the-museum-and-library/people/alphabetical-list/borer-mary-cathcart.md)
   * [Collectors](researching-the-museum-and-library/people/collectors.md)
 * [Places](researching-the-museum-and-library/places/README.md)
+  * [Aldersgate Street](researching-the-museum-and-library/places/aldersgate-street.md)
   * [11a Bushey Hill Road](researching-the-museum-and-library/places/bushey-hill-road.md)
   * [Easley Mews](researching-the-museum-and-library/places/easley-mews.md)
   * [Stratford Mews](researching-the-museum-and-library/places/stratford-mews.md)
   * [Beckenham](researching-the-museum-and-library/places/beckenham.md)
-  * [Aldersgate Street](researching-the-museum-and-library/places/aldersgate-street.md)
   * [Willesden](researching-the-museum-and-library/places/willesden.md)
 * [Auction Houses](researching-the-museum-and-library/auction-houses.md)
 * [Organisations](researching-the-museum-and-library/organisations.md)
@@ -45,3 +45,4 @@
 ## ABOUT TRANSCRIBE WELLCOME
 
 * [Navigation](about-transcribe-wellcome/navigating.md)
+
