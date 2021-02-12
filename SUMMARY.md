@@ -26,8 +26,11 @@
     * [Borer, Mary Cathcart](researching-the-museum-and-library/people/alphabetical-list/borer-mary-cathcart.md)
   * [Collectors](researching-the-museum-and-library/people/collectors.md)
 * [Places](researching-the-museum-and-library/places/README.md)
+<<<<<<< HEAD
   * [Easley Mews](researching-the-museum-and-library/places/Easley Mews.md)
   * [Stratford Mews](researching-the-museum-and-library/places/stratford-mews.md)
+=======
+>>>>>>> 325d904e71a23283967fd4be69adf62e6b64056b
   * [Beckenham](researching-the-museum-and-library/places/beckenham.md)
   * [Aldersgate Street](researching-the-museum-and-library/places/aldersgate-street.md)
   * [Willesden](researching-the-museum-and-library/places/willesden.md)
