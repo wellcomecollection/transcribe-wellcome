@@ -34,7 +34,17 @@
   * [Stratford Mews](researching-the-museum-and-library/places/stratford-mews.md)
   * [Willesden](researching-the-museum-and-library/places/willesden.md)
 * [Auction Houses](researching-the-museum-and-library/auction-houses.md)
-* [Organisations](researching-the-museum-and-library/organisations.md)
+* [Organisations](researching-the-museum-and-library/organisations.md/README.md)
+  * [Burroughs Wellcome & Company](researching-the-museum-and-library/organisations/bw.md)
+  * [Epworth & Co.](researching-the-museum-and-library/organisations/epworth-co.md)
+  * [Historical Medical Exhibition](researching-the-museum-and-library/organisations/hme.md)
+  * [Wellcome Bureau of Scientific Research](researching-the-museum-and-library/organisations/wbsr.md)
+  * [Wellcome Chemical Research Laboratories](researching-the-museum-and-library/organisations/wcrl.md)
+  * [Wellcome Historical Medical Museum](researching-the-museum-and-library/organisations/whmm.md)
+  * [Wellcome Institute of/for the History of Medicine](researching-the-museum-and-library/organisations/wihm.md)
+  * [Wellcome Museum of Medical Science](researching-the-museum-and-library/organisations/wmms.md)
+  * [Wellcome Physiological Research Laboratories](researching-the-museum-and-library/organisations/wprl.md)
+  * [Wellcome Tropical Research Laboratories](researching-the-museum-and-library/organisations/wtrl.md)
 
 ## TRANSCRIPTION GUIDELINES
 
@@ -46,4 +56,3 @@
 ## ABOUT TRANSCRIBE WELLCOME
 
 * [Navigation](about-transcribe-wellcome/navigating.md)
-
