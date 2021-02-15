@@ -1,2 +1,0 @@
-# Poynter, F.N.L.
-
