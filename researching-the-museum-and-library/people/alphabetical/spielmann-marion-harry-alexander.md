@@ -1,2 +1,0 @@
-# Spielmann, Marion Harry Alexander
-
