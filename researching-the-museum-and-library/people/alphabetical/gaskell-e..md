@@ -1,2 +1,0 @@
-# Gaskell, E.
-
