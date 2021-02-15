@@ -1,4 +1,4 @@
-# 145 Crystal Palace Road
+# Crystal Palace Road
 
 145 Crystal Palace Road, East Dulwich, London.
 
