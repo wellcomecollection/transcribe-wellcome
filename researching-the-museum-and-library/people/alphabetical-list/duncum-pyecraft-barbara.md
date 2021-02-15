@@ -15,7 +15,7 @@ Worked with Lacaille cataloguing folklore collection, including amulets. Worked 
 !! biographical notes
 Studied history at university of London.  Left WHMM in November 1937 to join the Institute for Research in Agricultural Engineering, Oxford. Published The development of inhalation anaesthesia (1947) based on her ~PhD thesis. Published by WHMM research series, to accompany an exhibition on the centenary of anaesthesia. ('Centenary of Anaesthesia Exhibition' 1946. WA/HMM/EX/F.1. ) Duncum gave one of the papers at the associated opening event at the RSM History of Medicine Section.
 
-!! sources 
+!! sources
 Oral history in Symons 1987, pp. 19-24
 
 !! obituaries
@@ -26,7 +26,7 @@ Oral history in Symons 1987, pp. 19-24
 B. Duncum “The Development of Hospital Design and Planning” in The Evolution of Hospitals in Britain ed F. N. L. Poynter (London: Pitman Medical Publishing, 1964, 207-210.
 
 !! WC archive materials:
-* WA/HMM/EX/B.12. Exhibition for the centenary celebrations of the first public administration of an anaesthetic. 
+* WA/HMM/EX/B.12. Exhibition for the centenary celebrations of the first public administration of an anaesthetic.
 * WAHMM/EX/F/1. 'Centenary of Anaesthesia Exhibition' Oct-Dec 1946.
 * https://wellcomecollection.org/works?query=centenary%20of%20anaesthesia%20exhibition&search=images
 

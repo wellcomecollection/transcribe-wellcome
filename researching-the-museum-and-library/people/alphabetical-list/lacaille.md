@@ -8,7 +8,7 @@
 A. Donald Lacaille (DATES)
 
 scientific staff, archaeologist. active 1928- [stayed until retirement?]
-active: 
+active:
 //pronounciation note//: Lacaille - to rhyme with black eye (Symons 1992, 58)
 
 [img[L0015160-tiny.jpg)

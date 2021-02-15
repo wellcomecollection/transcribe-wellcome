@@ -13,7 +13,7 @@ work at WHMM: Worked in ‘Greek and Roman section of the Materia Medica’. (Sy
 
 Cataloguing of 'donaria' (votive offerings), 1929.  Staff reports 1929 (WAHMM/RP/Sta/1, canvas 99).
 
-biographical notes: Graduate of Somerville college, Oxford in Classical Archaeology. 
+biographical notes: Graduate of Somerville college, Oxford in Classical Archaeology.
 left WHMM in 1932, after marrying Hermann Braunholtz of the British Museum Ethnographical Department. (“Our acquaintance had continued in spite of Malcolm’s objection to his staff ‘hob-nobbing’ with people from the B.M.”)
 
 sources: oral history in Symons 1987, pp.16-19.

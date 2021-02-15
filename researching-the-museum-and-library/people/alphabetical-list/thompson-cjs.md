@@ -5,7 +5,7 @@
 # Thompson Charles John Samuel
 
 
-C. J. S. [Charles John Samuel] Thompson  (b.1862-d.1943) 
+C. J. S. [Charles John Samuel] Thompson  (b.1862-d.1943)
 
 Pharmacist and writer.
 
