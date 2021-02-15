@@ -2,7 +2,7 @@
 
 
 
-# Wellcome Institute of-for the History of Medicine (WIHM)
+# Wellcome Institute of/for the History of Medicine (WIHM)
 
 
 Wellcome Institute of/for the History of Medicine (WIHM)
