@@ -1,2 +1,0 @@
-# Haggis, Alec W.J.
-
