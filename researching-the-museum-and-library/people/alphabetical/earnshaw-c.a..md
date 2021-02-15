@@ -1,2 +1,0 @@
-# Earnshaw, C.A.
-
