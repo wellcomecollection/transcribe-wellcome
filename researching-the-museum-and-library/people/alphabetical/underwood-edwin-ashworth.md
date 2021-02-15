@@ -1,2 +1,0 @@
-# Underwood, Edwin Ashworth
-
