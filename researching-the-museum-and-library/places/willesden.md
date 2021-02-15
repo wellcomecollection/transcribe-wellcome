@@ -10,11 +10,9 @@ description: Museum store and library
 
 [Plan of 1st floor](https://wellcomecollection.org/works/r6ceuvp5), February 1930
 
-Buildings files: [WA/HMM/CO/Sub/188](https://wellcomecollection.org/works/tsvcgas4) and [WA/HMM/CO/Sub/189](https://wellcomecollection.org/works/snx7zfe2). 
+Buildings files: [WA/HMM/CO/Sub/188](https://wellcomecollection.org/works/tsvcgas4) and [WA/HMM/CO/Sub/189](https://wellcomecollection.org/works/snx7zfe2).
 
 [Library store at Willesden, 1937](https://wellcomecollection.org/works/afek8yqz)
 
 [Photographs of Library stores, c.1937](https://wellcomecollection.org/works/n25bv8tp/items?canvas=17&langCode=false), with locations noted on reverse \(WA/HMM/LI/Pho\)
-
-
 
