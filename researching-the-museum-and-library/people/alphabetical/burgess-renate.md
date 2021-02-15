@@ -1,10 +1,6 @@
-
-
-
-
-# Burgess Renate
-
+# Burgess, Renate
 
 Dr Renate Burgess
 
-[[library staff]]
+\[\[library staff\]\]
+

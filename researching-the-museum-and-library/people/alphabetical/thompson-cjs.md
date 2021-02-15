@@ -1,11 +1,6 @@
+# Thompson, Charles John Samuel
 
-
-
-
-# Thompson Charles John Samuel
-
-
-C. J. S. [Charles John Samuel] Thompson  (b.1862-d.1943)
+C. J. S. \[Charles John Samuel\] Thompson \(b.1862-d.1943\)
 
 Pharmacist and writer.
 
@@ -15,5 +10,5 @@ Pharmacist and writer.
 
 In post as WHMM Curator 1913-1925
 
+\[\[museum staff\]\] \[\[travelling agent\]\] curator \[\[library staff\]\]
 
-[[museum staff]] [[travelling agent]] curator [[library staff]]

@@ -1,18 +1,8 @@
-
-
-
-
 # Welch
-
 
 Welch
 
-active:
-work at WHMM:
-biographical notes:
-sources:
-WC archive materials:
-image:
+active: work at WHMM: biographical notes: sources: WC archive materials: image:
 
+\[\[to research\]\]
 
-[[to research]]

@@ -1,9 +1,4 @@
-
-
-
-
-# Earnshaw C.A.
-
+# Earnshaw, C.A.
 
 active:
 
@@ -17,6 +12,5 @@ sources
 
 WC archive materials:
 
+\[\[library staff\]\]
 
-
-[[library staff]]
