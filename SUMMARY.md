@@ -46,4 +46,3 @@
 
 ## ABOUT TRANSCRIBE WELLCOME
 
-* [Navigation](about-transcribe-wellcome/navigating.md)
