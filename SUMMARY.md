@@ -85,7 +85,7 @@
     * [Sambon, Louis Westenra](researching-the-museum-and-library/people/alphabetical/sambon-louis-westenra.md)
     * [Samson, Otto William](researching-the-museum-and-library/people/alphabetical/samson-otto-william.md)
     * [Shawe, J.](researching-the-museum-and-library/people/alphabetical/shawe-j.md)
-    * [Shirreff, Frances Gordon](researching-the-museum-and-library/people/alphabetical/shirreff-frances-gordon.md)
+    * [Shirreff, Frances Gordon](researching-the-museum-and-library/people/alphabetical/shirreff.md)
     * [Sizer, C.A.](researching-the-museum-and-library/people/alphabetical/sizer-ca.md)
     * [Smith, Miss](researching-the-museum-and-library/people/alphabetical/smith-miss.md)
     * [Spielmann, Marion Harry Alexander](researching-the-museum-and-library/people/alphabetical/spielmann.md)
