@@ -6,9 +6,9 @@ description: 'P, PD and PR'
 
 ## Prints and Photographs accessioned before 1918
 
-Some prints and photographs were accessioned, probably by the library rather than museum, before 1918, in a sequence P1 to P1874: WA/HMM/IC/1/4. 
+Some prints and photographs were accessioned, probably by the library rather than museum, before 1918, in a sequence P1 to P1874: WA/HMM/IC/1/4.
 
-Not to be confused with paintings registered in the museum [\(old\) registration system](https://docs.wellcomecollection.org/transcribe-wellcome/researching-the-museum-and-library/documentation-systems/old-registration-system) with a P prefix. 
+Not to be confused with paintings registered in the museum [\(old\) registration system](https://docs.wellcomecollection.org/transcribe-wellcome/researching-the-museum-and-library/documentation-systems/old-registration-system) with a P prefix.
 
 ## PD and PD Year Numbers
 
@@ -26,9 +26,5 @@ Registers PR 1 to PR 1104 \(WA/HMM/IC/1/7\). Later registers are missing but pro
 
 ### 1981 to 2000
 
-Paintings and prints were accessioned into the [library accession registers](https://docs.wellcomecollection.org/transcribe-wellcome/researching-the-museum-and-library/documentation-systems/library-accessions) from December 1981 to December 2000.  
-
-
-
-
+Paintings and prints were accessioned into the [library accession registers](https://docs.wellcomecollection.org/transcribe-wellcome/researching-the-museum-and-library/documentation-systems/library-accessions) from December 1981 to December 2000.
 

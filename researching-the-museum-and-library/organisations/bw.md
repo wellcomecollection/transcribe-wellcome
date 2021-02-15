@@ -1,9 +1,4 @@
-
-
-
-
-# Burroughs Wellcome & Company (BW&Co)
-
+# Burroughs Wellcome & Company
 
 Burroughs Wellcome & Company
 
@@ -12,3 +7,4 @@ Pharmaceutical company established by Henry S. Wellcome and Silas Burroughs. Wel
 London headquarters was Snow Hill Buildings.
 
 institution
+
