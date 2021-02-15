@@ -1,2 +1,0 @@
-# Lacaille, A. Donald
-
