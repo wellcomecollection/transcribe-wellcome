@@ -1,2 +1,0 @@
-# Uribe, Julio \(Major\)
-
