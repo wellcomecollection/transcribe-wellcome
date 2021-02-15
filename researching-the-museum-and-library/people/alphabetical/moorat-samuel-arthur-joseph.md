@@ -1,2 +1,0 @@
-# Moorat, Samuel Arthur Joseph
-
