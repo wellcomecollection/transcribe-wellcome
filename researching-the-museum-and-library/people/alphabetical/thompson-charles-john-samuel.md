@@ -1,2 +1,0 @@
-# Thompson, Charles John Samuel
-
