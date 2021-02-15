@@ -1,2 +1,0 @@
-# Gardner, S.B.
-
