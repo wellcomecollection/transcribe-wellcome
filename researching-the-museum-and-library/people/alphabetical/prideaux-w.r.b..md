@@ -1,2 +1,0 @@
-# Prideaux, W.R.B.
-
