@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Terminology & Language](language.md)
 
 ## RESEARCHING THE MUSEUM & LIBRARY
 
