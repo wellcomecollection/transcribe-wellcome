@@ -1,2 +1,0 @@
-# Cooper-Reade, J.B.
-
