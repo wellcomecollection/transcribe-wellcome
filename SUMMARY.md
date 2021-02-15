@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [An important note about terminology and language](language.md)
+* [Terminology and language](language.md)
 
 ## RESEARCHING THE MUSEUM & LIBRARY
 

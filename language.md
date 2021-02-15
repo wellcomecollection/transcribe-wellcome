@@ -1,4 +1,6 @@
-# An important note about terminology and language
+# Terminology and language
+
+## An important note about terminology and language
 
 The Wellcome Historical Medical Museum and Library index cards and registers were predominantly compiled between the 1890s and the 1970s. Much of the information recorded on the accession cards was copied verbatim from auction sales catalogues, which were notoriously inaccurate.
 
