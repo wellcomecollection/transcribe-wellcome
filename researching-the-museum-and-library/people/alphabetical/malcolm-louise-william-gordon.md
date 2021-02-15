@@ -1,2 +1,0 @@
-# Malcolm, Louise William Gordon
-
