@@ -1,2 +1,0 @@
-# Barber-Lomax, John Walker
-
