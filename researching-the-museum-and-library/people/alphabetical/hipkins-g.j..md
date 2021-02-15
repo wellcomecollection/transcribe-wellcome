@@ -1,2 +1,0 @@
-# Hipkins, G.J.
-
