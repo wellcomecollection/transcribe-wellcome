@@ -44,3 +44,7 @@
 * [WHMM Flimsy Slips](transcription-guidelines/whmm-flimsy-slips/README.md)
   * [General Instructions](transcription-guidelines/whmm-flimsy-slips/general-instructions.md)
 
+---
+
+* [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
+
