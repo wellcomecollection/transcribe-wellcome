@@ -36,6 +36,7 @@
   * [Willesden](research/places/willesden.md)
 * [Auction Houses](research/auction-houses.md)
 * [Organisations](research/organisations.md)
+* [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
 
 ## TRANSCRIPTION GUIDELINES
 
@@ -43,8 +44,4 @@
 * [Transcription Setup](transcription-guidelines/transcription-setup.md)
 * [WHMM Flimsy Slips](transcription-guidelines/whmm-flimsy-slips/README.md)
   * [General Instructions](transcription-guidelines/whmm-flimsy-slips/general-instructions.md)
-
----
-
-* [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
 
