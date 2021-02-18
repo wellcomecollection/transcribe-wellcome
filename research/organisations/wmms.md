@@ -12,11 +12,11 @@ The nucleus of the exhibits came from the Dresden and Ghent exhibitions, supplem
 
 In 1920 the Museum and Bureau moved to premises on the corner of Euston Road and Gordon Street and an active period of expansion, re-arrangement and labelling took place. In 1922 classes of students, consisting chiefly of missionaries and educationalists, were given formal demonstrations on tropical medicine and hygiene. However, in 1923 the establishment of the London School of Hygiene and Tropical Medicine, which had a museum of its own meant a change of direction and the Wellcome museum began to embrace general medicine as well and in \[1924 or\] 1926 it was re-named the Wellcome Museum of Medical Science. In 1926 it transferred to 28 Endsleigh Gardens \(later Endsleigh Court, 33 Gordon Street\), moving again in 1932 to the ground floor of the Wellcome Building at 183 Euston Road.
 
-In the 1930s the WMMS became a centre for postgraduate study of tropical diseases and for undergraduate teaching of medicine in general. It was closed from 1939-1946 and when it re-opened after the war it was reduced in size and specialised in the teaching of tropical medicine. It activities dovetailed with the Wellcome Laboratories of Tropical Medicine which were established at this time as the successors to the former Bureau of Scientific Research. In the 1950s its new emphasis was not on tropical medicine but on the practice of medicine in the tropics.
+In the 1930s the WMMS became a centre for postgraduate study of tropical diseases and for undergraduate teaching of medicine in general. It was closed from 1939-1946, with specimens being put into storage in North London to escape the Blitz. When it re-opened after the war the museum was reduced in size and specialised in the teaching of tropical medicine, becoming a centre for postgraduate study under a new Director, Dr C.J. Hackett. It activities dovetailed with the Wellcome Laboratories of Tropical Medicine which were established at this time as the successors to the former Bureau of Scientific Research. In the 1950s its new emphasis was not on tropical medicine but on the practice of medicine in the tropics.
 
 In 1983 the Museum was transferred from the Company to the Wellcome Trust, which had already taken over the Wellcome Institute.
 
-In 1985 the functions were taken over by the Wellcome Tropical Institute \[WTI\], which in turn was succeeded by the Wellcome Tropical Resource c.1988.
+In 1985 the functions were taken over by the Wellcome Tropical Institute \[WTI\], which in turn was succeeded by the Wellcome Tropical Resource c.1988. The museum was closed in 1989. 
 
 ### Curators/Directors 
 
@@ -25,7 +25,7 @@ In 1985 the functions were taken over by the Wellcome Tropical Institute \[WTI\]
 | 1919 | Lt. Col. George Buchanan |
 | 1919-c1939 & 1945-1946 | Dr Sidney Daukes |
 | 1946-1954 | Dr C.J. Hackett |
-| 1954-1955 | Dr R.Y.Dunlop |
+| 1954-1955 | Dr R.Y. Dunlop |
 | 1956-1964 | Col. C.A. Bozman |
 | 1964?-1984 | A.J. Duggan |
 
