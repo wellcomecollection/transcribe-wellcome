@@ -2,7 +2,7 @@
 description: formerly Wellcome Museum of Tropical Medicine & Hygiene
 ---
 
-# Wellcome Museum of Medical Science
+# Wellcome Museum of Medical Science \(WMMS\)
 
 Established 1914 as Wellcome Museum of Tropical Medicine & Hygiene, and part of the [Wellcome Bureau of Scientific Research \[WBSR\]](https://docs.wellcomecollection.org/transcribe-wellcome/v/drafts/research/organisations/wbsr).
 

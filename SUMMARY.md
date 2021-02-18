@@ -122,7 +122,7 @@
   * [Wellcome Chemical Research Laboratories](research/organisations/wcrl.md)
   * [Wellcome Historical Medical Museum](research/organisations/whmm.md)
   * [Wellcome Institute of/for the History of Medicine](research/organisations/wihm.md)
-  * [Wellcome Museum of Medical Science](research/organisations/wmms.md)
+  * [Wellcome Museum of Medical Science \(WMMS\)](research/organisations/wmms.md)
   * [Wellcome Physiological Research Laboratories](research/organisations/wprl.md)
   * [Wellcome Tropical Research Laboratories](research/organisations/wtrl.md)
 
