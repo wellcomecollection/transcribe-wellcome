@@ -29,5 +29,5 @@ In 1985 the functions were taken over by the Wellcome Tropical Institute \[WTI\]
 | 1956-1964 | Col. C.A. Bozman |
 | 1964?-1984 | A.J. Duggan |
 
-
+See Adrian Steel and Lesley A. Hall, “Sir Henry Wellcome’s Archival Legacy and the Contemporary Historian,” Contemporary British History 17, no. 3 \(2003\): 95–111, [http://www.tandfonline.com/doi/abs/10.1080/13619460308565453](http://www.tandfonline.com/doi/abs/10.1080/13619460308565453).
 
