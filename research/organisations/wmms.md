@@ -16,7 +16,7 @@ In the 1930s the WMMS became a centre for postgraduate study of tropical disease
 
 In 1983 the Museum was transferred from the Company to the Wellcome Trust, which had already taken over the Wellcome Institute.
 
-In 1985 the functions were taken over by the Wellcome Tropical Institute \[WTI\].
+In 1985 the functions were taken over by the Wellcome Tropical Institute \[WTI\], which in turn was succeeded by the Wellcome Tropical Resource c.1988.
 
 ### Curators/Directors 
 
