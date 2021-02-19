@@ -36,7 +36,7 @@
   * [Willesden](research/places/willesden.md)
 * [Auction Houses](research/auction-houses.md)
 * [Organisations](research/organisations/README.md)
-  * [Untitled](research/organisations/untitled.md)
+  * [Wellcome Museum of Medical Science (WMMS)](research/organisations/wmms.md)
 * [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
 
 ## TRANSCRIPTION GUIDELINES
@@ -45,4 +45,3 @@
 * [Transcription Setup](transcription-guidelines/transcription-setup.md)
 * [WHMM Flimsy Slips](transcription-guidelines/whmm-flimsy-slips/README.md)
   * [General Instructions](transcription-guidelines/whmm-flimsy-slips/general-instructions.md)
-
