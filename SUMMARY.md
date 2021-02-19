@@ -35,7 +35,8 @@
   * [Stratford Mews](research/places/stratford-mews.md)
   * [Willesden](research/places/willesden.md)
 * [Auction Houses](research/auction-houses.md)
-* [Organisations](research/organisations.md)
+* [Organisations](research/organisations/README.md)
+  * [Untitled](research/organisations/untitled.md)
 * [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
 
 ## TRANSCRIPTION GUIDELINES
