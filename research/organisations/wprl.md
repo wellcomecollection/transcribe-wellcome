@@ -2,7 +2,7 @@
 
 Wellcome Physiological Research Laboratories \(WPRL\)
 
-Established c.1899 as a laboratory under the directorship of Dr Walter Dowson. Theoretically independent of \[Burroughs Wellcome & Company\]\(Burroughs Wellcome & Company \(BW&Co\)\) but in practice administered through their head office and carried out some work on company products.
+Established c.1899 as a laboratory under the directorship of Dr Walter Dowson. Theoretically independent of [Burroughs Wellcome & Company](research/organisations/bw.md) but in practice administered through their head office and carried out some work on company products.
 
 Located at Beckenham, London from 1922.
 
