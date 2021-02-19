@@ -1,7 +1,11 @@
 # Table of contents
 
 * [Introduction](README.md)
+<<<<<<< HEAD
 * [Terminology & Language](language.md)
+=======
+* [Terminology and language](language.md)
+>>>>>>> 62de8d1130125be715f281405ca302b437c11ad9
 
 ## RESEARCHING THE MUSEUM & LIBRARY <a id="research"></a>
 
@@ -24,6 +28,7 @@
     * [Amoruso, Arthur](research/people/alphabetical/amoruso-arthur.md)
     * [Barber-Lomax, John Walker](research/people/alphabetical/barber-lomax.md)
     * [Barnard, Cyril Cuthbert](research/people/alphabetical/barnard-cyril-cuthbert.md)
+<<<<<<< HEAD
     * [Bishop, W.J.](research/people/alphabetical/bishop-wj.md)
     * [Borer, Mary Cathcart](research/people/alphabetical/borer-mary-cathcart.md)
     * [Boscawen, William St Chad](research/people/alphabetical/boscawen-william-st-chad.md)
@@ -97,12 +102,16 @@
     * [Webb, Mr](research/people/alphabetical/webb-mr.md)
     * [Welch](research/people/alphabetical/welch.md)
     * [Wilkes, Mr](research/people/alphabetical/wilkes-mr.md)
+=======
+    * [Borer, Mary Cathcart](research/people/alphabetical/borer-mary-cathcart.md)
+>>>>>>> 62de8d1130125be715f281405ca302b437c11ad9
   * [Collectors](research/people/collectors.md)
 * [Places](research/places/README.md)
   * [Aldersgate Street](research/places/aldersgate-street.md)
   * [Beckenham](research/places/beckenham.md)
   * [Bushey Hill Road](research/places/bushey-hill-road.md)
   * [Crystal Palace Road](research/places/crystal-palace-road.md)
+<<<<<<< HEAD
   * [Dartford Works](research/places/dartford-works.md)
   * [Easley Mews](research/places/easley-mews.md)
   * [Henrietta Street](research/places/henrietta-street.md)
@@ -125,6 +134,14 @@
   * [Wellcome Museum of Medical Science](research/organisations/wmms.md)
   * [Wellcome Physiological Research Laboratories](research/organisations/wprl.md)
   * [Wellcome Tropical Research Laboratories](research/organisations/wtrl.md)
+=======
+  * [Easley Mews](research/places/easley-mews.md)
+  * [Stratford Mews](research/places/stratford-mews.md)
+  * [Willesden](research/places/willesden.md)
+* [Auction Houses](research/auction-houses.md)
+* [Organisations](research/organisations.md)
+* [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
+>>>>>>> 62de8d1130125be715f281405ca302b437c11ad9
 
 ## TRANSCRIPTION GUIDELINES
 
@@ -133,5 +150,8 @@
 * [WHMM Flimsy Slips](transcription-guidelines/whmm-flimsy-slips/README.md)
   * [General Instructions](transcription-guidelines/whmm-flimsy-slips/general-instructions.md)
 
+<<<<<<< HEAD
 ## ABOUT TRANSCRIBE WELLCOME
 
+=======
+>>>>>>> 62de8d1130125be715f281405ca302b437c11ad9
