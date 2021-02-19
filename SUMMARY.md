@@ -37,6 +37,7 @@
   * [Willesden](research/places/willesden.md)
 * [Auction Houses](research/auction-houses.md)
 * [Organisations](research/organisations/README.md)
+  * [Epworth & Co.](research/organisations/epworth-co.md)
   * [Wellcome Museum of Medical Science (WMMS)](research/organisations/wmms.md)
 * [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
 
