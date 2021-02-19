@@ -25,6 +25,7 @@
     * [Barber-Lomax, John Walker](research/people/alphabetical/barber-lomax.md)
     * [Barnard, Cyril Cuthbert](research/people/alphabetical/barnard-cyril-cuthbert.md)
     * [Borer, Mary Cathcart](research/people/alphabetical/borer-mary-cathcart.md)
+    * [Daukes, S.H.](research/people/alphabetical/daukes-sh.md)
   * [Collectors](research/people/collectors.md)
 * [Places](research/places/README.md)
   * [Aldersgate Street](research/places/aldersgate-street.md)
