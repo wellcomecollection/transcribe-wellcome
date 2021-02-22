@@ -1,5 +1,5 @@
 ---
-description: Epworth & Co., pseudonymous company name used by C.J.S.Thompson when purchasing items.
+description: Pseudonymous company name used by C.J.S.Thompson when purchasing items.
 ---
 
 # Epworth & Co.

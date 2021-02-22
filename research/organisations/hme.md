@@ -1,5 +1,5 @@
 ---
-description: Temporary exhibition of medical history, originally planned for 1903, finally opened 1913.
+description: Temporary exhibition of medical history planned for 1903. Finally opened 1913.
 ---
 
 # Historical Medical Exhibition
