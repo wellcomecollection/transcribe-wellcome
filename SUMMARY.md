@@ -52,4 +52,5 @@
 ## Contributing to Transcribe Wellcome
 
 * [Transcribers](contributing-to-transcribe-wellcome/new-transcribers.md)
+* [Recipient Museums & Libraries](contributing-to-transcribe-wellcome/recipient-museums-and-libraries.md)
 
