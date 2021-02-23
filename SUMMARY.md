@@ -49,3 +49,7 @@
 * [Museum Flimsy Slips](transcription-guidelines/museum-flimsy-slips/README.md)
   * [General Instructions](transcription-guidelines/museum-flimsy-slips/general-instructions.md)
 
+## Contributing to Transcribe Wellcome
+
+* [Untitled](contributing-to-transcribe-wellcome/untitled.md)
+
