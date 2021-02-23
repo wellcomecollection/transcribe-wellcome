@@ -1,12 +1,8 @@
+---
+description: Guide for Transcribers
+---
+
 # Library Registers
-
-![A picture containing drawing
-
-Description automatically generated](../.gitbook/assets/0.jpeg)
-
-**Guide for Transcribers**
-
-**Wellcome Library Accession Registers**
 
 ![](../.gitbook/assets/1.jpeg)![](../.gitbook/assets/2.jpeg)
 
@@ -80,70 +76,6 @@ Description automatically generated](../.gitbook/assets/0.jpeg)
     </tr>
   </tbody>
 </table>
-
-Contents
-
-[Transcription Setup 4]()
-
-[Transcribing directly from the Wellcome Library website 4]()
-
-[Transcribing from PDF 5]()
-
-[Setting up your desktop 5]()
-
-[Using Grp\_Wellcome Transcribers 6]()
-
-[Creative Commons Licence 7]()
-
-[The Transcription Spreadsheet 8]()
-
-[General transcription instructions 8]()
-
-[Column Headings 9]()
-
-[Date of Accession \(Column A\) 9]()
-
-[AccNo \(Column B\) 9]()
-
-[Register and Volume URL \(Columns C and D\) 9]()
-
-[LH Page Image no./RH Page Image no. \(Columns E and F\) 10]()
-
-[Location Number \(Column G\) 10]()
-
-[Author \(Column H\) 10]()
-
-[Title/Description \(Column I\) 10]()
-
-[No of vols. \(V or P\) \(Column J\) 10]()
-
-[No. of vols \(Manuscripts\) \(Column K\) 10]()
-
-[Size \(Column L\) 10]()
-
-[Place of Publication \(Imprint\) \(Column M\) 10]()
-
-[Date of Publication \(Imprint\) \(Column N\) 11]()
-
-[Printer \(Column O\) 11]()
-
-[Price/Cost \(Column P\) 11]()
-
-[Valuation \(Column Q\) 11]()
-
-[Donor or Vendor \(Source\) \(Column R\) 11]()
-
-[Lot Number \(Column S\) 12]()
-
-[Condition \(Column T\) 12]()
-
-[Remarks \(Column U\) 12]()
-
-[Transcribed by \(Column V\) 12]()
-
-[Transcriber’s Notes \(Column W\) 12]()
-
-[Creative Commons Licence \(Column X\) 12]()
 
 ## Transcription Setup
 

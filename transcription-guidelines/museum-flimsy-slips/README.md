@@ -1,12 +1,8 @@
+---
+description: Guide for Transcribers
+---
+
 # Museum Flimsy Slips
-
-![A picture containing drawing
-
-Description automatically generated](../../.gitbook/assets/0%20%281%29.jpeg)
-
-**Guide for Transcribers**
-
-**Wellcome Historical Medical Museum Flimsy Slips**
 
 ![](../../.gitbook/assets/1.png)
 
@@ -78,80 +74,12 @@ Description automatically generated](../../.gitbook/assets/0%20%281%29.jpeg)
           <li>email address changed to .org in Transcribed by Column</li>
           <li>Additional notes column &#x2013; stamp structure and how to enter other
             notes</li>
-          <li>R numbers &#x2013; how to transcriber a range</li>
+          <li>R numbers &#x2013; how to transcribe a range</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
-
-**Version History**
-
-Contents
-
-[Transcription Setup 4]()
-
-[Transcribing directly from the Wellcome Library website: 4]()
-
-[Using Grp\_Wellcome Transcribers 5]()
-
-[Transcribing from PDF 6]()
-
-[Setting up your desktop 6]()
-
-[The Transcription Spreadsheet 7]()
-
-[General transcription instructions 7]()
-
-[Green Column Headings 8]()
-
-[A number \(column A\) 8]()
-
-[Columns B and C 9]()
-
-[Image no. \(column D\) 9]()
-
-[Sub number \(column E\) 9]()
-
-[R number \(column F\) 9]()
-
-[Classification \(column G\) 9]()
-
-[Group \(column H\) 9]()
-
-[Section \[T\] \(column I\) 10]()
-
-[Section \[C\] \(column J\) 10]()
-
-[Description of object \(column K\) 10]()
-
-[Bought of \(column L\) 10]()
-
-[Value \(column M\) 11]()
-
-[At present \(column N\) 11]()
-
-[Case No. \(column O\) 11]()
-
-[To be placed \(column P\) 11]()
-
-[Additional notes on flimsy \(column Q\) 11]()
-
-[Blue Column Headings 11]()
-
-[Acquisition Date \(column R\) 11]()
-
-[Auction House \(column S\) 12]()
-
-[Lot No. \(column T\) 12]()
-
-[Yellow Column Headings 12]()
-
-[Transcribed By \(column U\) 12]()
-
-[Transcriber’s Notes \(column V\) 13]()
-
-[Upon completion 13]()
 
 ### Transcription Setup
 
