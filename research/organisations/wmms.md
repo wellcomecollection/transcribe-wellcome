@@ -1,8 +1,10 @@
 ---
-description: Est 1914 as Wellcome Museum of Tropical Medicine & Hygiene. Renamed WMMS 1926. Closed 1989.
+description: >-
+  Est 1914 as Wellcome Museum of Tropical Medicine & Hygiene. Renamed WMMS 1926.
+  Closed 1989.
 ---
 
-# Wellcome Museum of Medical Science (WMMS)
+# Wellcome Museum of Medical Science
 
 Established 1914 as Wellcome Museum of Tropical Medicine & Hygiene, and part of the [Wellcome Bureau of Scientific Research \[WBSR\]](https://docs.wellcomecollection.org/transcribe-wellcome/v/drafts/research/organisations/wbsr).
 
@@ -18,7 +20,7 @@ In 1983 the Museum was transferred from the Company to the Wellcome Trust, which
 
 In 1985 the functions were taken over by the Wellcome Tropical Institute \[WTI\], which in turn was succeeded by the Wellcome Tropical Resource c.1988. The museum was closed in 1989.
 
-### Curators/Directors
+## Curators/Directors
 
 | Dates | Name |
 | :--- | :--- |
@@ -30,3 +32,4 @@ In 1985 the functions were taken over by the Wellcome Tropical Institute \[WTI\]
 | 1964?-1984 | A.J. Duggan |
 
 See Adrian Steel and Lesley A. Hall, “Sir Henry Wellcome’s Archival Legacy and the Contemporary Historian,” Contemporary British History 17, no. 3 \(2003\): 95–111, [http://www.tandfonline.com/doi/abs/10.1080/13619460308565453](http://www.tandfonline.com/doi/abs/10.1080/13619460308565453).
+

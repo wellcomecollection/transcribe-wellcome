@@ -133,4 +133,3 @@
 * [WHMM Flimsy Slips](transcription-guidelines/whmm-flimsy-slips/README.md)
   * [General Instructions](transcription-guidelines/whmm-flimsy-slips/general-instructions.md)
 
-## ABOUT TRANSCRIBE WELLCOME
