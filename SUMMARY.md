@@ -45,7 +45,7 @@
 
 * [Wellcome Transcribers' Group](transcription-guidelines/grp-wellcome-transcribers.md)
 * [Transcription Setup](transcription-guidelines/transcription-setup.md)
-* [Untitled](transcription-guidelines/untitled.md)
-* [WHMM flimsy slips](transcription-guidelines/whmm-flimsy-slips/README.md)
-  * [General Instructions](transcription-guidelines/whmm-flimsy-slips/general-instructions.md)
+* [Library Registers](transcription-guidelines/library-registers.md)
+* [Museum Flimsy Slips](transcription-guidelines/museum-flimsy-slips/README.md)
+  * [General Instructions](transcription-guidelines/museum-flimsy-slips/general-instructions.md)
 

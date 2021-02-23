@@ -1,8 +1,8 @@
-# WHMM flimsy slips
+# Museum Flimsy Slips
 
 ![A picture containing drawing
 
-Description automatically generated](../../.gitbook/assets/0.jpeg)
+Description automatically generated](../../.gitbook/assets/0%20%281%29.jpeg)
 
 **Guide for Transcribers**
 
@@ -168,11 +168,11 @@ This link takes you to a specific set of images corresponding to a box full of �
 
 The images on the Wellcome Library website are higher quality than those available when you download a PDF. This means that you can expand the image to full screen without loss of resolution using the controls at the bottom of the Viewer:
 
-![](../../.gitbook/assets/3.png) to expand to full screen view and ![](../../.gitbook/assets/4.png) to exit back to the browser tab.
+![](../../.gitbook/assets/3%20%281%29.png) to expand to full screen view and ![](../../.gitbook/assets/4%20%281%29.png) to exit back to the browser tab.
 
 **Image Number**: If you decide to transcribe directly from the website, change the counter on the top \(grey\) toolbar of the Viewer window from ‘Page’ to ‘Image’ before you begin transcribing:
 
-![](../../.gitbook/assets/5.png)
+![](../../.gitbook/assets/5%20%281%29.png)
 
 ### Using Grp\_Wellcome Transcribers
 
@@ -208,7 +208,7 @@ You may find it more convenient to transcribe from a PDF, which can be used offl
 
 To download a PDF of all the flimsy slips:
 
-Click on ![](../../.gitbook/assets/6.png) at the bottom left of the Viewer.
+Click on ![](../../.gitbook/assets/6%20%281%29.png) at the bottom left of the Viewer.
 
 Check ‘Download as PDF \(pdf\)’ from the options menu
 
