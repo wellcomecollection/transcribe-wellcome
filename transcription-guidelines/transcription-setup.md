@@ -2,7 +2,7 @@
 
 You can transcribe either directly from the [Wellcome Collection](https://wellcomecollection.org) website or from a downloaded PDF of the digitised images.
 
-Each transcription volunteer will be sent a transcription spreadsheet template and a URL link to a catalogue entry e.g. [https://wellcomecollection.org/works/z5p7gm97](https://wellcomecollection.org/works/z5p7gm97)
+Each transcriber will be sent a transcription spreadsheet template and a URL link to a catalogue entry e.g. [https://wellcomecollection.org/works/z5p7gm97](https://wellcomecollection.org/works/z5p7gm97)
 
 Click on the 'View' button on the catalogue entry, and this takes you to a specific set of images, of entries in a register or corresponding to a box full of ‘flimsy slips’ - index cards printed on lightweight, ‘flimsy’ paper. If a message about ‘Archival material less than 100 years old’ pops up, click ‘Accept Terms and Open’ in order to load the flimsy slips into the Viewer.
 
