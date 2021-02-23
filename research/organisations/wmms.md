@@ -8,7 +8,7 @@ Established 1914 as Wellcome Museum of Tropical Medicine & Hygiene, and part of 
 
 The initiative for establishing the Museum lay with Balfour. The [Wellcome Tropical Research Laboratories in Khartoum \[WTRL\]](https://docs.wellcomecollection.org/transcribe-wellcome/v/drafts/research/organisations/wtrl) included a museum formed of material which he had collected as a by-product of its work and he had also undertaken medical exhibitions as Dresden and Ghent dealing with selected tropical diseases. In 1913 when Balfour returned to London to direct the [Wellcome Bureau of Scientific Research \[WBSR\]](https://docs.wellcomecollection.org/transcribe-wellcome/v/drafts/research/organisations/wbsr), he proposed the establishment of a graphic Museum of Tropical Medicine and Hygiene. In 1914 a Museum was established at 10 Henrietta Street, London reporting to the WBSR for the purposes of administration and finance.
 
-The nucleus of the exhibits came from the Dresden and Ghent exhibitions, supplemented by a variety of material relating to tropical medicine collected by Balfour and his staff during their overseas travels, largely zoological material. In 1919 the Museum moved to 8 Vere Street, opposite the building which housed the WBSR and in January that year, Dr G. Buchanan, who had served in the laboratories in Khartoum was appointed first full-time Curator. He was succeeded in June by [Dr S.H. Daukes](research/people/alphabetical/daukes-sh.md) who had organised the visual teaching at the Leeds School of Army Hygiene. The Museum was chiefly concerned with the prophylactics of tropical diseases, with special reference to their cause, transmission and methods of prevention.
+The nucleus of the exhibits came from the Dresden and Ghent exhibitions, supplemented by a variety of material relating to tropical medicine collected by Balfour and his staff during their overseas travels, largely zoological material. In 1919 the Museum moved to 8 Vere Street, opposite the building which housed the WBSR and in January that year, Dr G. Buchanan, who had served in the laboratories in Khartoum was appointed first full-time Curator. He was succeeded in June by [Dr S.H. Daukes](https://github.com/wellcomecollection/transcribe-wellcome/tree/2e37371365319692b5b3e529620aed1c9dab66e4/research/organisations/research/people/alphabetical/daukes-sh.md) who had organised the visual teaching at the Leeds School of Army Hygiene. The Museum was chiefly concerned with the prophylactics of tropical diseases, with special reference to their cause, transmission and methods of prevention.
 
 In 1920 the Museum and Bureau moved to premises on the corner of Euston Road and Gordon Street and an active period of expansion, re-arrangement and labelling took place. In 1922 classes of students, consisting chiefly of missionaries and educationalists, were given formal demonstrations on tropical medicine and hygiene. However, in 1923 the establishment of the London School of Hygiene and Tropical Medicine, which had a museum of its own meant a change of direction and the Wellcome museum began to embrace general medicine as well and in \[1924 or\] 1926 it was re-named the Wellcome Museum of Medical Science. In 1926 it transferred to 28 Endsleigh Gardens \(later Endsleigh Court, 33 Gordon Street\), moving again in 1932 to the ground floor of the Wellcome Building at 183 Euston Road.
 
@@ -18,7 +18,7 @@ In 1983 the Museum was transferred from the Company to the Wellcome Trust, which
 
 In 1985 the functions were taken over by the Wellcome Tropical Institute \[WTI\], which in turn was succeeded by the Wellcome Tropical Resource c.1988. The museum was closed in 1989.
 
-### Curators/Directors
+## Curators/Directors
 
 | Dates | Name |
 | :--- | :--- |
@@ -30,3 +30,4 @@ In 1985 the functions were taken over by the Wellcome Tropical Institute \[WTI\]
 | 1964?-1984 | A.J. Duggan |
 
 See Adrian Steel and Lesley A. Hall, “Sir Henry Wellcome’s Archival Legacy and the Contemporary Historian,” Contemporary British History 17, no. 3 \(2003\): 95–111, [http://www.tandfonline.com/doi/abs/10.1080/13619460308565453](http://www.tandfonline.com/doi/abs/10.1080/13619460308565453).
+

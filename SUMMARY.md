@@ -38,12 +38,14 @@
 * [Auction Houses](research/auction-houses.md)
 * [Organisations](research/organisations/README.md)
   * [Epworth & Co.](research/organisations/epworth-co.md)
-  * [Wellcome Museum of Medical Science (WMMS)](research/organisations/wmms.md)
+  * [Wellcome Museum of Medical Science \(WMMS\)](research/organisations/wmms.md)
 * [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
 
 ## TRANSCRIPTION GUIDELINES
 
 * [Wellcome Transcribers' Group](transcription-guidelines/grp-wellcome-transcribers.md)
 * [Transcription Setup](transcription-guidelines/transcription-setup.md)
-* [WHMM Flimsy Slips](transcription-guidelines/whmm-flimsy-slips/README.md)
+* [Untitled](transcription-guidelines/untitled.md)
+* [WHMM flimsy slips](transcription-guidelines/whmm-flimsy-slips/README.md)
   * [General Instructions](transcription-guidelines/whmm-flimsy-slips/general-instructions.md)
+
