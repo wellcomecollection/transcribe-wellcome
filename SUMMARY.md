@@ -51,5 +51,5 @@
 
 ## Contributing to Transcribe Wellcome
 
-* [Untitled](contributing-to-transcribe-wellcome/untitled.md)
+* [Transcribers](contributing-to-transcribe-wellcome/new-transcribers.md)
 
