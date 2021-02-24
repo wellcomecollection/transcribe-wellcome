@@ -6,21 +6,7 @@ description: Guide for Transcribers
 
 ![](../.gitbook/assets/1.jpeg)![](../.gitbook/assets/2.jpeg)
 
-
-
-
-
-### Creative Commons Licence
-
-While Wellcome waives copyright in transcriptions completed by staff, a Creative Commons zero \(CC0\) licence has been applied to allow for individuals outside of Wellcome to work on transcription. The full text of the licence can be found below.
-
-_Transcriptions of items held within the Wellcome Collection will only be accepted by Wellcome if provided under a Creative Commons 0 \(“CC-0”\) licence. This CC-0 licence \(also known as a “public domain dedication”\) allows you to waive copyright and database interests in the submitted works and thereby to place them as completely as possible in the public domain. Others can freely build upon, enhance and reuse your contributions for any purposes without restriction under copyright or database law. It also means that Wellcome can share your submitted transcription with Wikidata._
-
-_Wellcome is committed to safeguarding your personal information in accordance with data protection law. Our privacy statement \(_[_https://wellcome.ac.uk/sites/default/files/wellcome-privacy-statement-20190805.pdf_](https://wellcome.ac.uk/sites/default/files/wellcome-privacy-statement-20190805.pdf)_\) explains how, and on what legal basis, we collect, store, and use any personal information which you share with us in connection with your sharing transcriptions with us._
-
-If you have any questions regarding the CC0 licence, please get in touch via Teams.
-
-## The Transcription Spreadsheet
+### The Transcription Spreadsheet
 
 The column headings in the transcription spreadsheet correspond – broadly – to the headings printed in the thirteen Library Accession Registers, plus some additional columns for recording details which may be useful for future data analysis and online search. It is indicated in the column heading instructions if, and where, headings differ between spreadsheet and Register e.g. Location Number \(Column G\) \[excluding Registers 3;12;13\].
 
