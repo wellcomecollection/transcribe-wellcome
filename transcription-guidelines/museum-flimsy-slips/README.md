@@ -146,7 +146,7 @@ Then click Download to create a PDF which you can save to your computer or other
 
 **Important note**: if you choose to transcribe from PDF, _the image number must be transcribed as_ _**the PDF page number minus 1**_, because of the cover sheet added to the PDF.
 
-### Setting up your desktop
+### 
 
 Open the transcription spreadsheet you have been sent. The column headings in the spreadsheet are explained in the section about [the Transcription Spreadsheet]() below.
 

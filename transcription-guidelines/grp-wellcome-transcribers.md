@@ -12,3 +12,11 @@ There are several channels within the group:
 * **FAQ:** A channel answering frequently asked questions on all aspects of the transcription work.
 * **Transcribe Wellcome \[TW\]:** A channel for updates, questions and requests regarding the Transcribe Wellcome database.
 
+### Completed Spreadsheets
+
+Once you have fully completed all the records in your spreadsheet, please upload your file to **Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In there you will see a **‘Completed Spreadsheets’** folder, please upload your file there:
+
+![](../.gitbook/assets/image.png)
+
+When you have uploaded your sheet, please leave a message in your respective channel so that the team are kept up to date.
+

@@ -6,149 +6,9 @@ description: Guide for Transcribers
 
 ![](../.gitbook/assets/1.jpeg)![](../.gitbook/assets/2.jpeg)
 
-**06 October 2020**
 
-**Version 4.0**
 
-**Version History**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>Document</b>
-      </th>
-      <th style="text-align:left"><b>Date</b>
-      </th>
-      <th style="text-align:left"><b>Notes</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Version 1.0</td>
-      <td style="text-align:left">16 April 2020</td>
-      <td style="text-align:left">Adapted from &#x2018;Guide for Transcribers; Museum Index cards&#x2019;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Version 2.0</td>
-      <td style="text-align:left">20 May 2020</td>
-      <td style="text-align:left">
-        <p>Updates to:</p>
-        <ul>
-          <li>submission of completed spreadsheets</li>
-          <li>additions to general transcription notes e.g. non-Latin characters</li>
-          <li>blanks in Date of Accession column</li>
-          <li>fraction shortcuts in Size column</li>
-          <li>different currencies in Price column</li>
-          <li>use of email in Transcribed By column</li>
-          <li>update to Transcriber&#x2019;s Notes column</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Version 3.0</td>
-      <td style="text-align:left">01 July 2020</td>
-      <td style="text-align:left">
-        <p>Updates to:</p>
-        <ul>
-          <li>transcription teams explaining the Transcribers group channel on Microsoft
-            Teams</li>
-          <li>instructions for duplicate accession numbers</li>
-          <li>tagging advice for strikethrough and other formatted text</li>
-          <li>accession date normalisation rules</li>
-          <li>clarification on using square brackets in the price column</li>
-          <li>update to Transcriber&#x2019;s Notes column</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Version 4.0</td>
-      <td style="text-align:left">06 October 2020</td>
-      <td style="text-align:left">
-        <p>Updates to:</p>
-        <ul>
-          <li>CC0 licence agreement and column description</li>
-          <li>description of Visual Material Registers channel on Teams</li>
-          <li>additions to general transcription notes e.g. pencil notations underneath</li>
-          <li>email address changed to .org in Transcribed by Column</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## Transcription Setup
-
-You can transcribe either directly from the Wellcome Library website or from a downloaded PDF of the digitised Library Accession Register.
-
-Each transcription volunteer will be sent a transcription spreadsheet template and the relevant URL link  
-e.g. [https://wellcomelibrary.org/item/b28477613\#?c=0&m=0&s=0&cv=0&z=-0.6045%2C-0.0693%2C2.2091%2C1.3858](https://wellcomelibrary.org/item/b28477613#?c=0&m=0&s=0&cv=0&z=-0.6045%2C-0.0693%2C2.2091%2C1.3858) \[Library Accession Register 4\]
-
-The URL link in your email will take you to a specific Wellcome Library Accession Register \(WAHMM/LI/Acc\). If a message about ‘Archival material less than 100 years old’ pops up, click ‘Accept Terms and Open’ in order to load the Register pages into the Viewer:
-
-![](../.gitbook/assets/3.png)
-
-### Transcribing directly from the Wellcome Library website
-
-The images on the Wellcome Library website are higher quality than those available when you download a PDF. This means that you can expand the image to full screen without loss of resolution using the controls at the bottom of the Viewer:
-
-![](../.gitbook/assets/4.png) to expand to full screen view and ![](../.gitbook/assets/5.png) to exit back to the browser tab.
-
-**Image Number**: If you decide to transcribe directly from the website, change the counter on the top \(grey\) toolbar of the Viewer window from ‘Page’ to ‘Image’ before you begin transcribing:
-
-![](../.gitbook/assets/6.png)
-
-### Transcribing from PDF
-
-You may find it more convenient to transcribe from a PDF, which can be used offline or printed out.
-
-To download a PDF of a Library Accession Register:
-
-Click on ![](../.gitbook/assets/7%20%281%29.png) at the bottom left of the Viewer.
-
-Check ‘Download as PDF \(pdf\)’ from the options menu
-
-![](../.gitbook/assets/8%20%281%29.png)
-
-Then click Download to create a PDF of the entire Register which you can save to your computer or other devices in the usual way.
-
-**Important note**: if you choose to transcribe from PDF, _the image number must be transcribed as_ _**the PDF page number minus 1**_, because of the cover sheet added to the PDF. Also, due to the format of the Registers, information for each accession number will be spread across **two** pages. To ensure you are transcribing the correct row, it may be easier to fill in information from the left-hand page first for all the numbers before moving onto the right.
-
-### Setting up your desktop
-
-Open the transcription spreadsheet you have been sent via email and save to your documents \(either to your computer or OneDrive\). When you save the spreadsheet to your documents DO NOT change the file name. The file name contains the range of accession numbers covered by the individual spreadsheet which is important for filing later.
-
-The column headings in the spreadsheet are explained in the section about the Transcription Spreadsheet below.
-
-If you only have one monitor, it may help to arrange your browser / PDF window and the transcription spreadsheet one on top of the other, so that you can see both the Accession Register page and several rows in the transcription spreadsheet at the same time:
-
-![](../.gitbook/assets/9.jpeg)
-
-Once you have fully completed all the records in your spreadsheet, please upload your file to **Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In there you will see a **‘Completed Spreadsheets’** folder, please upload your file there.
-
-When you have uploaded your sheet, please leave a message in your respective channel so that the team are kept up to date.
-
-![](../.gitbook/assets/10.jpeg)
-
-## 
-
-### Using Grp\_Wellcome Transcribers
-
-As part of the Wellcome Transcription Team you be invited to join the [Transcribers group](https://teams.microsoft.com/l/team/19%3a7358e913235e4459abd93d73245a1c72%40thread.tacv2/conversations?groupId=4e7ed022-a0ad-4baa-89c6-490da57430b6&tenantId=3b7a675a-1fc8-4983-a100-cc52b7647737) \(joining code: jwovb6i\) on Microsoft Teams. The group is an important part of the transcription process and is the best way to keep up to date with updates, advice and events.
-
-There are four channels within the group:
-
-**General**: Where the organisation team/admin post important updates and event announcements. The ‘Files’ section on this channel is where members upload spreadsheets when they want feedback or once they have completed their transcriptions.
-
-**Library Accession Registers**: A channel where members can ask for and read advice in transcribing the Library Accession Registers. Members should also use this space to highlight any interesting finds from the Registers and inform the admin team when they have submitted completed Library spreadsheets.
-
-**Museum Index Cards**: A channel for members to ask for and read advice in transcribing the Museum Flimsy Slips. Members should also use this space to highlight any interesting finds from the Slips and inform the admin team when they have submitted completed Museum spreadsheets.
-
-**Visual Material Registers**: A channel where members can ask for and read advice in transcribing the Visual Material Registers. Members should also use this space to highlight any interesting finds from the Registers and inform the admin team when they have submitted completed Visual Material spreadsheets.
-
-**Transcribers**: Here is where members can introduce themselves and ask for Library or Museum spreadsheets.
-
-**FAQ**: A channel answering frequently asked questions on all aspects of the transcription work.
 
 ### Creative Commons Licence
 
@@ -297,4 +157,73 @@ Transcriber’s Notes \(Column W\)**:** A place for the transcriber to add any a
 Creative Commons Licence \(Column X\): This column assigns the CC0 terms to each row of transcribed data and does not require transcription.
 
 Happy Transcribing!
+
+
+
+#### Version History
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Document</b>
+      </th>
+      <th style="text-align:left"><b>Date</b>
+      </th>
+      <th style="text-align:left"><b>Notes</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Version 1.0</td>
+      <td style="text-align:left">16 April 2020</td>
+      <td style="text-align:left">Adapted from &#x2018;Guide for Transcribers; Museum Index cards&#x2019;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Version 2.0</td>
+      <td style="text-align:left">20 May 2020</td>
+      <td style="text-align:left">
+        <p>Updates to:</p>
+        <ul>
+          <li>submission of completed spreadsheets</li>
+          <li>additions to general transcription notes e.g. non-Latin characters</li>
+          <li>blanks in Date of Accession column</li>
+          <li>fraction shortcuts in Size column</li>
+          <li>different currencies in Price column</li>
+          <li>use of email in Transcribed By column</li>
+          <li>update to Transcriber&#x2019;s Notes column</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Version 3.0</td>
+      <td style="text-align:left">01 July 2020</td>
+      <td style="text-align:left">
+        <p>Updates to:</p>
+        <ul>
+          <li>transcription teams explaining the Transcribers group channel on Microsoft
+            Teams</li>
+          <li>instructions for duplicate accession numbers</li>
+          <li>tagging advice for strikethrough and other formatted text</li>
+          <li>accession date normalisation rules</li>
+          <li>clarification on using square brackets in the price column</li>
+          <li>update to Transcriber&#x2019;s Notes column</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Version 4.0</td>
+      <td style="text-align:left">06 October 2020</td>
+      <td style="text-align:left">
+        <p>Updates to:</p>
+        <ul>
+          <li>CC0 licence agreement and column description</li>
+          <li>description of Visual Material Registers channel on Teams</li>
+          <li>additions to general transcription notes e.g. pencil notations underneath</li>
+          <li>email address changed to .org in Transcribed by Column</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
