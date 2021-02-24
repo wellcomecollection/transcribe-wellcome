@@ -1,8 +1,10 @@
 ---
-description: Transcription setup
+description: Transcription Setup
 ---
 
 # Getting Started
+
+## Transcription Setup
 
 You can transcribe either directly from the [Wellcome Collection](https://wellcomecollection.org) website or from a downloaded PDF of the digitised images.
 
@@ -28,9 +30,19 @@ Click on ![](../.gitbook/assets/downloads.jpg) then select ‘Whole item PDF’ 
 
 **Important note**: if you choose to transcribe from PDF, _the image number must be transcribed as_ _**the PDF page number minus 1**_, because of the cover sheet added to the PDF.
 
-### Setting up your desktop
+## Setting up your desktop
 
 If you only have one monitor, it may help to arrange your browser / PDF window and the transcription spreadsheet one on top of the other, so that you can see both the digitised images and several rows in the transcription spreadsheet at the same time:
 
 ![](../.gitbook/assets/9.jpeg)
+
+## Creative Commons Licence 
+
+While Wellcome waives copyright in transcriptions completed by staff, a Creative Commons zero \(CC0\) licence has been applied to allow for individuals outside of Wellcome to work on transcription. The full text of the licence can be found below. 
+
+_Transcriptions of items held within the Wellcome Collection will only be accepted by Wellcome if provided under a Creative Commons 0 \(“CC-0”\) licence. This CC-0 licence \(also known as a “public domain dedication”\) allows you to waive copyright and database interests in the submitted works and thereby to place them as completely as possible in the public domain. Others can freely build upon, enhance and reuse your contributions for any purposes without restriction under copyright or database law. It also means that Wellcome can share your submitted transcription with Wikidata._  
+
+_Wellcome is committed to safeguarding your personal information in accordance with data protection law. Our privacy statement \(_[_https://wellcome.ac.uk/sites/default/files/wellcome-privacy-statement-20190805.pdf_](https://wellcome.ac.uk/sites/default/files/wellcome-privacy-statement-20190805.pdf)_\) explains how, and on what legal basis, we collect, store, and use any personal information which you share with us in connection with your sharing transcriptions with us._ 
+
+If you have any questions regarding the CC0 licence, please get in touch via Teams. 
 

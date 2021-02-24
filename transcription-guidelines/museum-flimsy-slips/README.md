@@ -81,54 +81,7 @@ description: Guide for Transcribers
   </tbody>
 </table>
 
-### Transcription Setup
-
-You can transcribe either [directly from the Wellcome Library website]() or [from a downloaded PDF]() of the digitised images.
-
-Each transcription volunteer will be sent a transcription spreadsheet template and a URL link  
-e.g. [https://wellcomelibrary.org/item/b1881282x](https://wellcomelibrary.org/item/b1881282x)
-
-This link takes you to a specific set of images corresponding to a box full of ‘flimsy slips’ - index cards printed on lightweight, ‘flimsy’ paper. If a message about ‘Archival material less than 100 years old’ pops up, click ‘Accept Terms and Open’ in order to load the flimsy slips into the Viewer:
-
-![](../../.gitbook/assets/2.png)
-
-### Transcribing directly from the Wellcome Library website:
-
-The images on the Wellcome Library website are higher quality than those available when you download a PDF. This means that you can expand the image to full screen without loss of resolution using the controls at the bottom of the Viewer:
-
-![](../../.gitbook/assets/3%20%281%29.png) to expand to full screen view and ![](../../.gitbook/assets/4%20%281%29.png) to exit back to the browser tab.
-
-**Image Number**: If you decide to transcribe directly from the website, change the counter on the top \(grey\) toolbar of the Viewer window from ‘Page’ to ‘Image’ before you begin transcribing:
-
-![](../../.gitbook/assets/5%20%281%29.png)
-
-### Using Grp\_Wellcome Transcribers
-
-As part of the Wellcome Transcription Team you be invited to join the Transcribers group on Microsoft Teams. The group is an important part of the transcription process and is the best way to keep up to date with updates, advice and events.
-
-There are four channels within the group:
-
-**General**: Where the organisation team/admin post important updates and event announcements. The ‘Files’ section on this channel is where members upload spreadsheets when they want feedback or once they have completed their transcriptions.
-
-**Library Accession Cards**: A channel where members can ask for and read advice in transcribing the Library Accession Registers. Members should also use this space to highlight any interesting finds from the Registers and inform the admin team when they have submitted completed Library spreadsheets.
-
-**Museum Index Cards**: A channel for members to ask for and read advice in transcribing the Museum Flimsy Slips. Members should also use this space to highlight any interesting finds from the Slips and inform the admin team when they have submitted completed Museum spreadsheets.
-
-**Visual Material Registers**: A channel where members can ask for and read advice in transcribing the Visual Material Registers. Members should also use this space to highlight any interesting finds from the Registers and inform the admin team when they have submitted completed Visual Material spreadsheets. 
-
-**Transcribers**: Here is where members can introduce themselves and ask for Library or Museum spreadsheets.
-
-**FAQ**: A channel answering frequently asked questions on all aspects of the transcription work.
-
-_Creative Commons Licence_ 
-
-While Wellcome waives copyright in transcriptions completed by staff, a Creative Commons zero \(CC0\) licence has been applied to allow for individuals outside of Wellcome to work on transcription. The full text of the licence can be found below. 
-
-_Transcriptions of items held within the Wellcome Collection will only be accepted by Wellcome if provided under a Creative Commons 0 \(“CC-0”\) licence. This CC-0 licence \(also known as a “public domain dedication”\) allows you to waive copyright and database interests in the submitted works and thereby to place them as completely as possible in the public domain. Others can freely build upon, enhance and reuse your contributions for any purposes without restriction under copyright or database law. It also means that Wellcome can share your submitted transcription with Wikidata._  
-
-_Wellcome is committed to safeguarding your personal information in accordance with data protection law. Our privacy statement \(_[_https://wellcome.ac.uk/sites/default/files/wellcome-privacy-statement-20190805.pdf_](https://wellcome.ac.uk/sites/default/files/wellcome-privacy-statement-20190805.pdf)_\) explains how, and on what legal basis, we collect, store, and use any personal information which you share with us in connection with your sharing transcriptions with us._ 
-
-If you have any questions regarding the CC0 licence, please get in touch via Teams. 
+\_\_
 
 ### Transcribing from PDF
 
