@@ -81,16 +81,6 @@ description: Guide for Transcribers
   </tbody>
 </table>
 
-\_\_
-
-
-
-If you only have one monitor, it may help to arrange your browser / PDF window and the transcription spreadsheet one on top of the other, so that you can see both the flimsy slip and several rows in the transcription spreadsheet at the same time:
-
-![](../../.gitbook/assets/8.png)
-
-## 
-
 ### The Transcription Spreadsheet
 
 The column headings in the transcription spreadsheet correspond – broadly – to the headings printed on the flimsy slips, plus some additional columns for recording details which may be useful for future data analysis and online search.
