@@ -83,27 +83,7 @@ description: Guide for Transcribers
 
 \_\_
 
-### Transcribing from PDF
 
-You may find it more convenient to transcribe from a PDF, which can be used offline or printed out.
-
-To download a PDF of all the flimsy slips:
-
-Click on ![](../../.gitbook/assets/6%20%281%29.png) at the bottom left of the Viewer.
-
-Check ‘Download as PDF \(pdf\)’ from the options menu
-
-![](../../.gitbook/assets/7.png)
-
-Then click Download to create a PDF which you can save to your computer or other devices in the usual way.
-
-**Important note**: if you choose to transcribe from PDF, _the image number must be transcribed as_ _**the PDF page number minus 1**_, because of the cover sheet added to the PDF.
-
-### 
-
-Open the transcription spreadsheet you have been sent. The column headings in the spreadsheet are explained in the section about [the Transcription Spreadsheet]() below.
-
-Save the spreadsheet and please keep the filename as it has been sent to you. The filename is to help us keep track of each different sheet being sent to transcribers. Once you have completed the transcriptions, please send the file back to us with the same name.
 
 If you only have one monitor, it may help to arrange your browser / PDF window and the transcription spreadsheet one on top of the other, so that you can see both the flimsy slip and several rows in the transcription spreadsheet at the same time:
 

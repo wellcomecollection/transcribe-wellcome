@@ -8,7 +8,7 @@ description: Transcription Setup
 
 You can transcribe either directly from the [Wellcome Collection](https://wellcomecollection.org) website or from a downloaded PDF of the digitised images.
 
-Each transcriber will be sent a transcription spreadsheet template and a URL link to a catalogue entry e.g. [https://wellcomecollection.org/works/z5p7gm97](https://wellcomecollection.org/works/z5p7gm97)
+Each transcriber will be sent a transcription spreadsheet template and a URL link to a catalogue entry e.g. [https://wellcomecollection.org/works/z5p7gm97](https://wellcomecollection.org/works/z5p7gm97) Save the spreadsheet and please keep the filename as it has been sent to you. The filename is to help us keep track of each different sheet being sent to transcribers. Once you have [completed the transcriptions](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/grp-wellcome-transcribers#completed-spreadsheets), please send the file back to us with the same name.
 
 Click on the 'View' button on the catalogue entry, and this takes you to a specific set of images: of entries in a register or corresponding to a box of index cards \(known as 'flimsy slips' because they were typically printed on lightweight, ‘flimsy’ paper\). 
 
