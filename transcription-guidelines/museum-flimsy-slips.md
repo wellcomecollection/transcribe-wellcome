@@ -180,7 +180,7 @@ Once you’ve done this please leave a message in your respective channel that y
 
 
 
-**Version 4.0**
+#### **Version 4.0**
 
 <table>
   <thead>

@@ -148,6 +148,12 @@ Creative Commons Licence \(Column X\): This column assigns the CC0 terms to each
 
 Happy Transcribing!
 
+## Upon completion
+
+Please upload your file **to Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.
+
+Once you’ve done this please leave a message in your respective channel that you’ve uploaded your sheet.
+
 
 
 #### Version History

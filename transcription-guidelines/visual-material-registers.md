@@ -8,56 +8,6 @@ Description generated with very high confidence](../.gitbook/assets/1%20%281%29.
 
 Description generated with very high confidence](../.gitbook/assets/2%20%281%29.png)
 
-**17/12/2020**
-
-**Version 3.0**
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>Document</b>
-      </th>
-      <th style="text-align:left"><b>Date</b>
-      </th>
-      <th style="text-align:left"><b>Notes</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Version 1.0</td>
-      <td style="text-align:left">01/07/2020</td>
-      <td style="text-align:left">First version published</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Version 2.0</td>
-      <td style="text-align:left">30/09/2020</td>
-      <td style="text-align:left">
-        <p>Updates to:</p>
-        <ul>
-          <li>CC0 licence agreement and column description</li>
-          <li>Email address changed to .org in Transcribed by Column</li>
-          <li>How to transcribe prefixes (e.g. CC) in the &#x2018;Other Number&#x2019;
-            field.</li>
-          <li>Additional details on how to transcribe fractions and common mistakes
-            to avoid.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Version 3.0</td>
-      <td style="text-align:left">17/12/2020</td>
-      <td style="text-align:left">
-        <p>Updates to:</p>
-        <ul>
-          <li>Transcriber&#x2019;s Note field: list of abbreviations and their explanation,
-            included within PHO registers.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 ## The Transcription Spreadsheet
 
 The column headings in the transcription spreadsheet correspond – broadly – to the headings printed on the Visual Material Accession Registers, plus some additional columns for recording details which may be useful for future data analysis and online search. It is indicated in the column heading instructions if, and where, headings differ between spreadsheet and Register.
@@ -466,4 +416,54 @@ Please upload your file **to Grp\_Wellcome Transcribers** on Microsoft Teams. At
 Once you’ve done this please leave a message in your respective channel that you’ve uploaded your sheet. 
 
 Happy Transcribing!
+
+
+
+#### **Version 3.0**
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Document</b>
+      </th>
+      <th style="text-align:left"><b>Date</b>
+      </th>
+      <th style="text-align:left"><b>Notes</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Version 1.0</td>
+      <td style="text-align:left">01/07/2020</td>
+      <td style="text-align:left">First version published</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Version 2.0</td>
+      <td style="text-align:left">30/09/2020</td>
+      <td style="text-align:left">
+        <p>Updates to:</p>
+        <ul>
+          <li>CC0 licence agreement and column description</li>
+          <li>Email address changed to .org in Transcribed by Column</li>
+          <li>How to transcribe prefixes (e.g. CC) in the &#x2018;Other Number&#x2019;
+            field.</li>
+          <li>Additional details on how to transcribe fractions and common mistakes
+            to avoid.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Version 3.0</td>
+      <td style="text-align:left">17/12/2020</td>
+      <td style="text-align:left">
+        <p>Updates to:</p>
+        <ul>
+          <li>Transcriber&#x2019;s Note field: list of abbreviations and their explanation,
+            included within PHO registers.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
