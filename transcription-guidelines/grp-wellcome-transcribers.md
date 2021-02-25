@@ -2,6 +2,8 @@
 
 As part of the Transcribe Wellcome team you will be invited to join the Transcribers' group on Microsoft Teams. The group is an important part of the transcription process and is the best way to keep up to date with updates, advice and events.
 
+## Teams Channels
+
 There are several channels within the group:
 
 * **General:** Where the organisation team/admin post important updates and event announcements. The ‘Files’ section on this channel is where members upload spreadsheets when they want feedback or once they have [completed their transcriptions](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/grp-wellcome-transcribers#completed-spreadsheets).
@@ -12,7 +14,7 @@ There are several channels within the group:
 * **FAQ:** A channel answering frequently asked questions on all aspects of the transcription work.
 * **Transcribe Wellcome \[TW\]:** A channel for updates, questions and requests regarding the Transcribe Wellcome database.
 
-### Completed Spreadsheets
+## Completed Spreadsheets
 
 Once you have fully completed all the records in your spreadsheet, please upload your file to **Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In there you will see a **‘Completed Spreadsheets’** folder, please upload your file there:
 

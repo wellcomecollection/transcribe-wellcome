@@ -4,23 +4,15 @@ description: Guide for Transcribers
 
 # Museum Flimsy Slips
 
-![](../../.gitbook/assets/1.png)
+![](../.gitbook/assets/1.png)
 
-**07/10/2020**
-
-\*\*\*\*
-
-| \*\*\*\* |
-| :--- |
-
-
-### The Transcription Spreadsheet
+## The Transcription Spreadsheet
 
 The column headings in the transcription spreadsheet correspond – broadly – to the headings printed on the flimsy slips, plus some additional columns for recording details which may be useful for future data analysis and online search.
 
 The style of the printed flimsy slips changed over time, and according to the purpose for which they were used by Wellcome Historical Medical Museum, and some headings were rarely used.
 
-### General transcription instructions
+## General transcription instructions
 
 Generally, each flimsy slip will be transcribed onto **one** row of the spreadsheet, except:
 
@@ -42,7 +34,7 @@ Generally, each flimsy slip will be transcribed onto **one** row of the spreadsh
 * **Acquisition date –** When the item/object/record was _acquired_ e.g. the date it was bought at an auction
 * **Accession date –** When the item/object/record was accessioned _into_ the collection
 
-### Green Column Headings
+## Green Column Headings
 
 A number \(column A\)**:** For each flimsy slip, transcribe the ‘Accessions No.’ \(A number\) for the accession\(s\) described on the slip on a new row of the transcription spreadsheet. This number is usually written in the top left hand corner of the flimsy slip.
 
@@ -121,7 +113,7 @@ If there is _both_ a stamp and additional notes, please put all the additional n
 
 **Important note:** If there is anything you cannot read and posting about it in Microsoft Teams does not help either, please put \[?\] in the place of a single letter or entire word and make sure to make note of this in column V’s ‘Transcriber notes’
 
-### Blue Column Headings
+## Blue Column Headings
 
 In addition to transcribing text exactly as written on the flimsy slips under the green column headings, transcribers should also extract acquisition date and \(where relevant\) auction house and lot numbers into a standardised format:
 
@@ -168,7 +160,7 @@ St. = Stevens
 
 Lot No. \(column T\): Enter the lot number, if applicable, in this column. When a slip describes multiple items, these are often recorded next to each object \(when different lot numbers\) and should be entered on separate rows as explained in the [general transcription instructions]().
 
-### Yellow Column Headings
+## Yellow Column Headings
 
 Transcribed By \(column U\): Your email address ****e.g. j.bloggs@wellcome.org.
 
@@ -180,11 +172,13 @@ Transcriber’s Notes \(column V\): Use this column to record any additional not
 
 Creative Commons Licence \(Column W\): This column assigns the CC0 terms to each row of transcribed data and does not require transcription. 
 
-### Upon completion
+## Upon completion
 
 Please upload your file **to Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.
 
 Once you’ve done this please leave a message in your respective channel that you’ve uploaded your sheet.
+
+
 
 **Version 4.0**
 

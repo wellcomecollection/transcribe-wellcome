@@ -6,7 +6,7 @@ description: Guide for Transcribers
 
 ![](../.gitbook/assets/1.jpeg)![](../.gitbook/assets/2.jpeg)
 
-### The Transcription Spreadsheet
+## The Transcription Spreadsheet
 
 The column headings in the transcription spreadsheet correspond – broadly – to the headings printed in the thirteen Library Accession Registers, plus some additional columns for recording details which may be useful for future data analysis and online search. It is indicated in the column heading instructions if, and where, headings differ between spreadsheet and Register e.g. Location Number \(Column G\) \[excluding Registers 3;12;13\].
 
@@ -14,7 +14,7 @@ The style of the Accession Registers changed over time, and according to the pur
 
 **Important note**: Any duplicate library accession numbers should be added to the bottom of your spreadsheet with comments in the **Transcriber’s Notes \(Column W\)**. As duplicate accession numbers require extra checks before importing, please highlight these rows with a colour so that they can be identified easily.
 
-### General transcription instructions
+## General transcription instructions
 
 Generally, each accession \(unique number\) will be transcribed onto **one** row of the spreadsheet.
 
@@ -40,7 +40,7 @@ Apart from the **Date of Accession \(Column A\)** leave any blank spaces blank. 
 
 If you encounter any problems identifying words, letters or symbols head to the Transcribers’ Group on Microsoft Teams. There may be others who have asked or answered the same questions. A quick google search may also help with titles and authors but the search results should never take priority over the text on the Register page.
 
-### Column Headings
+## Column Headings
 
 Date of Accession \(Column A\) \[Date of Receipt in Registers 12;13\]**:** The date of the accession is listed in the first column of the Library Accession Register. Always transcribe the date in full in the order of dd-month-full year e.g. 25 April 1916. Even if the date column is blank or if there are no ditto marks, assume that multiple items were added to the Register on the same day.
 
@@ -70,7 +70,11 @@ Size \(Column L\) \[excluding Registers 3;12;13\]**:** Transcribe the size as it
 
 The following are keyboard shortcuts that can be used instead of the insert method:  
 
-**Alt + 0188 = ¼ Alt + 0189 = ½ Alt + 0190 = ¾** 
+| Fraction | Keyboard Shortcut |
+| :--- | :--- |
+| **¼** | Alt + 0188 |
+| **½** | Alt + 0189 |
+| **¾** | Alt + 0190 |
 
 All other fractions need to be written out as e.g. 5/8, remembering to put a space beforehand, i.e. 3 5/8" as the other Excel symbols do not import onto other platforms.
 

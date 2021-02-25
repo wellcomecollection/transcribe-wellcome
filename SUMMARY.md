@@ -46,8 +46,7 @@
 * [Wellcome Transcribers' Group](transcription-guidelines/grp-wellcome-transcribers.md)
 * [Getting Started](transcription-guidelines/getting-started.md)
 * [Library Registers](transcription-guidelines/library-registers.md)
-* [Museum Flimsy Slips](transcription-guidelines/museum-flimsy-slips/README.md)
-  * [General Instructions](transcription-guidelines/museum-flimsy-slips/general-instructions.md)
+* [Museum Flimsy Slips](transcription-guidelines/museum-flimsy-slips.md)
 
 ## Contributing to Transcribe Wellcome
 
