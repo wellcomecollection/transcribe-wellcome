@@ -1,14 +1,4 @@
-# Untitled
-
-![A picture containing drawing
-
-Description automatically generated](../.gitbook/assets/0%20%282%29.jpeg)
-
-**Guide for Transcribers**
-
-**Wellcome Historical Medical Museum**
-
-**Visual Material Registers**
+# Visual Material Registers
 
 ![A close up of text on a white background
 
@@ -67,20 +57,6 @@ Description generated with very high confidence](../.gitbook/assets/2%20%281%29.
     </tr>
   </tbody>
 </table>
-
-**Version History**
-
-Contents
-
-[Transcription Setup 5]()
-
-[Transcribing directly from the Wellcome Library website: 5]()
-
-[Transcribing from PDF 6]()
-
-[Setting up your desktop 6]()
-
-[Using Grp\_Wellcome Transcribers 8]()
 
 [Creative Commons Licence 8]()
 

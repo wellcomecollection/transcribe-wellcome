@@ -47,7 +47,7 @@
 * [Getting Started](transcription-guidelines/getting-started.md)
 * [Library Registers](transcription-guidelines/library-registers.md)
 * [Museum Flimsy Slips](transcription-guidelines/museum-flimsy-slips.md)
-* [Untitled](transcription-guidelines/visual-material-registers.md)
+* [Visual Material Registers](transcription-guidelines/visual-material-registers.md)
 
 ## Contributing to Transcribe Wellcome
 
