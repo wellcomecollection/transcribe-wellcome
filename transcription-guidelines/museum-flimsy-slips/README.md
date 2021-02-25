@@ -8,78 +8,11 @@ description: Guide for Transcribers
 
 **07/10/2020**
 
-**Version 4.0**
+\*\*\*\*
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>Document</b>
-      </th>
-      <th style="text-align:left"><b>Date</b>
-      </th>
-      <th style="text-align:left"><b>Notes</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Version 1.0</td>
-      <td style="text-align:left">28/04/2020</td>
-      <td style="text-align:left">First version published</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Version 2.0</td>
-      <td style="text-align:left">19/05/2020</td>
-      <td style="text-align:left">
-        <p>Updates to:</p>
-        <ul>
-          <li>Filename structure changed</li>
-          <li>Note for non-Latin script</li>
-          <li>Note for gaps in accession numbers</li>
-          <li>Note about adding in Wellcome email instead of name</li>
-          <li>Note about unable to transcribe a letter or word</li>
-          <li>Fraction shortcuts and guidance</li>
-          <li>Stylistic changes</li>
-          <li>Hidden columns</li>
-          <li>Upload procedure</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Version 3.0</td>
-      <td style="text-align:left">01/07/2020</td>
-      <td style="text-align:left">
-        <p>Updates to:</p>
-        <ul>
-          <li>Explaining how to use transcription team group on Microsoft Teams</li>
-          <li>Duplicate A numbers</li>
-          <li>Tagging instructions</li>
-          <li>Transcribers notes column clarification on multiple entries</li>
-          <li>Acquisition and Accession definitions</li>
-          <li>Normalisation of acquisition dates</li>
-          <li>Readjustment of placement of version history table</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Version 4.0</td>
-      <td style="text-align:left">07/10/2020</td>
-      <td style="text-align:left">
-        <p>Updates to:</p>
-        <ul>
-          <li>CC0 licence agreement and column description</li>
-          <li>Description of Visual Material Registers channel on Teams</li>
-          <li>Addition to General transcription notes - pencil notations, question marks,
-            unsure, sketches</li>
-          <li>email address changed to .org in Transcribed by Column</li>
-          <li>Additional notes column &#x2013; stamp structure and how to enter other
-            notes</li>
-          <li>R numbers &#x2013; how to transcribe a range</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| \*\*\*\* |
+| :--- |
+
 
 ### The Transcription Spreadsheet
 
@@ -252,4 +185,77 @@ Creative Commons Licence \(Column W\): This column assigns the CC0 terms to each
 Please upload your file **to Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.
 
 Once you’ve done this please leave a message in your respective channel that you’ve uploaded your sheet.
+
+**Version 4.0**
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Document</b>
+      </th>
+      <th style="text-align:left"><b>Date</b>
+      </th>
+      <th style="text-align:left"><b>Notes</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Version 1.0</td>
+      <td style="text-align:left">28/04/2020</td>
+      <td style="text-align:left">First version published</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Version 2.0</td>
+      <td style="text-align:left">19/05/2020</td>
+      <td style="text-align:left">
+        <p>Updates to:</p>
+        <ul>
+          <li>Filename structure changed</li>
+          <li>Note for non-Latin script</li>
+          <li>Note for gaps in accession numbers</li>
+          <li>Note about adding in Wellcome email instead of name</li>
+          <li>Note about unable to transcribe a letter or word</li>
+          <li>Fraction shortcuts and guidance</li>
+          <li>Stylistic changes</li>
+          <li>Hidden columns</li>
+          <li>Upload procedure</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Version 3.0</td>
+      <td style="text-align:left">01/07/2020</td>
+      <td style="text-align:left">
+        <p>Updates to:</p>
+        <ul>
+          <li>Explaining how to use transcription team group on Microsoft Teams</li>
+          <li>Duplicate A numbers</li>
+          <li>Tagging instructions</li>
+          <li>Transcribers notes column clarification on multiple entries</li>
+          <li>Acquisition and Accession definitions</li>
+          <li>Normalisation of acquisition dates</li>
+          <li>Readjustment of placement of version history table</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Version 4.0</td>
+      <td style="text-align:left">07/10/2020</td>
+      <td style="text-align:left">
+        <p>Updates to:</p>
+        <ul>
+          <li>CC0 licence agreement and column description</li>
+          <li>Description of Visual Material Registers channel on Teams</li>
+          <li>Addition to General transcription notes - pencil notations, question marks,
+            unsure, sketches</li>
+          <li>email address changed to .org in Transcribed by Column</li>
+          <li>Additional notes column &#x2013; stamp structure and how to enter other
+            notes</li>
+          <li>R numbers &#x2013; how to transcribe a range</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
