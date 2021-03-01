@@ -20,7 +20,7 @@ Generally, each accession \(unique number\) will be transcribed onto **one** row
 
 For the majority of columns you will be asked to transcribe the information exactly as it appears on the page. For a couple of columns you will be asked to transcribe the information into a standardised format. This is to assist with future research and will be made clear in the individual instructions.
 
-For any text which has been scored through, do the same in the transcription. If you do use the strikethrough, or any other formatted text, you **must** use the appropriate tagging e.g. &lt;s&gt;\[transcribed text here\]&lt;/s&gt; or &lt;i&gt;\[_transcribed text here_\]&lt;/i&gt; for italics.
+For any text which has been scored through, do the same in the transcription. If you do use the strikethrough, or any other formatted text, you **must** use the appropriate tagging e.g. &lt;s&gt;\[~~transcribed text here~~\]&lt;/s&gt; or &lt;i&gt;\[_transcribed text here_\]&lt;/i&gt; for italics.
 
 In some Registers, earlier information is visible in pencil underneath the final pen entry. If this is the case, add a **Transcriber’s Note** and include any of the information written in pencil where legible.
 
@@ -42,11 +42,15 @@ If you encounter any problems identifying words, letters or symbols head to the 
 
 ## Column Headings
 
-Date of Accession \(Column A\) \[Date of Receipt in Registers 12;13\]**:** The date of the accession is listed in the first column of the Library Accession Register. Always transcribe the date in full in the order of dd-month-full year e.g. 25 April 1916. Even if the date column is blank or if there are no ditto marks, assume that multiple items were added to the Register on the same day.
+#### _Date of Accession \(Column A\) \[Date of Receipt in Registers 12;13\]_
+
+The date of the accession is listed in the first column of the Library Accession Register. Always transcribe the date in full in the order of dd-month-full year e.g. 25 April 1916. Even if the date column is blank or if there are no ditto marks, assume that multiple items were added to the Register on the same day.
 
 To aid filtering and analysis, if several consecutive dates are given, enter the **latest** day that these items were accessioned e.g. 6-9 January 1931 should be entered as 9 January 1931 with a **Transcriber’s Note** saying, ‘Accession date normalised to last day of entry’. If the date of accession is recorded as only a month or a year, provide the last possible date the accession may have occurred e.g. September 1928 should be entered as 30 September 1928 with the same **Transcriber’s Note**. For dates in February, you may find [this list of leap years 1800 - 2400](https://kalender-365.de/leap-years.php) useful.
 
-AccNo \(Column B\)**:** The accession numbers have already been provided in a sequential order. Use these numbers to keep track of where you are on the page. IMPORTANT: Make sure you double-check the accession numbers as you go along as there may be a break or mistake in the sequential numbering in the Register. If you come across an accession number which is out of sequence, please add this to the bottom of your spreadsheet and add a note to the **Transcriber’s Notes**.
+#### _AccNo \(Column B\)_
+
+The accession numbers have already been provided in a sequential order. Use these numbers to keep track of where you are on the page. IMPORTANT: Make sure you double-check the accession numbers as you go along as there may be a break or mistake in the sequential numbering in the Register. If you come across an accession number which is out of sequence, please add this to the bottom of your spreadsheet and add a note to the **Transcriber’s Notes**.
 
 Register and Volume URL \(Columns C and D\)**:** These columns do not require transcription and may be hidden. _Please Note: Other columns in the spreadsheet may be hidden if they are not applicable to a specific register._
 
