@@ -14,7 +14,7 @@ The style of the Accession Registers changed over time, and according to the pur
 
 **Important note**: Any duplicate library accession numbers should be added to the bottom of your spreadsheet with comments in the **Transcriber’s Notes** column. As duplicate accession numbers require extra checks before importing, please highlight these rows with a colour so that they can be identified easily.
 
-## General transcription instructions
+## General Transcription Instructions
 
 Generally, each accession \(unique number\) will be transcribed onto **one** row of the spreadsheet.
 
