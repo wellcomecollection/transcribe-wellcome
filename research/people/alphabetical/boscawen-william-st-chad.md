@@ -3,9 +3,9 @@
 William St Chad Boscawen. Life dates: 1855-1913. Active at WHMM: c.1906-1913.
 Researcher on ancient Near Eastern and ancient Egyptian collections.
 
-\[img\[Boscawen.jpg\)
+![Portrait of Boscawen](boscawen-budge1925.jpg)
 
-image: E.A. Budge The Rise and Progress of Assyriology \(1925\), photograph facing page 120.
+image: Boscawen pictured in E.A. Budge _The Rise and Progress of Assyriology_ \(1925\), photograph facing page 120.
 
 ## work at WHMM
 
