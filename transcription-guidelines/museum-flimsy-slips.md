@@ -52,7 +52,7 @@ Columns B and C have been hidden and locked. They will be filled in after the fu
 
 Image no. \(column D\)**:** For each flimsy slip, enter the [image number]() given in the Wellcome Library website Viewer toolbar. If you are transcribing from a PDF, the image number is the page number minus 1.
 
-Sub number \(column E\)**:** this column is only required where more than one row is required for a flimsy slip, or where there are several cards representing one A number, as explained in the [general transcription instructions](). Leave blank in all other cases.
+Sub number \(column E\)**:** this column is only required where more than one row is required for a flimsy slip, or where there are several cards representing one A number, as explained in the [~~general transcription instructions~~](). Leave blank in all other cases.
 
 R number \(column F\)**:** Registration \(‘R’\) numbers are sometimes written under or to the right hand side of A numbers. They can also appear in the middle of the flimsy slip. Similarly to the A number, they may appear with an R prefix but more commonly without.
 
