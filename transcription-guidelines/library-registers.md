@@ -203,11 +203,13 @@ A place for the transcriber to add any additional notes about the record e.g. if
 
 ### _Creative Commons Licence_ 
 
-This column assigns the CC0 terms to each row of transcribed data and does not require transcription.
+This column assigns the CC0 terms to each row of transcribed data and does not require transcription. More information on the Creative Commons Licence can be found [here](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/getting-started#creative-commons-licence).
 
 ## Upon completion
 
 Please upload your file to **Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.
+
+![](../.gitbook/assets/10%20%281%29.jpeg)
 
 Once you’ve done this please leave a message in your respective channel that you’ve uploaded your sheet.
 
