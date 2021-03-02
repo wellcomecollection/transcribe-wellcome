@@ -42,9 +42,11 @@ If you encounter any problems identifying words, letters or symbols head to the 
 
 ## Column Headings
 
-_Please Note: columns in the spreadsheet may be hidden if they are not applicable to a specific register or do not require transcribing._
+_Please Note: columns in the spreadsheet may be hidden if they are not applicable to a specific Register or do not require transcribing._
 
-### _Date of Accession \[Date of Receipt in Registers 12;13\]_
+### _Date of Accession_ 
+
+_\[Date of Receipt in Registers 12;13\]_
 
 The date of the accession is listed in the first column of the Library Accession Register. Always transcribe the date in full in the order of dd-month-full year e.g. 25 April 1916. Even if the date column is blank or if there are no ditto marks, assume that multiple items were added to the Register on the same day.
 
@@ -58,11 +60,15 @@ The accession numbers have already been provided in a sequential order. Use thes
 
 For each accession number, enter the image number given in the Wellcome Collection website Viewer. If you are transcribing from a PDF, the image number is the page number minus 1. REMEMBER - the information for each row in the Accession Register is split across two pages.
 
-### _Location Number \[excluding Registers 3;12;13\]_ 
+### _Location Number_ 
+
+_\[excluding Registers 3;12;13\]_ 
 
 Enter the location letter/number, if applicable, in this column. Most frequent abbreviations are M.C. \(Museum Case\) and P.C. \(Packing Case\).
 
-### _Author \[excluding Register 3\]_ 
+### _Author_ 
+
+_\[excluding Register 3\]_ 
 
 Transcribe the information in the ‘author’ column on the Register page. The author name should be standardised to read: Surname, Forenames \(Title, if applicable\) e.g. Braithwaite, William K. \(Capt.\). Do not transcribe brackets around the forenames e.g. Franklin \(Rosalind\) should be standardised to Franklin, Rosalind.
 
@@ -78,7 +84,9 @@ This column will contain a numerical value to show the number of volumes associa
 
 Similar to above, this column will contain a numerical value to show the number of volumes associated with the accession number/title of a manuscript.
 
-### _Size \[excluding Registers 3;12;13\]_
+### _Size_ 
+
+_\[excluding Registers 3;12;13\]_
 
 Transcribe the size as it appears on the page. The column may contain a measurement e.g. 20 x 15, a format e.g. post 4to, or a mixture of the two e.g. 8vo 23. Transcribe fractions \(e.g. in measurements\) using Insert – Symbol and selecting the correct proper fraction.
 
@@ -94,15 +102,21 @@ All other fractions need to be written out as e.g. 5/8, remembering to put a spa
 
 If you encounter difficulties in finding the correct symbol, record this in the **Transcriber’s Notes.** Please note: The format refers to the size of the book not the number of volumes e.g. 8vo = octavo format. Guidance on technical/archaic format terms [here](https://www.harringtonbooks.co.uk/booksizes.php).
 
-### _Place of Publication \(Imprint\) \[excluding Registers 3;12;13\]_ 
+### _Place of Publication \(Imprint\)_ 
+
+_\[excluding Registers 3;12;13\]_ 
 
 Transcribe exactly as on the page. Many place names will be written in Latin e.g. Londini = London, so if you are having any difficulty deciphering the place name you can check for possible places on the [Latin Place Names File](https://rbms.info/lpn/). Do not standardise into English.
 
-### _Date of Publication \(Imprint\) \[excluding Register 3\]_
+### _Date of Publication \(Imprint\)_ 
+
+_\[excluding Register 3\]_
 
 This is the date, usually just a year, in which the book was printed/published. If the date is in Roman numerals transcribe it into Arabic numerals e.g. MDCCLXI = 1761. [Online converter](https://www.periodni.com/roman_numerals_converter.html).
 
-### _Printer \[excluding Registers 3;12;13\]_
+### _Printer_ 
+
+_\[excluding Registers 3;12;13\]_
 
 These may be individuals \(J. Antonius\), publishing companies \(Clarendon Press\) or institutions \(Government Pr\[ess\] Office\). Transcribe as on the page.
 
@@ -116,7 +130,9 @@ If the price refers to a group of books put in the price and put in brackets for
 
 For volumes, it is clear in each individual accession number/row how many volumes there were and what was paid for all of them so you do not need to record that information in brackets or in the notes.
 
-### _Valuation \[excluding Registers 3;12;13\]_ 
+### _Valuation_ 
+
+_\[excluding Registers 3;12;13\]_ 
 
 Transcribe as in the Price column above.
 
@@ -157,15 +173,21 @@ Below are some common auction houses and known abbreviations:
 
 The auction house list is by no means exhaustive and is presented merely to help with identifying letters/names. As in other columns, transcribe the abbreviations as they appear and note possible expansions in the **Transcriber’s Notes**. Do not attempt to make the transcription ‘fit’ the abbreviation.
 
-### _Lot Number \[Register 3 only\]_
+### _Lot Number_ 
+
+_\[Register 3 only\]_
 
 Enter the lot number, if applicable, in this column.
 
-### _Condition \[Registers 12;13 only\]_
+### _Condition_ 
+
+_\[Registers 12;13 only\]_
 
 Enter any physical condition notes, if applicable, in this column.
 
-### _Remarks \[excluding Register 3\]_
+### _Remarks_ 
+
+_\[excluding Register 3\]_
 
 Transcribe any remarks exactly as they appear on the page.
 
