@@ -197,7 +197,7 @@ Your email address e.g. j.bloggs@wellcome.org.
 
 ### _Transcriber’s Notes_ 
 
-A place for the transcriber to add any additional notes about the record e.g. if the record was written in multiple hands or if the record has corrections/later additions/prefixes. Also use this column to note any problems you have had with the transcription. Prefix this note with ‘Unsure’ followed by an explanation e.g. ‘Unsure: cannot read first name of author’.
+A place for the transcriber to add any additional notes about the record e.g. if the record was written in multiple hands or if the record has corrections/later additions/prefixes. Further examples are given within the guidance for individual column headings and in the general transcription instructions. Also use this column to note any problems you have had with the transcription. Prefix this note with ‘Unsure’ followed by an explanation e.g. ‘Unsure: cannot read first name of author’. 
 
 **Important note:** If you have made a remark that relates to more than one accession, please make sure you add it into every relevant **Transcriber’s Notes** column. In the future, each row may be displayed individually without the context of the rows above and below it. For the same reason, do not use the phrases ‘see above’ or ‘see below’ in any column.
 
