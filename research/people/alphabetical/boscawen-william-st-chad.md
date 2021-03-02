@@ -9,9 +9,10 @@ image: Boscawen pictured in E.A. Budge _The Rise and Progress of Assyriology_ \(
 
 ## work at WHMM
 
-Casually employed by WHMM. Catalogued and studied material from ancient Near East \(Sumeria, Babylonia, Assyria\) and ancient Egypt from 1906. Attended auction sales and . 
+Casually employed by WHMM. Catalogued and studied material from ancient Near East \(Sumeria, Babylonia, Assyria\) and ancient Egypt from 1906. Attended auction sales and reviewed material for purchase.
 
-!! Biographical note Formerly employed at British Museum as an Assistant in the Ancient Near East department. Produced successful popular book on the ancient near east in 1903. Experienced repeated periods of financial and personal difficulties, including periods spent in workhouse \[St Pancras\]. Maintained regular freelance employment at WHMM from 1906 until his death in 1913.
+## Biographical note
+Formerly employed at British Museum as an Assistant in the Ancient Near East department. Published a successful popular book on the ancient near east in 1903. Undertook regular freelance employment at WHMM from 1906 until his death in 1913, working desipite repeated periods of personal difficulty and ill health.
 
 ## WHMM archives
 
