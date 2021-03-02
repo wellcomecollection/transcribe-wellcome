@@ -4,8 +4,6 @@ description: Guide for Transcribers
 
 # Library Registers
 
-
-
 ![](../.gitbook/assets/register-double-page.jpg)
 
 ## The Transcription Spreadsheet
