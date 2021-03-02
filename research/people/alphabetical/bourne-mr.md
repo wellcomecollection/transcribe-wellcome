@@ -14,8 +14,6 @@ From oral history of Mary Cathcart Borer, Symons 1987, p12:
 
 > You will be sorry to hear that Mr. Bourne died quite suddenly and peacefully yesterday, at 6.50pm. He had been away for some time with bronchial trouble complicated by cardiac weakness and right up to the end appeared to be making good progress. He was in his 79th year and had had 28 years service with you here. I shall be attending the funeral and will send a wreath on your behalf.
 
-WAHMM/RP/Jst/B/24. Report of 29 April 1936 \(image 249\)
-
 ## sources:
 * Symons 1987, 12.
 
