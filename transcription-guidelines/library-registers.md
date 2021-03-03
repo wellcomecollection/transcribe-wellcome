@@ -24,7 +24,7 @@ For any text which has been scored through, do the same in the transcription. If
 
 In some Registers, earlier information is visible in pencil underneath the final pen entry. If this is the case, add a **Transcriber’s Note** and include any of the information written in pencil where legible.
 
-If you cannot decipher the handwriting use \[.\] to indicate an indecipherable letter e.g. mon\[.\]stro\[..\]ty. The number of dots = number of missing letters. If you use dots for text you are unsure of, please make a note in the **Transcriber's Notes** e.g. Unsure: word/letter in title. Use \[?\] if you have guessed at a letter or word e.g. Mhairi\[?\].
+If you cannot decipher the handwriting use \[.\] to indicate an indecipherable letter e.g. mon\[.\]stro\[..\]ty. The number of dots = number of missing letters. Use \[?\] if you have guessed at a letter or word e.g. Mhairi\[?\]. If you use dots for text or words you are unsure of, please add a \[?\] and make a note in the **Transcriber's Notes** e.g. Unsure: word/letter in title. 
 
 If there are square brackets, question marks or dots in the Register already, add a note to the **Transcriber’s Notes** i.e. The square brackets in the author column are in the original document.
 
