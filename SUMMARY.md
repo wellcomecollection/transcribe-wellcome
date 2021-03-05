@@ -48,6 +48,7 @@
 * [Library Registers](transcription-guidelines/library-registers.md)
 * [Museum Flimsy Slips](transcription-guidelines/museum-flimsy-slips.md)
 * [Visual Material Registers](transcription-guidelines/visual-material-registers.md)
+* [Science Museum Transit Registers](transcription-guidelines/science-museum-transit-registers.md)
 
 ## Contributing to Transcribe Wellcome
 
