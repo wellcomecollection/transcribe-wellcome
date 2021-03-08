@@ -93,5 +93,21 @@ If you have a note that relates to more than one entry, please make sure you add
 
 Your email address e.g. j.bloggs@wellcome.org
 
+## Blue column headings
+
+### Image Number
+
+Enter the image number for the page of the transit register. This can be found at the top middle of the top middle of the image viewer window to the left of the '/'. 
+
+Alternatively, if you are transcribing from PDF, the image number is the PDF page number minus 1 \(because of the cover sheet added to the PDF\). 
+
+### Wellcome archive reference
+
+Enter the reference for the transit register in the Wellcome archive e.g. `WA/HMM/TR/Abc/A.1/1`. This will be the same for every entry in each batch of transcription. 
+
+### Licence
+
+Enter `CC0` for each entry.
+
 
 
