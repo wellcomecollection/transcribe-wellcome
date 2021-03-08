@@ -61,3 +61,7 @@ R14057/1936
 
 ```
 
+### Box Number
+
+Transcribe the box or case number exactly as written in the transit register. This is not a printed heading but has been added as an additional column on most pages of the registers. 
+
