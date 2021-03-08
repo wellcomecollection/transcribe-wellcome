@@ -54,8 +54,8 @@ New registration numbers consist of 4 parts:
 
 * a prefix \(which is always `R` in the transit registers\)
 * an integer of up to 5 digits in length
-* a divider \(usually written as `/` in the transit registers\)
-* a year \(usually written in full, and should always be transcribed as a full 4 digits\)
+* a divider \(usually written as `/` in the transit registers, but sometimes `-` or `'` are used instead\)
+* a year \(usually - but not always - written as 4 digits\). This should always be transcribed as a full 4 digits
 
 Here are some examples of new registration numbers as you may encounter them in the transit registers:
 
