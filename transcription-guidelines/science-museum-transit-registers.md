@@ -18,6 +18,8 @@ Each row of the transit register should be transcribed onto one row of the sprea
 
 Wellcome object identifiers are inconsistently recorded in the transit registers. When transcribing these identifiers, please transcribe _without_ prefix i.e. `R1234` should be transcribed into the **Old R number** column as just `1234`. 
 
+NN \(meaning 'no number'\) should be transcribed into **transcriber's notes**. 
+
 ## Green Column Headings
 
 ### **A number** 
@@ -42,6 +44,8 @@ Old registration numbers are integers of up to 5 digits in length.
 
 Do not include the R prefix on the spreadsheet, even if this is written in the transit register.  i.e. `R1234` in the register should be transcribed as `1234` in this column in the spreadsheet.
 
+Be aware that individual objects may have an old registration number, a new registration number or both. Be careful to enter these into the correct column of the spreadsheet. 
+
 ### New R number
 
 Transcribe the 'new registration number' for the object, without prefix.
@@ -53,18 +57,24 @@ New registration numbers consist of 4 parts:
 * a divider \(usually written as `/` in the transit registers\)
 * a year \(usually written in full, and should always be transcribed as a full 4 digits\)
 
-Here are some examples of new registration numbers written in full:
+Here are some examples of new registration numbers as you may encounter them in the transit registers:
 
-```text
-R1234/1938
-R6/1964
-R14057/1936
+| Written in transit register | Transcribe as: |
+| :--- | :--- |
+| R1234/1938 | 1234/1938 |
+| 6-1964 | 6/1964 |
+| 14057/1936 | 14057/1936 |
+| R'67-492 | 492/1967 |
 
-```
+For the purposes of transit register transcription, all new registration numbers should be transcribed _without_ prefix but with the year written in full i.e. `1234/1938`. 
 
-For the purposes of transit register transcription, these should be transcribed _without_ prefix i.e. `1234/1938`. 
+Be aware that individual objects may have an old registration number, a new registration number or both. Be careful to enter these into the correct column of the spreadsheet. 
 
 ### Box Number
 
 Transcribe the box or case number exactly as written in the transit register. This is not a printed heading but has been added as an additional column on most pages of the registers. 
+
+### Wellcome location
+
+Transcribe the Wellcome Location exactly as written in the transit register. This may be either a gallery or a stores location. Do not include any box number details already transcribed into the box number column. 
 
