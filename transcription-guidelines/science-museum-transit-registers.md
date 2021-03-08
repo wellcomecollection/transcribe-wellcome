@@ -20,6 +20,8 @@ Wellcome object identifiers are inconsistently recorded in the transit registers
 
 NN \(meaning 'no number'\) should be transcribed into **transcriber's notes**. 
 
+If the register uses `ditto` or `" "` \(or similar\), transcribe the relevant information in full in each row. Do not transcribe as written. 
+
 ## Green Column Headings
 
 ### **A number** 
@@ -78,4 +80,18 @@ Transcribe the box or case number exactly as written in the transit register. Th
 ### Wellcome location
 
 Transcribe the Wellcome Location exactly as written in the transit register. This may be either a gallery or a stores location. Do not include any box number details already transcribed into the box number column. 
+
+## Yellow Column Headings
+
+### Transcriber's Notes
+
+Please use this column to record any additional notes, or to note any problems you have had with the transcription. 
+
+If you have a note that relates to more than one entry, please make sure you add it into every relevant row of the spreadsheet and avoid the use of the phrases 'see above', 'see below' or 'ditto' in any column. 
+
+### Transcribed By
+
+Your email address e.g. j.bloggs@wellcome.org
+
+
 
