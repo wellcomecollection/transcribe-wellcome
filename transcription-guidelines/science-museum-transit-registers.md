@@ -18,7 +18,7 @@ Each row of the transit register should be transcribed onto one row of the sprea
 
 Wellcome object identifiers are inconsistently recorded in the transit registers. When transcribing these identifiers, please transcribe _without_ prefix i.e. `R1234` should be transcribed into the **Old R number** column as just `1234`. 
 
-NN \(meaning 'no number'\) should be transcribed into **transcriber's notes**. 
+`NN` \(meaning 'no number'\) should be transcribed into **transcriber's notes**. 
 
 If the register uses `ditto` or `" "` \(or similar\), transcribe the relevant information in full in each row. Do not transcribe as written. 
 
@@ -86,6 +86,8 @@ Transcribe the Wellcome Location exactly as written in the transit register. Thi
 ### Transcriber's Notes
 
 Please use this column to record any additional notes, or to note any problems you have had with the transcription. 
+
+`NN` \('no number'\) should also be noted in this column. 
 
 If you have a note that relates to more than one entry, please make sure you add it into every relevant row of the spreadsheet and avoid the use of the phrases 'see above', 'see below' or 'ditto' in any column. 
 
