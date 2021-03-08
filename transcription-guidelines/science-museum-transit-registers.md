@@ -42,7 +42,7 @@ Transcribe the 'old registration number' for the object, without prefix.
 
 Old registration numbers are integers of up to 5 digits in length. 
 
-Do not include the R prefix on the spreadsheet, even if this is written in the transit register.  i.e. `R1234` in the register should be transcribed as `1234` in this column in the spreadsheet.
+Do not include the R prefix on the spreadsheet, even if this is written in the transit register.  i.e. `R1234` in the register should be transcribed as `1234` in this column in the spreadsheet. Please transcribe any number suffixes \(e.g. `A-F`\) separately into **transcriber's notes**. 
 
 Be aware that individual objects may have an old registration number, a new registration number or both. Be careful to enter these into the correct column of the spreadsheet. 
 
@@ -50,14 +50,15 @@ Be aware that individual objects may have an old registration number, a new regi
 
 Transcribe the 'new registration number' for the object, without prefix.
 
-New registration numbers consist of 4 parts:
+New registration numbers consist of 4 or 5 parts:
 
 * a prefix \(which is always `R` in the transit registers\)
 * an integer of up to 5 digits in length
 * a divider \(usually written as `/` in the transit registers, but sometimes `-` or `'` are used instead\)
 * a year \(usually - but not always - written as 4 digits\). This should always be transcribed as a full 4 digits
+* \(optionally\) a suffix, usually alphabetical e.g. `A-G`
 
-Here are some examples of new registration numbers as you may encounter them in the transit registers:
+Here are some further examples of new registration numbers as you may encounter them in the transit registers:
 
 | Written in transit register | Transcribe as: |
 | :--- | :--- |
@@ -66,7 +67,7 @@ Here are some examples of new registration numbers as you may encounter them in 
 | 14057/1936 | 14057/1936 |
 | R'67-492 | 492/1967 |
 
-For the purposes of transit register transcription, all new registration numbers should be transcribed _without_ prefix but with the year written in full i.e. `1234/1938`. 
+For the purposes of transit register transcription, all new registration numbers should be transcribed _without_ prefix but with the year written in full i.e. `1234/1938`. Please transcribe any number suffixes \(e.g. `A-F`\) separately into **transcriber's notes**. 
 
 Be aware that individual objects may have an old registration number, a new registration number or both. Be careful to enter these into the correct column of the spreadsheet. 
 
