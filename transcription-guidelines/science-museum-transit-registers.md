@@ -46,13 +46,14 @@ Do not include the R prefix on the spreadsheet, even if this is written in the t
 
 Transcribe the 'new registration number' for the object, without prefix.
 
-New registration numbers consist of 3 parts:
+New registration numbers consist of 4 parts:
 
+* a prefix \(which is always `R` in the transit registers\)
 * an integer of up to 5 digits in length
 * a divider \(usually written as `/` in the transit registers\)
 * a year \(usually written in full, and should always be transcribed as a full 4 digits\)
 
-Here are some examples of new registration numbers:
+Here are some examples of new registration numbers written in full:
 
 ```text
 R1234/1938
@@ -60,6 +61,8 @@ R6/1964
 R14057/1936
 
 ```
+
+For the purposes of transit register transcription, these should be transcribed _without_ prefix i.e. `1234/1938`. 
 
 ### Box Number
 
