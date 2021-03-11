@@ -48,7 +48,7 @@ Do not include the R prefix on the spreadsheet, even if this is written in the t
 
 Be aware that individual objects may have an old registration number, a new registration number or both. Be careful to enter these into the correct column of the spreadsheet. 
 
-### New R number
+### New R year number
 
 Transcribe the 'new registration number' for the object, without prefix.
 
