@@ -178,7 +178,9 @@ Enter any text that appears in the ‘Group’ section of the slip. In almost al
 
 * Transcribe fractions \(e.g. in measurements\) using Insert – Symbol and selecting the correct proper fraction. If you encounter difficulties in finding the correct symbol, record this in the **transcriber’s notes \(column V\)**.
 * The following are keyboard shortcuts that can be used instead of the insert method: 
-  * **Alt + 0188 = ¼** **Alt + 0189 = ½** **Alt + 0190 = ¾**
+  * **Alt + 0188 = ¼** 
+  * **Alt + 0189 = ½** 
+  * **Alt + 0190 = ¾**
 * All other fractions **need to be written out** as e.g. 5/8
   * Remember to put a space _before_ you write out the fraction e.g 3 5/8" 
 * Sometimes the description continues on the back of the slip, please put this in description.
