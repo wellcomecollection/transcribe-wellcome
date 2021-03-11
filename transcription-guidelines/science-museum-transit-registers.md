@@ -40,7 +40,7 @@ Transcribe the object description from the column headed 'object description' in
 
 ### Old R number
 
-Transcribe the 'old registration number' for the object, without prefix.
+Transcribe the old registration number for the object, without prefix.
 
 Old registration numbers are integers of up to 5 digits in length. 
 
@@ -50,9 +50,9 @@ Be aware that individual objects may have an old registration number, a new regi
 
 ### New R year number
 
-Transcribe the 'new registration number' for the object, without prefix.
+Transcribe the new registration number for the object, without prefix.
 
-New registration numbers consist of 4 or 5 parts:
+New registration 'R year' numbers consist of 4 or 5 parts:
 
 * a prefix \(which is always `R` in the transit registers\)
 * an integer of up to 5 digits in length
