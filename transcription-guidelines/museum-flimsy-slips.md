@@ -117,7 +117,7 @@ If there is _both_ a stamp and additional notes, please put all the additional n
 
 In addition to transcribing text exactly as written on the flimsy slips under the green column headings, transcribers should also extract acquisition date and \(where relevant\) auction house and lot numbers into a standardised format:
 
-Acquisition Date \(column R\):
+### Acquisition Date \(column R\):
 
 Transcribe acquisition dates according to the following instructions:
 
