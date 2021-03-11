@@ -10,26 +10,49 @@ description: Guide for Transcribers
 
 The column headings in the transcription spreadsheet correspond – broadly – to the headings printed on the flimsy slips, plus some additional columns for recording details which may be useful for future data analysis and online search.
 
-The style of the printed flimsy slips changed over time, and according to the purpose for which they were used by Wellcome Historical Medical Museum, and some headings were rarely used.
+The style of the printed flimsy slips changed over time, and according to the purpose for which they were used by Wellcome Historical Medical Museum, and some headings were rarely used. _Majority_ of the time the columns will directly correspond with the slip.
 
 ## General transcription instructions
 
+### More than one object
+
 Generally, each flimsy slip will be transcribed onto **one** row of the spreadsheet, except:
 
-* When one slip has more than one object described in detail, in which case split the description over separate rows, with one row for each object. Give each row/description a **sub number** in **column E** \[1, 2, 3, 4 etc.\] or an alphabetical identifier if letters of the alphabet have been used to distinguish items on the flimsy slip itself \(this is rare, but there are some known examples\).
-* When one slip represents a short running sequence of A numbers, in which case use a separate row for each number in the sequence, transcribing the details from the card onto each row. Note that you will not be able to copy and paste an entire row of the spreadsheet \(which should prevent you accidentally duplicating rows for the same A number\), but you can copy and paste column D across to column V if the details are the same as the preceding row.
-* Some flimsy slips will have **pencil** written in addition to pen. If you see this, please transcribe as per usual in their respective fields i.e if half the description is in pen and the other in pencil, transcriber all of it in the description \(column K\).
-  * If it is unclear where the pencil writing is meant to go, please enter it into additional notes \(column Q\) and highlight this in the transcribers note column.
-* If there is an original **question mark** within a field and/or writing on your flimsy slip, please transcribe this exactly as it shows and make a note that it is in the original flimsy slip in the transcribers notes column.
-* If there is something you are unsure of, please note it as \[…\] and make sure there is an **‘unsure’** note in the transcribers column, describing what it is you are unsure of.
+* **When one slip has** _**more**_ **than one object described in detail:**
+  *  Split the description over separate rows, with one row for each object. 
+  * Give each row/description a **sub number** in **column E** \[1, 2, 3, 4 etc.\] _unless_ it already has alphabetical identifier **\(e.g three objects on a single slip have been lettered A, B and C\)** then put the corresponding letter in the sub number column for each row
+* **When one slip represents a short running sequence of A numbers:**
+  *  Use a separate row for each number in the sequence, transcribing the details from the card onto each row. 
+  * This can appear, for example, "**A15186-15189**" with four objects on the single slip
 
-**Important note:** For any text which has been scored through, do the same in the transcription. If you do use the strikethrough, or any other formatted text, you **must** use the appropriate tagging e.g. &lt;s&gt;\[transcribed text here\]&lt;/s&gt; or &lt;i&gt;\[_transcribed text here_\]&lt;/i&gt; for italics.
+### Pencil writing
 
-**Important note:** You may notice gaps in the accession numbers, this is normal. Please continue to work with the numbers assigned in column A.
+* If you see this, **please transcribe as per usual** in their respective fields 
+  * i.e if half the description is in pen and the other in pencil, transcriber all of it in the description \(column K\).
+  * You do not need to note that there is pencil writing on the slip or what colour pen
+* If it is unclear where the pencil writing is meant to go, please enter it into additional notes \(column Q\) and highlight this in the transcribers note column.
 
-**Important note:** You may see the following image has a **sketching** of the object, this is the reverse of the flimsy slip that has been digitised. Please make a note of this sketching in the transcribers notes column.
+### Question marks
 
-**Definitions for general reference:**
+If there is an original **question mark** within a field and/or writing on your flimsy slip, please transcribe this exactly as it shows and make a note that it is in the original flimsy slip in the transcribers notes column.
+
+### Unsure about something
+
+If there is something you are unsure of, please note it as \[…\] and make sure there is an **‘unsure’** note in the transcribers column, describing what it is you are unsure of.
+
+### Crossed out writing
+
+For **any** text which has been crossed out or scored through, please do it using &lt;s&gt; and &lt;/s&gt; tagging:**&lt;s&gt;**\[transcribed text here\]**&lt;/s&gt;**
+
+### Gaps in accession numbers
+
+You may notice gaps in the accession numbers, this is normal. Please continue to work with the numbers assigned in column A.
+
+### Sketches and drawings
+
+You may see the following image in your batch has a sketching of the object, this is the reverse of the flimsy slip that has been digitised. Please make a note of this sketching in the transcribers notes column in the following format: "**Illustration of object drawn on reverse of slip**".
+
+### **Acquisition vs Accession**
 
 * **Acquisition date –** When the item/object/record was _acquired_ e.g. the date it was bought at an auction
 * **Accession date –** When the item/object/record was accessioned _into_ the collection
@@ -50,9 +73,9 @@ Columns B and C have been hidden and locked. They will be filled in after the fu
 
 **Box URL \(column C\):** This column has been hidden and its contents deleted, please ignore it.
 
-Image no. \(column D\)**:** For each flimsy slip, enter the [image number]() given in the Wellcome Library website Viewer toolbar. If you are transcribing from a PDF, the image number is the page number minus 1.
+Image no. \(column D\)**:** For each flimsy slip, enter the [image number](museum-flimsy-slips.md) given in the Wellcome Library website Viewer toolbar. If you are transcribing from a PDF, the image number is the page number minus 1.
 
-Sub number \(column E\)**:** this column is only required where more than one row is required for a flimsy slip, or where there are several cards representing one A number, as explained in the [~~general transcription instructions~~](). Leave blank in all other cases.
+Sub number \(column E\)**:** this column is only required where more than one row is required for a flimsy slip, or where there are several cards representing one A number, as explained in the [~~general transcription instructions~~](museum-flimsy-slips.md). Leave blank in all other cases.
 
 R number \(column F\)**:** Registration \(‘R’\) numbers are sometimes written under or to the right hand side of A numbers. They can also appear in the middle of the flimsy slip. Similarly to the A number, they may appear with an R prefix but more commonly without.
 
@@ -95,7 +118,7 @@ Note that after the description, some slips include the lot numbers or value. In
 
 Bought of \(column L\)**:** Transcribe the acquisition details, which usually appear in the slip under ‘bought of’, exactly as written on the flimsy slip.
 
-Value \(column M\)**:** Enter the acquisition value of the object in this column, exactly as written on the flimsy slip. When a slip describes multiple items, these are often recorded after each object and should be entered one per row for each object as explained in the [general transcription instructions]().
+Value \(column M\)**:** Enter the acquisition value of the object in this column, exactly as written on the flimsy slip. When a slip describes multiple items, these are often recorded after each object and should be entered one per row for each object as explained in the [general transcription instructions](museum-flimsy-slips.md).
 
 At present \(column N\)**:** Anything recorded in the ‘at present’ field should be transcribed here, exactly as written on the flimsy slip. This may refer to objects transferred to the Wellcome Research Institute, or dispersed to other museums. For example, ‘To WRI 18 X 37’ means that the object was transferred to the Wellcome Research Institute on the 18 Oct 1937. In most cases, this heading will be empty on the slips and blank on the transcription.
 
@@ -158,11 +181,11 @@ Soth. = Sotheby’s
 
 St. = Stevens
 
-Lot No. \(column T\): Enter the lot number, if applicable, in this column. When a slip describes multiple items, these are often recorded next to each object \(when different lot numbers\) and should be entered on separate rows as explained in the [general transcription instructions]().
+Lot No. \(column T\): Enter the lot number, if applicable, in this column. When a slip describes multiple items, these are often recorded next to each object \(when different lot numbers\) and should be entered on separate rows as explained in the [general transcription instructions](museum-flimsy-slips.md).
 
 ## Yellow Column Headings
 
-Transcribed By \(column U\): Your email address ****e.g. j.bloggs@wellcome.org.
+Transcribed By \(column U\): Your email address _\*\*_e.g. j.bloggs@wellcome.org.
 
 Transcriber’s Notes \(column V\): Use this column to record any additional notes. For example, if the slip is accompanied by a letter or extensive notes not transcribed in ‘Description of object’, there is a drawing, the slip is double sided etc.
 
@@ -170,15 +193,13 @@ Transcriber’s Notes \(column V\): Use this column to record any additional not
 
 **Important note:** If you have made a remark that relates to more than one accession, please make sure you add it into every relevant **Transcriber’s Notes** column. In the future, each row may be displayed individually without the context of the rows above and below it. For the same reason, do not use the phrases ‘see above’ or ‘see below’ in any column.
 
-Creative Commons Licence \(Column W\): This column assigns the CC0 terms to each row of transcribed data and does not require transcription. 
+Creative Commons Licence \(Column W\): This column assigns the CC0 terms to each row of transcribed data and does not require transcription.
 
 ## Upon completion
 
 Please upload your file **to Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.
 
 Once you’ve done this please leave a message in your respective channel that you’ve uploaded your sheet.
-
-
 
 #### **Version 4.0**
 
