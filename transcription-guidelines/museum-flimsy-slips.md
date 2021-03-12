@@ -52,11 +52,15 @@ You may notice gaps in the accession numbers, this is normal. Please continue to
 
 You may see the following image in your batch has a sketching of the object, this is the reverse of the flimsy slip that has been digitised. Please make a note of this sketching in the transcribers notes column in the following format: "**Illustration of object drawn on reverse of slip**".
 
-### **Stamps** 
+### **Stamps & labels**
 
 * If you see a stamp on your flimsy slip, enter this information in this column according to the following format: 
   * **\[Stamp\] W.H.M.M. ACCESSION DEPARTMENT. Received DD Month Year. Acc no.\#\#\#**
 * If there is _both_ a stamp and additional notes, please put all the additional notes **first** and then the stamp transcription.
+
+![](../.gitbook/assets/labels.png)
+
+You may notice that some of the labels in the top right are scored through, please list these in additional notes \(column Q\) separated by a semi-colon. This example here would be transcribed as **W; &lt;s&gt;H.M.M.&lt;/s&gt;**
 
 ### **Non-Latin script**
 
@@ -89,6 +93,12 @@ Other identifying numbers may also be written on the flimsy slip: **the ‘A’ 
 * If you come across an A number for which you have a duplicate please insert a row directly underneath and transcribe this slip in that row
   * You may find that the slip is majority exactly the same with only 1 difference, please still transcribe the whole slip in separate row
 * If you come across an A number which is outside your allocated sequence, please transcribe these at the **bottom** of your spreadsheet and add in the A number in column A
+
+#### Crossed out A numbers
+
+If you come across an A number that has been crossed out on your flimsy slip and **re-written,** please enter the **re-written** number _only_ in column A and leave a transcribers note indicating the original number was crossed out and you have entered the re-written number.
+
+If **no** A number is re-written, leave column A _blank_ and leave a transcribers note.
 
 #### ¡ Columns B and C have been hidden and locked !
 
@@ -257,17 +267,31 @@ Enter the lot number, if applicable, in this column. When a slip describes multi
 
 ## Yellow Column Headings
 
-Transcribed By \(column U\): Your email address _\*\*_e.g. j.bloggs@wellcome.org.
+![](../.gitbook/assets/columnsu-w.png)
 
-Transcriber’s Notes \(column V\): Use this column to record any additional notes. For example, if the slip is accompanied by a letter or extensive notes not transcribed in ‘Description of object’, there is a drawing, the slip is double sided etc.
+### Transcribed By \(column U\)
 
-**Important note:** Also use this column to note any problems you have had with the transcription. Prefix this note with ‘Unsure’ followed by an explanation e.g. ‘Unsure: cannot read last digit of accession number’.
+Your email address e.g. j.bloggs@wellcome.org
 
-**Important note:** If you have made a remark that relates to more than one accession, please make sure you add it into every relevant **Transcriber’s Notes** column. In the future, each row may be displayed individually without the context of the rows above and below it. For the same reason, do not use the phrases ‘see above’ or ‘see below’ in any column.
+### Transcriber’s Notes \(column V\)
 
-Creative Commons Licence \(Column W\): This column assigns the CC0 terms to each row of transcribed data and does not require transcription.
+* Use this column to record any additional notes. For example, if the slip is accompanied by a letter or extensive notes not transcribed in ‘Description of object’, there is a drawing, the slip is double sided etc.
+* Also use this column to note any problems you have had with the transcription. [Prefix this note with ‘Unsure’ followed by an explanation](https://app.gitbook.com/@wellcomecollection/s/transcribe-wellcome/~/drafts/-MV_hg8EJdv6gx0T8d8v/transcription-guidelines/museum-flimsy-slips#unsure-about-something) e.g. ‘Unsure: cannot read last digit of accession number’.
+* If you have made a remark that relates to more than one accession, please make sure you add it into every relevant **Transcriber’s Notes** column. Do not use the phrases ‘see above’ or ‘see below’ in any column, each row needs its own note.
+
+### Creative Commons Licence \(Column W\)
+
+This column assigns the CC0 terms to each row of transcribed data. Do not edit.
+
+## Red Column - Sensitivity
+
+![](../.gitbook/assets/columnx.png)
+
+This column has a drop down list to select 'Y' for Yes. This is in case you come across any particularly offensive/derogatory language that you feel should be flagged. If you feel that this is the case, please select Y and leave a note in transcribers notes.
 
 ## Upon completion
+
+![](../.gitbook/assets/completedfolder.png)
 
 Please upload your file **to Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.
 
