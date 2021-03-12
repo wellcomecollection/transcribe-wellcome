@@ -62,6 +62,8 @@ You may see the following image in your batch has a sketching of the object, thi
 
 You may notice that some of the labels in the top right are scored through, please list these in additional notes \(column Q\) separated by a semi-colon. This example here would be transcribed as **W; &lt;s&gt;H.M.M.&lt;/s&gt;**
 
+\*\*\*\*[**All stamps and labels go in the "Additional notes found on flimsy" column.**](https://app.gitbook.com/@wellcomecollection/s/transcribe-wellcome/~/drafts/-MVaf8gMXjgrtHP6-FSe/transcription-guidelines/museum-flimsy-slips#additional-notes-on-flimsy-column-q) 
+
 ### **Non-Latin script**
 
 * If you notice anything is written in non-Latin script and you cannot discern or transliterate it, please put \[…\]. 
