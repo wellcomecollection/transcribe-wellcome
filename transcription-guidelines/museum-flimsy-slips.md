@@ -220,50 +220,40 @@ Transcribe any text or letters under the ‘To be placed’ heading, exactly as 
 
 ## Blue Column Headings
 
-In addition to transcribing text exactly as written on the flimsy slips under the green column headings, transcribers should also extract acquisition date and \(where relevant\) auction house and lot numbers into a standardised format:
+In addition to transcribing text exactly as written on the flimsy slips under the green column headings, transcribers should also extract acquisition date and \(where relevant\) auction house and lot numbers into a standardised format.
 
-### Acquisition Date \(column R\):
+![](../.gitbook/assets/columnsr-t.png)
+
+### Acquisition Date \(column R\)
 
 Transcribe acquisition dates according to the following instructions:
 
-* Enter an exact acquisition date where this is written on the flimsy slip \(usually already transcribed in **Bought of \(column L\)**\) in the format DD-Month-Full Year. e.g. 22 January 1929. Or…
-* Where the date written on the flimsy slip is given **only as a month**, **year**, or **span of days**, enter the latest date at which the object\(s\) can have been acquired by the Wellcome Historical Medical Museum. Examples are as follows:
-  * A written acquisition date of August 1952 should be entered as 31 August 1952;
-  * A written acquisition date of 1924 should be entered as 31 December 1924;
-  * A sale held on **17-20 January 1930** should be entered as **20 January 1930**.
-* For dates in February, you may find [this list of leap years 1800 - 2400](https://kalender-365.de/leap-years.php) useful. Or…
-* Enter the date at which the item is known to have been processed by the W.H.M.M. Accessions Department, if - and only if - no other date is written on the card. Or…
+* Enter an exact acquisition date where this is written on the flimsy slip \(usually already transcribed in **Bought of \(column L\)**\) in the format DD-Month-Full Year. e.g. 22 January 1929.
+* Where the date written on the flimsy slip is given **only as a month**, **year**, or **span of days**, enter the latest date at which the object\(s\) can have been acquired. Examples are as follows:
+  * Month and year: **August 1952** should be entered as **31 August 1952**
+  * Year only: **1924** should be entered as **31 December 1924**
+  * Span of days: **17-20 January 1930** should be entered as **20 January 1930**.
+* For dates in February, you may find [this list of leap years 1800 - 2400](https://kalender-365.de/leap-years.php) useful.
+* If there is a date in an accession department **stamp** and no other date, enter that date
 * Leave the field **blank** where **no date at all is written** on the flimsy slip **unless** the date of acquisition can be reasonably assumed from other contextual evidence \(e.g. adjacent flimsy slips recording objects acquired from the same source\).
 
-All assumptions and normalisations should be **noted in the Transcriber's Notes**.
+If you have to normalise the dates as explained above, **leave a note in transcribers notes saying "Acquisition date normalised."**
 
-Auction House \(column S\): In many cases, the acquisition will be an auction purchase - e.g. Soth. 6 & 7/12/20 Lot 196 refers to lot 196 sold at Sotheby’s during the sale held on 6th and 7th December 1920. Sometimes the lot number appears before the date, and the month may appear in Roman numerals \(Soth. 91/1/XII/30\).
+### Auction House \(column S\)
+
+In many cases, the acquisition will be an auction purchase - e.g. **Soth. 6 & 7/12/20 Lot 196** refers to lot 196 sold at Sotheby’s during the sale held on 6th and 7th December 1920. 
+
+Sometimes the lot number appears before the date, and the month may appear in Roman numerals \(Soth. 91/1/XII/30\).
 
 These abbreviations can expanded using the list below. Select the relevant auction house from the dropdown list in column R.
 
-Ch. = Christies
+![](../.gitbook/assets/auctionhouses.png)
 
-Deb. = Debenham Stores
+A list of the current known auction houses can be seen in the 'Auction House' tab at the bottom of your sheet.
 
-Fos. = Foster
+### Lot No. \(column T\)
 
-Glen. = Glendining
-
-H. = Hurcome
-
-K.F.&R. = Knight, Frank & Rutley
-
-R.F.&H. = Robinson, Fisher & Harding
-
-P.&S. = Puttick & Simpson
-
-P.S.&N. = Phillips Son & Neale
-
-Soth. = Sotheby’s
-
-St. = Stevens
-
-Lot No. \(column T\): Enter the lot number, if applicable, in this column. When a slip describes multiple items, these are often recorded next to each object \(when different lot numbers\) and should be entered on separate rows as explained in the [general transcription instructions](museum-flimsy-slips.md).
+Enter the lot number, if applicable, in this column. When a slip describes multiple items, these are often recorded next to each object \(when different lot numbers\) and should be entered on separate rows as explained in the [general transcription instructions](https://app.gitbook.com/@wellcomecollection/s/transcribe-wellcome/~/drafts/-MV_dz6oswYW2yuSHFdq/transcription-guidelines/museum-flimsy-slips#more-than-one-object).
 
 ## Yellow Column Headings
 
