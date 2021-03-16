@@ -68,7 +68,7 @@ You may notice that some of the labels in the top right are scored through, plea
 
 ![This stamp can mostly be found towards the bottom of the slip](../.gitbook/assets/merseyside2.jpg)
 
-If you notice a slip has a very clear dispersal like the example in the image above, please use the tag **\[Dispersal\]** and list it in the additional notes on flimsy column. The example above would be transcribed as the following: **\[Dispersal\] MERSEYSIDE COUNTY MUSEUMS FEB 1981**
+If you notice a slip has a very clear dispersal like the example in the image above, please use the tag \[Dispersal\] and list it in the additional notes on flimsy column. The example above would be transcribed as the following: \[Dispersal\] MERSEYSIDE COUNTY MUSEUMS FEB 1981
 
 ### **Non-Latin script**
 
