@@ -76,9 +76,9 @@ You may notice that some of the labels in the top right are scored through, plea
 
 ## Green Column Headings
 
-![Columns A to F](../.gitbook/assets/columnsa-f.png)
+![](../.gitbook/assets/green-a-to-e.png)
 
-### A number \(column A\) 
+### A number
 
 ![This is the &apos;accession&apos; number, 15186](../.gitbook/assets/accessionno.png)
 
@@ -102,11 +102,9 @@ If you come across an A number that has been crossed out on your flimsy slip and
 
 If **no** A number is re-written, leave column A _blank_ and leave a transcribers note.
 
-#### ¡ Columns B and C have been hidden and locked !
+#### ¡ Column B is hidden, please ignore it and keep it hidden !
 
-You do not need to worry about these columns, please ignore them in your transcription.
-
-### Image no. \(column D\)
+### Image no.
 
 ![How it appears on wellcomecollection.org](../.gitbook/assets/wellcomecol.png)
 
@@ -115,12 +113,12 @@ You do not need to worry about these columns, please ignore them in your transcr
 * For each flimsy slip, enter the image number given in the Wellcome Library or Wellcome Collections website Viewer toolbar.
 * If you are transcribing from a PDF, the image number is the page number minus 1.
 
-### Sub number \(column E\)
+### Sub number
 
 * This is only required where **more than one row** is required for a flimsy slip 
 * Or where there are **several cards representing one A number**, as explained in the general transcription instructions. _Leave blank in all other cases._
 
-### R number \(column F\)
+### R number
 
 Registration \(‘R’\) numbers are sometimes written under or to the right hand side of A numbers. They can also appear in the middle of the flimsy slip. Similarly to the A number, they may appear with an R prefix but more commonly without.
 
@@ -145,18 +143,18 @@ You will occasionally encounter flimsy slips which record an A number, an R runn
 
 You will also come across a _range_ of R numbers for multiple items on one flimsy slip. Please make sure to enter each one within the range. E.g if you see R45826-7 then fully list them R45826; R45827; R45828… etc. **separated by a semi-colon**.
 
-![](../.gitbook/assets/columnsg-k%20%281%29.png)
+![](../.gitbook/assets/green-f-to-j.png)
 
-### Classification \(column G\)
+### Classification
 
 * Enter the classification as it appears on the slip. E.g., QQ, CCC, M etc. or leave blank as appropriate.
 * If you are confused about classification codes, check the classification codes sheet in the files section of the teams group:
 
-### Group \(column H\)
+### Group
 
 Enter any text that appears in the ‘Group’ section of the slip. In almost all cases though, this field is blank.
 
-### Section \[T\] \(column I\)
+### Section \[T\]
 
 * These codes are for the _TYPE_ of object
 * Transcribe the type of the object in column I.
@@ -164,7 +162,7 @@ Enter any text that appears in the ‘Group’ section of the slip. In almost al
 * In some cases, there will be more than one type, which should be separated by a semi-colon in your transcription. 
 * **Please note that the abbreviations used may represent insensitive or outdated terminology which you may find uncomfortable. Please transcribe the abbreviation as written on the flimsy slip.**
 
-### Section \[C\] \(column J\) 
+### Section \[C\] 
 
 * These codes are for place of origin \(culture\) 
 * Transcribe the abbreviation in column J. 
@@ -175,11 +173,10 @@ Enter any text that appears in the ‘Group’ section of the slip. In almost al
 
 **If you are confused about any classification, nationality \(Section \[C\]\) or Type \(Section \[T\]\) codes and can't decide which column they should go into, please check out the lists available in the WHMM codes folder found under the Museum Index Cards channel's file section.**
 
-### Description of object \(column K\)
+### Description of object 
 
 * Enter the description of the object\(s\) in this column, exactly as written on the flimsy slip 
-* _Except_ when the slip describes multiple objects which can be clearly separated out onto separate rows, please use separate rows for each object and remember to add **sub numbers** in 
-* [**Column E**](https://app.gitbook.com/@wellcomecollection/s/transcribe-wellcome/~/drafts/-MVX8pRWCDwKs0LJB2xG/transcription-guidelines/museum-flimsy-slips#sub-number-column-e).
+* _Except_ when the slip describes multiple objects which can be clearly separated out onto separate rows, please use separate rows for each object and remember to add **sub numbers.**
 
 #### Ditto
 
@@ -198,34 +195,34 @@ Enter any text that appears in the ‘Group’ section of the slip. In almost al
 * Sometimes the description continues on the back of the slip, please put this in description.
 * Some slips include the lot numbers or value - transcribe these in **Columns L** and **M**. 
 
-![](../.gitbook/assets/columnsl-p.png)
+![](../.gitbook/assets/green-k-to-p.png)
 
-### Bought of \(column L\)
+### Bought of
 
 Transcribe the acquisition details, which usually appear in the slip under ‘bought of’, exactly as written on the flimsy slip.
 
-### Value \(column M\) 
+### Value 
 
 * Enter the acquisition value of the object in this column, exactly as written on the flimsy slip.
 * If there are multiple values if a slip has more than one object, transcribe the corresponding value for each object in its own row. If you can't discern this, put an unsure note in transcribers notes.
 * If you come across non-pound sterling currencies, simply transcribe other currencies as they are written e.g. 36l.
 
-### At present \(column N\) 
+### At present 
 
 * Anything recorded in the ‘at present’ field should be transcribed here, exactly as written on the flimsy slip. 
 * This may refer to objects transferred to the Wellcome Research Institute, or dispersed to other museums. For example, ‘To WRI 18 X 37’ means that the object was transferred to the Wellcome Research Institute on the 18 Oct 1937.
 
-### Case No. \(column O\)
+### Case No. 
 
 * Enter the case number here. 
 * Sometimes more than one will be recorded; separate different case numbers with a semi-colon.
 * Others may be scored through and replaced with a new one. In this case, [show the old number scored through in this column.](https://app.gitbook.com/@wellcomecollection/s/transcribe-wellcome/~/drafts/-MVX8pRWCDwKs0LJB2xG/transcription-guidelines/museum-flimsy-slips#crossed-out-writing)
 
-### To be placed \(column P\) 
+### To be placed
 
 Transcribe any text or letters under the ‘To be placed’ heading, exactly as written on the flimsy slip. In most cases, this heading will be empty on the slips and blank on the transcription.
 
-### Additional notes on flimsy \(column Q\)
+### Additional notes on flimsy 
 
 * Use this column to enter, **exactly** as written, anything **on the slip** that does _not_ fit into other columns.
 * Do not put your own notes in this column. If you need to add notes e.g there is a drawing, put it in transcribers notes.
@@ -234,9 +231,9 @@ Transcribe any text or letters under the ‘To be placed’ heading, exactly as 
 
 In addition to transcribing text exactly as written on the flimsy slips under the green column headings, transcribers should also extract acquisition date and \(where relevant\) auction house and lot numbers into a standardised format.
 
-![](../.gitbook/assets/columnsr-t.png)
+![](../.gitbook/assets/blue-q-to-s.png)
 
-### Acquisition Date \(column R\)
+### Acquisition Date
 
 Transcribe acquisition dates according to the following instructions:
 
@@ -251,7 +248,7 @@ Transcribe acquisition dates according to the following instructions:
 
 If you have to normalise the dates as explained above, **leave a note in transcribers notes saying "Acquisition date normalised."**
 
-### Auction House \(column S\)
+### Auction House 
 
 In many cases, the acquisition will be an auction purchase - e.g. **Soth. 6 & 7/12/20 Lot 196** refers to lot 196 sold at Sotheby’s during the sale held on 6th and 7th December 1920. 
 
@@ -263,31 +260,31 @@ These abbreviations can expanded using the list below. Select the relevant aucti
 
 A list of the current known auction houses can be seen in the 'Auction House' tab at the bottom of your sheet.
 
-### Lot No. \(column T\)
+### Lot No. 
 
 Enter the lot number, if applicable, in this column. When a slip describes multiple items, these are often recorded next to each object \(when different lot numbers\) and should be entered on separate rows as explained in the [general transcription instructions](https://app.gitbook.com/@wellcomecollection/s/transcribe-wellcome/~/drafts/-MV_dz6oswYW2yuSHFdq/transcription-guidelines/museum-flimsy-slips#more-than-one-object).
 
 ## Yellow Column Headings
 
-![](../.gitbook/assets/columnsu-w.png)
+![](../.gitbook/assets/yellow-t-to-v.png)
 
-### Transcribed By \(column U\)
+### Transcribed By 
 
 Your email address e.g. j.bloggs@wellcome.org
 
-### Transcriber’s Notes \(column V\)
+### Transcriber’s Notes 
 
 * Use this column to record any additional notes. For example, if the slip is accompanied by a letter or extensive notes not transcribed in ‘Description of object’, there is a drawing, the slip is double sided etc.
 * Also use this column to note any problems you have had with the transcription. [Prefix this note with ‘Unsure’ followed by an explanation](https://app.gitbook.com/@wellcomecollection/s/transcribe-wellcome/~/drafts/-MV_hg8EJdv6gx0T8d8v/transcription-guidelines/museum-flimsy-slips#unsure-about-something) e.g. ‘Unsure: cannot read last digit of accession number’.
 * If you have made a remark that relates to more than one accession, please make sure you add it into every relevant **Transcriber’s Notes** column. Do not use the phrases ‘see above’ or ‘see below’ in any column, each row needs its own note.
 
-### Creative Commons Licence \(Column W\)
+### Creative Commons Licence
 
 This column assigns the CC0 terms to each row of transcribed data. Do not edit.
 
 ## Red Column - Sensitivity
 
-![](../.gitbook/assets/columnx.png)
+![](../.gitbook/assets/red.png)
 
 This column has a drop down list to select 'Y' for Yes. This is in case you come across any particularly offensive/derogatory language that you feel should be flagged. If you feel that this is the case, please select Y and leave a note in transcribers notes.
 
