@@ -38,7 +38,7 @@ If there is an original **question mark** within a field and/or writing on your 
 
 ### Unsure about something
 
-If there is something you are unsure of, please note it as \[?\] and make sure there is an **‘unsure’** note in the transcribers column, describing what it is you are unsure of.
+If there is something you are unsure of, please note it as \[?\] and make sure there is an **‘Unsure:’** note in the transcribers column, describing what it is you are unsure of.
 
 ### Crossed out writing
 
