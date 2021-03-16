@@ -64,6 +64,12 @@ You may notice that some of the labels in the top right are scored through, plea
 
 \*\*\*\*[**All stamps and labels go in the "Additional notes found on flimsy" column.**](https://app.gitbook.com/@wellcomecollection/s/transcribe-wellcome/~/drafts/-MVaf8gMXjgrtHP6-FSe/transcription-guidelines/museum-flimsy-slips#additional-notes-on-flimsy-column-q) 
 
+### **Dispersal/Transfers**
+
+![This stamp can mostly be found towards the bottom of the slip](../.gitbook/assets/merseyside2.jpg)
+
+If you notice a slip has a very clear dispersal like the example in the image above, please use the tag **\[Dispersal\]** and list it in the additional notes on flimsy column. The example above would be transcribed as the following: **\[Dispersal\] MERSEYSIDE COUNTY MUSEUMS FEB 1981**
+
 ### **Non-Latin script**
 
 * If you notice anything is written in non-Latin script and you cannot discern or transliterate it, please put \[…\]. 
