@@ -75,7 +75,7 @@ Be aware that individual objects may have an old registration number, a new regi
 
 ### Box Number
 
-Transcribe the box or case number exactly as written in the transit register. This is not a printed heading but has been added as an additional column on most pages of the registers. 
+Transcribe the box or case number as written in the transit register, as digits \(i.e. do not include the word 'box' if this is written in the register\). This is not a printed heading but has been added as an additional column on most pages of the registers. 
 
 ### Wellcome location
 
