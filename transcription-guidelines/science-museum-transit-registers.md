@@ -40,7 +40,7 @@ Transcribe the object description from the column headed 'object description' in
 
 ### Old R number
 
-Transcribe the old registration number for the object, without prefix.
+Transcribe the old registration number for the object, without prefix:
 
 ![](../.gitbook/assets/rnos.jpg)
 
@@ -52,7 +52,9 @@ Be aware that individual objects may have an old registration number, a new regi
 
 ### New R year number
 
-Transcribe the new registration number for the object, without prefix.
+Transcribe the new registration number for the object, without prefix:
+
+![](../.gitbook/assets/newrnos.jpg)
 
 New registration 'R year' numbers consist of 4 or 5 parts:
 
