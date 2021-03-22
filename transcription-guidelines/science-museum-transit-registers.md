@@ -16,8 +16,6 @@ As working documents, the transit registers are heavily customised and annotated
 
 Each row of the transit register should be transcribed onto one row of the spreadsheet.
 
-![](../.gitbook/assets/rnos.jpg)
-
 Wellcome object identifiers are inconsistently recorded in the transit registers. When transcribing these identifiers, please transcribe _without_ prefix i.e. `R1234` should be transcribed into the **Old R number** column as just `1234`. 
 
 `NN` \(meaning 'no number'\) should be transcribed into **transcriber's notes**. 
@@ -43,6 +41,8 @@ Transcribe the object description from the column headed 'object description' in
 ### Old R number
 
 Transcribe the old registration number for the object, without prefix.
+
+![](../.gitbook/assets/rnos.jpg)
 
 Old registration numbers are integers of up to 5 digits in length. 
 
