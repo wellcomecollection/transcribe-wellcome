@@ -68,7 +68,7 @@ You may notice that some of the labels in the top right are scored through, plea
 
 ![This stamp can mostly be found towards the bottom of the slip](../.gitbook/assets/merseyside2.jpg)
 
-If you notice a slip has a very clear dispersal like the example in the image above, please use the tag **\[Dispersal\]** and list it in the _**additional notes on flimsy column**_. The example above would be transcribed as the following: **\[Dispersal\] MERSEYSIDE COUNTY MUSEUMS FEB 1981**
+If you notice a slip has a very clear dispersal, like the example in the image above, please use the tag **\[Dispersal\]** and list it in the _**additional notes on flimsy column**_. The example above would be transcribed as the following: **\[Dispersal\] MERSEYSIDE COUNTY MUSEUMS FEB 1981**
 
 ### **Non-Latin script**
 
@@ -222,7 +222,7 @@ Transcribe the acquisition details, which usually appear in the slip under ‘bo
 
 * Enter the case number here. 
 * Sometimes more than one will be recorded; separate different case numbers with a semi-colon.
-* Others may be scored through and replaced with a new one. In this case, [show the old number scored through in this column.](https://app.gitbook.com/@wellcomecollection/s/transcribe-wellcome/~/drafts/-MVX8pRWCDwKs0LJB2xG/transcription-guidelines/museum-flimsy-slips#crossed-out-writing)
+* Others may be scored through and replaced with a new one. In this case, [show the old number scored through in this column.](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/museum-flimsy-slips#crossed-out-writing)
 
 ### To be placed
 
@@ -268,7 +268,7 @@ A list of the current known auction houses can be seen in the 'Auction House' ta
 
 ### Lot No. 
 
-Enter the lot number, if applicable, in this column. When a slip describes multiple items, these are often recorded next to each object \(when different lot numbers\) and should be entered on separate rows as explained in the [general transcription instructions](https://app.gitbook.com/@wellcomecollection/s/transcribe-wellcome/~/drafts/-MV_dz6oswYW2yuSHFdq/transcription-guidelines/museum-flimsy-slips#more-than-one-object).
+Enter the lot number, if applicable, in this column. When a slip describes multiple items, these are often recorded next to each object \(when different lot numbers\) and should be entered on separate rows as explained in the [general transcription instructions](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/museum-flimsy-slips#general-transcription-instructions).
 
 ## Yellow Column Headings
 
@@ -281,7 +281,7 @@ Your email address e.g. j.bloggs@wellcome.org
 ### Transcriber’s Notes 
 
 * Use this column to record any additional notes. For example, if the slip is accompanied by a letter or extensive notes not transcribed in ‘Description of object’, there is a drawing, the slip is double sided etc.
-* Also use this column to note any problems you have had with the transcription. [Prefix this note with ‘Unsure’ followed by an explanation](https://app.gitbook.com/@wellcomecollection/s/transcribe-wellcome/~/drafts/-MV_hg8EJdv6gx0T8d8v/transcription-guidelines/museum-flimsy-slips#unsure-about-something) e.g. ‘Unsure: cannot read last digit of accession number’.
+* Also use this column to note any problems you have had with the transcription. [Prefix this note with ‘Unsure’ followed by an explanation](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/museum-flimsy-slips#unsure-about-something) e.g. ‘Unsure: cannot read last digit of accession number’.
 * If you have made a remark that relates to more than one accession, please make sure you add it into every relevant **Transcriber’s Notes** column. Do not use the phrases ‘see above’ or ‘see below’ in any column, each row needs its own note.
 
 ### Creative Commons Licence
