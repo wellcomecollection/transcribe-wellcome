@@ -1,8 +1,26 @@
 # Dispersals
 
+## Bibljoteka Nazzjonali - Malta \(National Library of Malta\)
+
+* Archives of the Knights of Malta \(The Order of St. John\)
+
 ## Birmingham Museum & Art Gallery
 
 * Shabtis with Wellcome identifiers published in Watson, P. _Catalogue of Inscribed Shabtis in Birmingham Museum and Art Gallery_ 
+
+## Bolton Museum
+
+* Example Egyptology objects
+
+## Bristol Museum & Art Gallery
+
+* Example object
+
+## British Museum
+
+* Example objects from the prehistory collections
+* Objects collected by Winifred Blackman in Egypt
+* Objects identified in [https://www.britishmuseum.org/collection](https://www.britishmuseum.org/collection) as donated by Wellcome and originating from Benin, including objects collected by Hugh Nevins \(or Nevin\)
 
 ## Science Museum Loan
 
