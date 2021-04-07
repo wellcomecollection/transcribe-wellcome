@@ -6,7 +6,7 @@
 
 ## Birmingham Museum & Art Gallery
 
-* Shabtis with Wellcome identifiers published in Watson, P. _Catalogue of Inscribed Shabtis in Birmingham Museum and Art Gallery_ 
+* Shabtis with Wellcome identifiers published in Watson, P. \(2012\) _Catalogue of Inscribed Shabtis in Birmingham Museum and Art Gallery._ Birmingham Museums Trust.
 
 ## Bolton Museum
 
