@@ -1,3 +1,7 @@
+---
+description: Contents of the Transcribe Wellcome dispersals table
+---
+
 # Dispersals
 
 ## Bibljoteka Nazzjonali - Malta \(National Library of Malta\)
@@ -6,7 +10,7 @@
 
 ## Birmingham Museum & Art Gallery
 
-* Shabtis with Wellcome identifiers published in Watson, P. \(2012\) _Catalogue of Inscribed Shabtis in Birmingham Museum and Art Gallery._ Birmingham Museums Trust.
+* Shabtis with Wellcome identifiers published in Watson, P. \(2012\) [_Catalogue of Inscribed Shabtis in Birmingham Museum and Art Gallery_](https://www.birminghammuseums.org.uk/system/resources/W1siZiIsIjIwMTQvMTEvMjAvNmp0Nnk5dm1zOV9zaGFidGlfbWFzdGVyX3YxXzMucGRmIl1d/shabti%20master%20v1_3.pdf)_._ Birmingham Museums Trust.
 
 ## Bolton Museum
 
@@ -14,7 +18,7 @@
 
 ## Bristol Museum & Art Gallery
 
-* Example object
+* Example object identified from photograph in Bristol's [collections online](http://museums.bristol.gov.uk/) 
 
 ## British Museum
 
@@ -22,8 +26,57 @@
 * Objects collected by Winifred Blackman in Egypt
 * Objects identified in [https://www.britishmuseum.org/collection](https://www.britishmuseum.org/collection) as donated by Wellcome and originating from Benin, including objects collected by Hugh Nevins \(or Nevin\)
 
+## Durham University Museums
+
+* Objects for which former Wellcome identifiers are recorded in Durham University Museums' internal collections management system. Catalogue records and some digitised images are available from [Discover Durham Collections](https://discover.durham.ac.uk/primo-explore/search?vid=44DUR_VU4), but do not include Wellcome identifiers. 
+
+## Egypt Centre - Swansea University
+
+* Objects for which former Wellcome identifiers are recorded in the [Egypt Centre Online Collection](https://egyptcentre.abasetcollections.com/)
+
+## Fowler Museum UCLA
+
+* Objects for which former Wellcome identifiers have been researched by staff at the Fowler Museum, including some not currently included in the [Digital Collection](https://www.fowler.ucla.edu/collections/home/)
+
+## Horniman Museum
+
+* Example objects identified from photographs available in the Hunterian [online catalogue](https://www.gla.ac.uk/hunterian/collections/searchourcollections/)
+
+## Hunterian Museum - University of Glasgow
+
+* Example objects identified from photographs available online
+
+## Museum of London
+
+* Example objects identified from [online catalogue](https://www.museumoflondon.org.uk/collections) entries, manually checked with transfer records
+
+## National Museums Liverpool
+
+* Example objects identified by museum staff at Liverpool
+
+## Petrie Museum - UCL
+
+* Example objects identified from photographs available in the [UCL Petrie Collection Online Catalogue](https://petriecat.museums.ucl.ac.uk/), including some manuscripts originally accessioned into the Wellcome library
+
+## Pitt Rivers Museum - University of Oxford
+
+* Example objects, mostly collected by Winifred Blackman, identified from the Pitt Rivers Museum [Database of Object Collections](https://prm.web.ox.ac.uk/terms-use-pitt-rivers-museum-database-object-collections)
+
 ## Science Museum Loan
 
 * All SMG object numbers between A45 and A500529 inclusive, excepting some part numbered objects, for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(c.21,500 entries\)
 * All SMG object numbers between A600001 and A600328 inclusive, excepting some part numbered objects, for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(310 entries\)
+
+## The Fitzwilliam Museum - University of Cambridge
+
+* Example objects identified from the Fitzwilliam beta release [collection online](https://collection.beta.fitz.ms/)
+
+## Victoria and Albert Museum
+
+* Example object identified from the V&A's [Explore the Collections](https://www.vam.ac.uk/collections)
+
+## Wellcome Collection
+
+* Early printed books for which accession numbers are recorded in Wellcome's internal collections management system. Catalogue records and digitised images are available from the [Wellcome catalogue online](https://wellcomecollection.org/collections), but do not include accession numbers
+* Selected manuscripts 
 
