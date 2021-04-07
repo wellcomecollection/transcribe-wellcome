@@ -58,8 +58,5 @@
 ## About the Transcribe Wellcome dataset
 
 * [About](about-the-transcribe-wellcome-dataset/untitled.md)
-
----
-
-* [Dispersals](dispersals.md)
+* [Dispersals](about-the-transcribe-wellcome-dataset/dispersals.md)
 
