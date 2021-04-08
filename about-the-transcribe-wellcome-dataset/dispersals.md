@@ -18,7 +18,7 @@ description: Contents of the Transcribe Wellcome dispersals table
 
 ## Bristol Museum & Art Gallery
 
-* Example object identified from photograph in Bristol's [collections online](http://museums.bristol.gov.uk/) 
+* Example object identified from photograph in Bristol's [collections online](http://museums.bristol.gov.uk/)
 
 ## British Museum
 
@@ -28,7 +28,7 @@ description: Contents of the Transcribe Wellcome dispersals table
 
 ## Durham University Museums
 
-* Objects for which former Wellcome identifiers are recorded in Durham University Museums' internal collections management system. Catalogue records and some digitised images are available from [Discover Durham Collections](https://discover.durham.ac.uk/primo-explore/search?vid=44DUR_VU4), but do not include Wellcome identifiers. 
+* Objects for which former Wellcome identifiers are recorded in Durham University Museums' internal collections management system. Catalogue records and some digitised images are available from [Discover Durham Collections](https://discover.durham.ac.uk/primo-explore/search?vid=44DUR_VU4), but do not include Wellcome identifiers.
 
 ## Egypt Centre - Swansea University
 
@@ -64,8 +64,8 @@ description: Contents of the Transcribe Wellcome dispersals table
 
 ## Science Museum Loan
 
-* All SMG object numbers between A45 and A500529 inclusive, excepting some part numbered objects, for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(c.21,500 entries\)
-* All SMG object numbers between A600001 and A600328 inclusive, excepting some part numbered objects, for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(310 entries\)
+* All Science Museum object numbers between A45 and A500529 inclusive, excepting some part numbered objects, for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(c.21,500 entries\)
+* All Science Museum object numbers between A600001 and A600328 inclusive, excepting some part numbered objects, for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(310 entries\)
 
 ## The Fitzwilliam Museum - University of Cambridge
 
@@ -78,5 +78,4 @@ description: Contents of the Transcribe Wellcome dispersals table
 ## Wellcome Collection
 
 * Early printed books for which accession numbers are recorded in Wellcome's internal collections management system. Catalogue records and digitised images are available from the [Wellcome catalogue online](https://wellcomecollection.org/collections), but do not include accession numbers
-* Selected manuscripts 
-
+* Selected manuscripts
