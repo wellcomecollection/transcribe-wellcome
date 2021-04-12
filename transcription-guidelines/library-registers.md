@@ -12,8 +12,6 @@ The column headings in the transcription spreadsheet correspond – broadly – 
 
 The style of the Accession Registers changed over time, and according to the purpose for which they were used by Wellcome Historical Medical Library, and some headings were rarely used. Fields on the spreadsheet may be hidden for these headings.
 
-**Important note**: Any duplicate library accession numbers should be added to the bottom of your spreadsheet with comments in the **Transcriber’s Notes** column. As duplicate accession numbers require extra checks before importing, please highlight these rows with a colour so that they can be identified easily.
-
 ## General Transcription Instructions
 
 Generally, each accession \(unique number\) will be transcribed onto **one** row of the spreadsheet.
@@ -23,6 +21,10 @@ For the majority of columns you will be asked to transcribe the information exac
 ### Blank Columns
 
 Apart from the **Date of Accession** column leave any blank spaces blank. Blank spaces and columns are common in the Registers and do not need noting.
+
+### Duplicate Accession Numbers
+
+Any duplicate library accession numbers should be added to the bottom of your spreadsheet with comments in the **Transcriber’s Notes** column. As duplicate accession numbers require extra checks before importing, please highlight these rows with a colour so that they can be identified easily.
 
 ### Tagging for Strikethrough and Italics
 
