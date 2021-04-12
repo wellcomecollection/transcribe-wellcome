@@ -20,11 +20,23 @@ Generally, each accession \(unique number\) will be transcribed onto **one** row
 
 For the majority of columns you will be asked to transcribe the information exactly as it appears on the page. For a couple of columns you will be asked to transcribe the information into a standardised format. This is to assist with future research and will be made clear in the individual instructions.
 
+### Blank Columns
+
+Apart from the **Date of Accession** column leave any blank spaces blank. Blank spaces and columns are common in the Registers and do not need noting.
+
+### Tagging for Strikethrough and Italics
+
 For any text which has been scored through, do the same in the transcription. If you do use the strikethrough, or any other formatted text, you **must** use the appropriate tagging e.g. &lt;s&gt;\[~~transcribed text here~~\]&lt;/s&gt; or &lt;i&gt;\[_transcribed text here_\]&lt;/i&gt; for italics.
+
+### Indistinct handwriting
+
+If you cannot decipher the handwriting use \[.\] to indicate an indecipherable letter e.g. mon\[.\]stro\[..\]ty. The number of dots = number of missing letters. Use \[?\] if you have guessed at a letter or word e.g. Mhairi\[?\]. If you use dots for text or words you are unsure of, please add a \[?\] and make a note in the **Transcriber's Notes** e.g. Unsure: word/letter in title. 
 
 In some Registers, earlier information is visible in pencil underneath the final pen entry. If this is the case, add a **Transcriber’s Note** and include any of the information written in pencil where legible.
 
-If you cannot decipher the handwriting use \[.\] to indicate an indecipherable letter e.g. mon\[.\]stro\[..\]ty. The number of dots = number of missing letters. Use \[?\] if you have guessed at a letter or word e.g. Mhairi\[?\]. If you use dots for text or words you are unsure of, please add a \[?\] and make a note in the **Transcriber's Notes** e.g. Unsure: word/letter in title. 
+If you encounter any problems identifying words, letters or symbols head to the [Transcribers’ Group](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/grp-wellcome-transcribers) on Microsoft Teams. There may be others who have asked or answered the same questions. A quick Google/Wellcome Catalogue search may also help with titles and authors but the search results should never take priority over the text on the Register page.
+
+### Special/Non-Latin Characters
 
 If there are square brackets, question marks or dots in the Register already, add a note to the **Transcriber’s Notes** i.e. The square brackets in the author column are in the original document.
 
@@ -32,13 +44,11 @@ All Latin characters with accents should be transcribed by inserting the correct
 
 If you notice anything is written in non-Latin script make a note in the **Transcriber’s Notes** and, if you cannot discern or transliterate it, please put \[…\].
 
-If the register uses ‘ditto’ \(sometimes shortened to 'do'\) or ‘//’ in the columns, replace ‘ditto’ with the information from the row above e.g. if one row has the title ‘The Mirror of Beauty’ and the row below has ‘// // // // \(The Dentist\)’, the title of the second book should be transcribed as ‘The Mirror of Beauty \(The Dentist\)’.
+### Ditto and Abbreviations
 
-You are not expected/required to expand abbreviated words e.g. Imp\[erial\]. Simply transcribe the abbreviation as it appears on the page and, if you can identify the word, add a note to the **Transcriber’s Notes**. If you have larger problems reading the text on the slips, or are unsure of anything, please also note this in the **Transcriber’s Notes** column.
+If the Register uses ‘ditto’ \(sometimes shortened to 'do'\) or ‘//’ in the columns, replace ‘ditto’ with the information from the row above e.g. if one row has the title ‘The Mirror of Beauty’ and the row below has ‘// // // // \(The Dentist\)’, the title of the second book should be transcribed as ‘The Mirror of Beauty \(The Dentist\)’.
 
-Apart from the **Date of Accession** column leave any blank spaces blank. Blank spaces and columns are common in the Registers and do not need noting.
-
-If you encounter any problems identifying words, letters or symbols head to the [Transcribers’ Group](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/grp-wellcome-transcribers) on Microsoft Teams. There may be others who have asked or answered the same questions. A quick google search may also help with titles and authors but the search results should never take priority over the text on the Register page.
+You are not expected/required to expand abbreviated words e.g. Imp\[erial\]. Simply transcribe the abbreviation as it appears on the page and, if you can identify the word, add a note to the **Transcriber’s Notes**.
 
 ## Column Headings
 
