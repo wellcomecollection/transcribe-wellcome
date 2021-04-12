@@ -26,7 +26,7 @@ Apart from the **Date of Accession** column leave any blank spaces blank. Blank 
 
 Any duplicate library accession numbers should be added to the bottom of your spreadsheet with comments in the **Transcriber’s Notes** column. As duplicate accession numbers require extra checks before importing, please highlight these rows with a colour so that they can be identified easily.
 
-### Tagging for Strikethrough and Italics
+### Tagging Scored Text or Italics
 
 For any text which has been scored through, do the same in the transcription. If you do use the strikethrough, or any other formatted text, you **must** use the appropriate tagging e.g. &lt;s&gt;\[~~transcribed text here~~\]&lt;/s&gt; or &lt;i&gt;\[_transcribed text here_\]&lt;/i&gt; for italics.
 

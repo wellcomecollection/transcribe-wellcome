@@ -65,8 +65,10 @@ description: Contents of the Transcribe Wellcome dispersals table
 
 ## Science Museum Loan
 
-* All Science Museum object numbers between A45 and A500529 inclusive, excepting some part numbered objects, for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(c.21,500 entries\)
-* All Science Museum object numbers between A600001 and A700043 inclusive, excepting some part numbered objects, for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(310 entries\)
+* Science Museum object numbers between A45 and A500529 inclusive for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(c.21,500 entries\)
+* Science Museum object numbers between A600001 and A700043 inclusive for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(c.67,000 entries\)
+* Science Museum part-numbered objects \(/1 and Pt1 etc.\) for which an online record exists on [https://collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk/)  \(c.5550 entries\)
+* 'B' loans to the Science Museum for which an online record exists on [https://collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk) \(c.900 entries\)
 
 ## The Fitzwilliam Museum - University of Cambridge
 
