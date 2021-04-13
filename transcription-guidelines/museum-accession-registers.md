@@ -78,17 +78,13 @@ Not all the items will have been assigned an ‘A’ number. If there is one, it
 
 For each accession number, enter the image number given in the Wellcome Collection website Viewer. If you are transcribing from a PDF, the image number is the page number minus 1. REMEMBER - the information for each row in the Accession Register is split across two pages.
 
-If a page has been digitised twice e.g. image 15 and 17 are of the same page, record the page you transcribed. However please add a note to the **Transcriber’s Note** column if the pages show something different. 
+If the same page has been digitised twice record the page you transcribed. However please add a note to the **Transcriber’s Note** column if the pages show something different. 
 
 For the example below, most of the information transcribed is on image 17 but there is additional information on image 15. Here you would give the Image no. RH as 17 but transcribe the extra information into the additional notes column and add a **Transcriber’s Note** e.g. Additional notes in 'Remarks' column and typed onto white piece of paper which has been pasted into the accession page \(Image No. 15\).
 
-  
+     
 
-![Image 17](../.gitbook/assets/1%20%282%29.png)
-
- 
-
-![Image 15](../.gitbook/assets/image%20%281%29.png)
+![Image 17 \(left, without printed insert\) and Image 15 \(right, same page with printed insert\)](../.gitbook/assets/mar-image.jpg)
 
 ### _Old Registration Number / R number_
 
