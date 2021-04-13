@@ -175,6 +175,7 @@ In many cases, the acquisition will be an auction purchase - e.g. Soth. 6 & 7/12
 | **Abbreviation** | **Auction house** |
 | :--- | :--- |
 |  | Bonhams |
+|  | Brown, Llandudno |
 |  | Chadwick |
 | Ch | Christies |
 | Deb | Debenham Stores |

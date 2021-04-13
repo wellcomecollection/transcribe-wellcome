@@ -158,6 +158,7 @@ Below are some common auction houses and known abbreviations:
 | :--- | :--- |
 | Bligh & Co. | Blig |
 | Bonhams |  |
+| Brown, Llandudno |  |
 | Christies | Ch |
 | Debenham Stores | Deb |
 | Foster | Fos |
