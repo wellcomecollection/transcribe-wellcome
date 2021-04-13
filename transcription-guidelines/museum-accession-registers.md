@@ -54,7 +54,7 @@ If the Register uses ‘ditto’ \(sometimes shortened to 'do'\) or ‘//’ in 
 
 ‌You are not expected/required to expand abbreviated words e.g. Imp\[erial\]. Simply transcribe the abbreviation as it appears on the page and, if you can identify the word, add a note to the **Transcriber’s Notes**.
 
-‌**Definitions for general reference**‌
+### ‌**Definitions for general reference**‌
 
 * **Acquisition date –** When the item/object/record was _acquired_ e.g. the date it was bought at an auction
 * **Registration date –** When the item/object/record was entered into the Register
@@ -78,7 +78,9 @@ Not all the items will have been assigned an ‘A’ number. If there is one, it
 
 For each accession number, enter the image number given in the Wellcome Collection website Viewer. If you are transcribing from a PDF, the image number is the page number minus 1. REMEMBER - the information for each row in the Accession Register is split across two pages.
 
-If a page has been digitised twice e.g. image 15 and 17 are of the same page, record the page you transcribed. However please add a note to the **Transcriber’s Note** column if the pages show something different. For the example below, most of the information transcribed is on image 17 but there is additional information on image 15. Here you would give the Image no. RH as 17 but transcribe the extra information into the additional notes column and add a **Transcriber’s Note** e.g. Additional notes in 'Remarks' column and typed onto white piece of paper which has been pasted into the accession page \(Image No. 15\).
+If a page has been digitised twice e.g. image 15 and 17 are of the same page, record the page you transcribed. However please add a note to the **Transcriber’s Note** column if the pages show something different. 
+
+For the example below, most of the information transcribed is on image 17 but there is additional information on image 15. Here you would give the Image no. RH as 17 but transcribe the extra information into the additional notes column and add a **Transcriber’s Note** e.g. Additional notes in 'Remarks' column and typed onto white piece of paper which has been pasted into the accession page \(Image No. 15\).
 
   
 
@@ -118,11 +120,15 @@ If the original handwritten description has been pasted over with typed notes, r
 
 Transcribe fractions \(e.g. in measurements\) using Insert – Symbol and selecting the correct proper fraction. If you encounter difficulties in finding the correct symbol, record this in the **Transcriber’s notes**.
 
-‌The following are keyboard shortcuts that can be used instead of the insert method:
+‌The following are keyboard shortcuts that can be used instead of the insert method:  
 
-‌**Alt + 0188 = ¼** **Alt + 0189 = ½** **Alt + 0190 = ¾**
+| Fraction | Keyboard Shortcut |
+| :--- | :--- |
+| **¼** | Alt + 0188 |
+| **½** | Alt + 0189 |
+| **¾** | Alt + 0190 |
 
-‌All other fractions need to be written out as e.g. 5/8, remembering to put a space beforehand, i.e. 3 5/8" as the other Excel symbols do not import onto other platforms.
+All other fractions need to be written out as e.g. 5/8, remembering to put a space beforehand, i.e. 3 5/8" as the other Excel symbols do not import onto other platforms.
 
 ### ‌_Bought of \[Obtained from\]_
 
@@ -136,7 +142,9 @@ The three columns in the Registers represent pounds \(£\), shillings \(s\) and 
 
 ### ‌_At present \[Where placed\]_
 
-Anything recorded in the ‘where placed’ column in the Register should be transcribed here, exactly as it is written. This may refer to multiple locations over the years or even to the object’s disposal. Common places and abbreviations include the Hall of Statuary, W.H.M.M \[Wellcome Historical Medical Museum\], S.R. \[Strong Room\] or m/clas as well as items sent to Willesden, Boleyn Road, Aldersgate Street, Alford House, Beckenham, Wigmore Street or simply To Store.
+Anything recorded in the ‘where placed’ column in the Register should be transcribed here, exactly as it is written. This may refer to multiple locations over the years or even to the object’s disposal. 
+
+Common places and abbreviations include the Hall of Statuary, W.H.M.M \[Wellcome Historical Medical Museum\], S.R. \[Strong Room\] or m/clas as well as items sent to Willesden, Boleyn Road, Aldersgate Street, Alford House, Beckenham, Wigmore Street or simply To Store.
 
 ### ‌_Additional notes \[Remarks/Insurance and Valuation\]_
 
@@ -150,7 +158,9 @@ If there is _both_ a stamp and additional notes, please put all the additional n
 
 ## ‌**Blue Column Headings**
 
-‌In addition to transcribing text exactly as written on the Register under the green column headings, transcribers should also extract, where relevant, acquisition date, auction house and/or lot numbers into a standardised format. Not all records will include a date, auction house or lot number so please leave these columns blank where this information is not provided.
+‌_In addition to transcribing text exactly as written on the Register under the green column headings, transcribers should also extract, where relevant, acquisition date, auction house and/or lot numbers into a standardised format._ 
+
+_Not all records will include a date, auction house or lot number so please leave these columns blank where this information is not provided._
 
 ### ‌_Acquisition Date_
 
@@ -176,14 +186,14 @@ In many cases, the acquisition will be an auction purchase - e.g. Soth. 6 & 7/12
 | Glen | Glendining |
 |  | Goddard & Smith |
 |  | Hampton |
-|  | Holland Park |
+|  | Holland and Park |
 | H | Hurcomb |
 | K.F.&R. | Knight, Frank & Rutley |
 |  | Norbury-Smith & Co |
 | P.&S. | Puttick & Simpson |
 | P.S.&N. | Philips, Son & Neale |
 |  | Pritchard & Co |
-| R.F | Robinson & Harding |
+| R.F | Robinson & Fisher |
 | R.F.&H. | Robinson, Fisher & Harding |
 | Soth | Sotheby's |
 | St | Stevens |
@@ -201,7 +211,7 @@ Enter the lot number, if applicable, in this column.
 
 ## ‌**Yellow Column Headings**
 
-These columns are for personal/local notes.‌
+_These columns are for personal/local notes._‌
 
 ### _Transcribed By_
 
@@ -215,15 +225,23 @@ A place for the transcriber to add any notes about the record e.g. if the record
 
 ### _Creative Commons Licence_
 
-This column assigns the CC0 terms to each row of transcribed data and does not require transcription. More information on the Creative Commons Licence can be found here. \[https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/getting-started\#creative-commons-licence\]
+This column assigns the CC0 terms to each row of transcribed data and does not require transcription. More information on the Creative Commons Licence can be found [here](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/getting-started#creative-commons-licence).
 
 ## **Upon Completion**
 
 Please upload your file to **Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.
 
-![https://gblobscdn.gitbook.com/assets%2Ftranscribe-wellcome%2F-MUNy4bi0f8EuP5e1mLF%2F-MUNyL3maD8TedJruBmd%2F10.jpeg?alt=media](../.gitbook/assets/7.jpeg)
+![](../.gitbook/assets/7.jpeg)
 
 Once you’ve done this please leave a message in your respective channel that you’ve uploaded your sheet.
 
 Happy Transcribing!
+
+
+
+#### Version History
+
+| **Document** | **Date** | **Notes** |
+| :--- | :--- | :--- |
+| Version 1.0 | 1_3_ April 2021 | Adapted from ‘Guide for Transcribers; Museum Index cards’ |
 
