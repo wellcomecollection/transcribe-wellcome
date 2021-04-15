@@ -13,9 +13,10 @@ Initially they acted as agents for several American companies - Burroughs was cl
 In 1924, Wellcome consolidated all his separate enterprises under one private company, 'The Wellcome Foundation Ltd.'. Over time, Burroughs Wellcome came to represent the distribution arm of this network.
 
 ## Overseas offices & sites:
+
 * 1886: B&W Australia. By 1901, the main offices were at 108 Pitt Street, Sydney, plus depots across the country.
 * 1902: B&W South Africa
-* 1905: B&W Office & Depot, 14 Via Carlo Alberto, Milan (first associated house in Europe); later (1908-c1948) operated from Via Legnano, Milan
+* 1905: B&W Office & Depot, 14 Via Carlo Alberto, Milan \(first associated house in Europe\); later \(1908-c1948\) operated from Via Legnano, Milan
 * 1906: B&W Canada in Montreal
 * c1906: B&W USA
 * 1906: B&W China in Shanghai
@@ -23,3 +24,4 @@ In 1924, Wellcome consolidated all his separate enterprises under one private co
 * 1912: B&W India at Cook's Building, Hornby Road, Bombay
 * 1946: House set up in Cairo, Egypt, for Middle East markets
 * 1946: Dublin House opened for the Republic of Ireland market
+
