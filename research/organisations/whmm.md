@@ -15,8 +15,6 @@ Private museum of medical history, founded by Henry Wellcome in 1914 opened at [
 | 1947-1954 | 28 Portman Square |
 | 1954-1968 | Wellcome Building, 183 Euston Road |
 
-Dates \| Locations \| \| --- \| --- \| \[1911\]-1932 \| 54A Wigmore Street \| 1932-1947 \| Wellcome Building, 183 Euston Road \| 1947-1954 \| 28 Portman Square \| 1954-1968 \| Wellcome Building, 183 Euston Road \|
-
 After Wellcome consolidated his interests in one company in 1924, the museum became part of Wellcome Foundation.
 
 The museum was refurbished and reopened in 1926, and the [Willesden](https://github.com/wellcomecollection/transcribe-wellcome/tree/fb3d35cb209410cc240e266776452d2e172496bc/research/organisations/places/willesden.md) store acquired in 1927 to house the ever expanding collection. In 1932, the museum moved to the Wellcome Building on Euston Road and was closed to the public whilst the collection was unpacked, sorted and registered. During the Second World War, plans for new galleries continued to develop, but wartime restrictions limited what could be achieved. A temporary exhibition was held in October 1946 to celebrate the centenary of surgical anaesthesia. But during the war, the Wellcome Foundation offices had been destroyed, and in consequence the museum was moved out to 28 Portman Square in 1947, whilst the Foundation moved in to Euston Road \(the Wellcome Historical Medical Library remained in Euston Road, along with the [Museum of Medical Science](wmms.md)\). The museum now had greatly reduced space, and so shifted focus to temporary exhibitions on specific themes rather than a general, permanent display.
