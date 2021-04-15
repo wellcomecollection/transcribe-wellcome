@@ -58,7 +58,7 @@ You may see the following image in your batch has a sketching of the object, thi
   * **\[Stamp\] W.H.M.M. ACCESSION DEPARTMENT. Received DD Month Year. Acc no.\#\#\#**
 * If there is _both_ a stamp and additional notes, please put all the additional notes **first** and then the stamp transcription.
 
-![](../.gitbook/assets/labels%20%281%29.png)
+![](../.gitbook/assets/labels%20%281%29%20%281%29.png)
 
 You may notice that some of the labels in the top right are scored through, please list these in additional notes \(column Q\) separated by a semi-colon. This example here would be transcribed as **W; &lt;s&gt;H.M.M.&lt;/s&gt;**
 
