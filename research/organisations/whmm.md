@@ -7,6 +7,7 @@ description: 'Opened 1914 in Wigmore Street, London. Moved to Euston Road 1932, 
 Private museum of medical history, founded by Henry Wellcome in 1914 opened at [54a Wigmore Street](places\wigmore-street.md), London. Displayed Wellcome's collections from across the world associated with health, illness, healing and medical practices, with some displays presented in a cultural evolutionary hierarchy that placed European culture at the top. WHMM was the permanent incarnation of Wellcome's 1913 temporary [Historical Medical Exhibition](hme.md).
 
 Dates | Locations
+| -- | --
 [1911]-1932 | 54A Wigmore Street
 1932-1947 | Wellcome Building, 183 Euston Road
 1947-1954 | 28 Portman Square
@@ -20,4 +21,4 @@ The museum returned to the Wellcome Building on Euston Road in 1954 but with muc
 
 In 1960, ownership of the museum and library collections was transferred from the Foundation to the Trustees, although administration was still undertaken by the Foundation. Whilst the library underwent major refurbishment, plans for the museum were put on hold until more space was gained by the removal of the [Wellcome Laboratories of Tropical Medicine](wtrl.md) to Beckenham. As a result, the library's public profile and reputation began to eclipse that of the museum, and the Trust promoted the Chief Librarian, [Noel Poynter](people\alphabetical\poynter.md), to the same level as the Director of the Museum, [E.A. Underwood](people\alphabetical\underwood-ea.md). Underwood retired in 1964 and Poynter was promoted to the position of Director of the Museum and Library, whilst the scientific staff of the museum were moved to form an academic unit under the responsibility of the Director.
 
-In 1968 the Wellcome Historical Medical Museum and Library were replaced with the [Wellcome Institute for the History of Medicine](wihm.md). 
+In 1968 the Wellcome Historical Medical Museum and Library were replaced with the [Wellcome Institute for the History of Medicine](wihm.md).
