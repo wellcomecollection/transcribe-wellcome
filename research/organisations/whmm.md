@@ -6,12 +6,21 @@ description: 'Opened 1914 in Wigmore Street, London. Moved to Euston Road 1932, 
 
 Private museum of medical history, founded by Henry Wellcome in 1914 opened at [54a Wigmore Street](places\wigmore-street.md), London. Displayed Wellcome's collections from across the world associated with health, illness, healing and medical practices, with some displays presented in a cultural evolutionary hierarchy that placed European culture at the top. WHMM was the permanent incarnation of Wellcome's 1913 temporary [Historical Medical Exhibition](hme.md).
 
+<<<<<<< HEAD
 Dates | Locations |
 | --- | --- |
 [1911]-1932 | 54A Wigmore Street |
 1932-1947 | Wellcome Building, 183 Euston Road |
 1947-1954 | 28 Portman Square |
 1954-1968 | Wellcome Building, 183 Euston Road |
+=======
+| Dates | Locations |
+| :--- | :--- |
+| \[1911\]-1932 | 54A Wigmore Street |
+| 1932-1947 | Wellcome Building, 183 Euston Road |
+| 1947-1954 | 28 Portman Square |
+| 1954-1968 | Wellcome Building, 183 Euston Road |
+>>>>>>> fbe688f7c42623ead5a44711b5526f96d71eab03
 
 After Wellcome consolidated his interests in one company in 1924, the museum became part of Wellcome Foundation.
 
