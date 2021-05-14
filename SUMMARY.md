@@ -61,3 +61,7 @@
 * [About](dataset/about.md)
 * [Dispersals](dataset/dispersals.md)
 
+## Project Management
+
+* [Batch checking - Flimsy slips \(A sequence\)](project-management/batch-checking-flimsy-slips-a-sequence.md)
+
