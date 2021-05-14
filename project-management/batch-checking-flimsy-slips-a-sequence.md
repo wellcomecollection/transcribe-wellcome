@@ -6,7 +6,7 @@ description: >-
 
 # Batch checking - Flimsy slips \(A sequence\)
 
-> ## Step 1: Prepare your batch for checking
+## Step 1: Prepare your batch for checking
 
 1. The file will be saved under the location Documents -&gt; General -&gt; **Completed spreadsheets** in the Teams group
 2. Select the file and download it to _your_ local OneDrive. This is the file you will be working with to check - **not** the copy in the Teams folder.
