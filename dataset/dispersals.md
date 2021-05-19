@@ -23,9 +23,9 @@ description: Contents of the Transcribe Wellcome dispersals table
 ## British Museum
 
 * Example objects from the prehistory collections
-* Objects collected by Winifred Blackman in Egypt
-* Objects identified in [https://www.britishmuseum.org/collection](https://www.britishmuseum.org/collection) as donated by Wellcome and originating from Benin City, including objects collected by Hugh Nevins \(or Nevin\)
-* Objects collected by M.D.W. Jeffreys in sub-Saharan Africa
+* Objects collected by [Winifred Blackman](https://www.britishmuseum.org/collection/term/BIOG121313) in Egypt
+* Objects identified in [https://www.britishmuseum.org/collection](https://www.britishmuseum.org/collection) as donated by Wellcome and originating from Benin City, including objects purchased from [Hugh Nevin Nevins](https://www.britishmuseum.org/collection/term/BIOG126659)
+* Objects collected by [M.D.W. Jeffreys](https://www.britishmuseum.org/collection/term/BIOG124904) in sub-Saharan Africa
 
 ## Durham University Museums
 
@@ -50,6 +50,10 @@ description: Contents of the Transcribe Wellcome dispersals table
 ## Museum of London
 
 * Example objects identified from [online catalogue](https://www.museumoflondon.org.uk/collections) entries, manually checked with transfer records
+
+## National Museum Lagos
+
+* Example object identified from correspondence in file [WA/HMM/CO/Chr/K.104](https://wellcomecollection.org/works/dppjjtqz)
 
 ## National Museums Liverpool
 
