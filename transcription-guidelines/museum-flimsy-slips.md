@@ -108,6 +108,8 @@ If you come across an A number that has been crossed out on your flimsy slip and
 
 If **no** A number is re-written, leave column A _blank_ and leave a transcribers note.
 
+If you come across a slip with an A number that has a single strike through and it is a **sold** item \(like [this](https://wellcomecollection.org/works/p8v9fmrc/items?canvas=358) one\), then keep the A number in the column and leave a note in transcribers notes.
+
 #### ¡ Column B is hidden, please ignore it and keep it hidden !
 
 ### Image no.
