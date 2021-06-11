@@ -74,6 +74,10 @@ description: Contents of the Transcribe Wellcome dispersals table
 * Science Museum part-numbered objects \(/1 and Pt1 etc.\) for which an online record exists on [https://collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk/)  \(c.5550 entries\)
 * 'B' loans to the Science Museum for which an online record exists on [https://collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk) \(c.900 entries\)
 
+## Stroud District \(Cowie\) Museum 
+
+* 21 objects \(mostly casts of prehistoric material\) [gifted to Stroud Museum in 1982-1983](https://wellcomecollection.org/works/ap29grmp/items?canvas=57).
+
 ## The Fitzwilliam Museum - University of Cambridge
 
 * Example objects identified from the Fitzwilliam beta release [collection online](https://collection.beta.fitz.ms/)
