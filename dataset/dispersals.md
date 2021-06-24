@@ -42,11 +42,11 @@ description: Contents of the Transcribe Wellcome dispersals table
 
 ## Horniman Museum
 
-* Example objects identified from photographs available in the Hunterian [online catalogue](https://www.gla.ac.uk/hunterian/collections/searchourcollections/)
+* Example objects identified from photographs available in the Horniman [online catalogue](https://www.gla.ac.uk/hunterian/collections/searchourcollections/)
 
 ## Hunterian Museum - University of Glasgow
 
-* Example objects identified from photographs available online
+* Example objects identified from photographs available online in the Hunterian [online catalogue](https://www.gla.ac.uk/hunterian/collections/searchourcollections/)
 
 ## Museum of London
 
