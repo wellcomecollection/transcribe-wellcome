@@ -33,6 +33,7 @@ description: >-
 15. Go to **conditional formatting** then **highlight cells rules** then **duplicate values** and press 'OK' 
 16. Check that duplicates are correctly entered and make sure sub-numbers are included to differentiate
 17. Make sure transcribers name is standardised correctly with the e-mail address and _not_ the name.
+18. Make sure the assigned batch is transcribed and nothing less or more. If there is a discrepancy, make a note and follow up.
 
 ## Step 3: Checking/correcting complete
 
