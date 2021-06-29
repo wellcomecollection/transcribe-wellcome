@@ -64,4 +64,5 @@
 ## Project Management
 
 * [Batch checking - Flimsy slips \(A sequence\)](project-management/batch-checking-flimsy-slips-a-sequence.md)
+* [Itemising batches for TW import and catalogue descriptions](project-management/itemising-batches-for-tw-import-and-catalogue-descriptions.md)
 
