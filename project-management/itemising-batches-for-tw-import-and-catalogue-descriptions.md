@@ -25,7 +25,7 @@ Remember to split registration number prefixes from numbering in both series bef
 Extract a string of A numbers from Excel column for adding to catalogue descriptions
 {% endhint %}
 
-Select a blank cell adjacent to the list's first data, for instance, the cell B1, and type in this formula \(where A1:A500 are the cells in the column you want convert to comma serrated list and "; " the separator you want to separate the list\):
+Select a blank cell and type in the following formula \(where A1:A500 represents the cells in the column you want convert to a list and "; " the symbol you want to separate the list\):
 
 ```text
 =CONCAT(TRANSPOSE(A1:A500)&"; ")
@@ -33,5 +33,5 @@ Select a blank cell adjacent to the list's first data, for instance, the cell B1
 
 Highlight the formula and press **F9**
 
-Copy and paste the resulting string into the catalogue description field, editing the beginning and end according to standardised catalogue style. 
+Copy and paste the resulting string into the Calm description field, editing the beginning and end according to standardised catalogue style. 
 
