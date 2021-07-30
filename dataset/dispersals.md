@@ -48,6 +48,10 @@ description: Contents of the Transcribe Wellcome dispersals table
 
 * Example objects identified from photographs available online in the Hunterian [online catalogue](https://www.gla.ac.uk/hunterian/collections/searchourcollections/)
 
+## Museum of Archaeology and Anthropology - University of Cambridge
+
+* Example objects identified from [online catalogue](https://collections.maa.cam.ac.uk/) entries.
+
 ## Museum of London
 
 * Example objects identified from [online catalogue](https://www.museumoflondon.org.uk/collections) entries, manually checked with transfer records
