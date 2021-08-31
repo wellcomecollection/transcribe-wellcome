@@ -1,4 +1,4 @@
-# Malcolm, Louise William Gordon
+# Malcolm, Louis William Gordon
 
 L.W.G. \[Louis William Gordon\] Malcolm \(1888-d.1936\)
 
