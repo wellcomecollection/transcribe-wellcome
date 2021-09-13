@@ -8,5 +8,5 @@ Production remained at the site throughout the history of BW&Co, later the Wellc
 
 [https://dartfordarchive.org.uk/20th\_century/industry\_wellcome.shtml](https://dartfordarchive.org.uk/20th_century/industry_wellcome.shtml)
 
-place
+
 
