@@ -119,7 +119,7 @@
   * [Burroughs Wellcome & Company](research/organisations/bw.md)
   * [Historical Medical Exhibition](research/organisations/hme.md)
   * [Wellcome Bureau of Scientific Research](research/organisations/wbsr.md)
-  * [Wellcome Chemical Research Laboratories](research/organisations/wcrl.md)
+  * [Wellcome Chemical Research Laboratories \(WCRL\)](research/organisations/wcrl.md)
   * [Wellcome Historical Medical Museum \(WHMM\)](research/organisations/whmm.md)
   * [Wellcome Institute of/for the History of Medicine](research/organisations/wihm.md)
   * [Wellcome Physiological Research Laboratories](research/organisations/wprl.md)
