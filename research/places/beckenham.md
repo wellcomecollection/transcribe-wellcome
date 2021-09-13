@@ -4,7 +4,7 @@ description: 'Langley Court, Beckenham, Kent. Location of WPRL, and museum store
 
 # Beckenham
 
-### Langley Court
+## Langley Court
 
 Stores for museum objects and furniture. Part of the WPRL Langley Court site.
 
@@ -14,9 +14,7 @@ File on storing WHMM material on the WPRL site, 1947-54: [WA/HMM/CO/Sub/162](htt
 
 Inventory of stored material, 1948: [WA/HMM/CO/Sub/202 \(beginning at image 7\)](https://wellcomecollection.org/works/v67h5jjg/items?canvas=7&langCode=false)
 
-
-
-### Wellcome Physiological Research Laboratories \(WPRL\), Beckenham, Kent
+## Wellcome Physiological Research Laboratories \(WPRL\), Beckenham, Kent
 
 WPRL located at Beckenham from 1922.
 

@@ -1,5 +1,5 @@
 ---
-description: '145 Crystal Palace Road, East Dulwich, London. WHMM museum store.'
+description: '145 Crystal Palace Road, East Dulwich. Museum Store.'
 ---
 
 # Crystal Palace Road
@@ -8,5 +8,7 @@ description: '145 Crystal Palace Road, East Dulwich, London. WHMM museum store.'
 
 Location of WHMM museum store. Post 1922.
 
-See [Symons 1993, p15](https://archive.org/details/Symons1993/page/n19/mode/2up)
+See [Symons 1993](https://archive.org/details/Symons1993/page/n19/mode/2up?q=Crystal+Palace+Road), p.15, p.55 n37
+
+
 
