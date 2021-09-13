@@ -115,7 +115,7 @@
   * [Wigmore Street](research/places/wigmore-street.md)
   * [Willesden](research/places/willesden.md)
 * [Auction Houses](research/auction-houses.md)
-* [Organisations](research/organisations/README.md)
+* [Wellcome Organisations](research/organisations/README.md)
   * [Burroughs Wellcome & Company \(BW & Co.\)](research/organisations/bw.md)
   * [Historical Medical Exhibition \(HME\)](research/organisations/hme.md)
   * [Wellcome Bureau of Scientific Research \(WBSR\)](research/organisations/wbsr.md)
