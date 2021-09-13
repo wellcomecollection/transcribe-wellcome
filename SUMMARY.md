@@ -116,7 +116,7 @@
   * [Willesden](research/places/willesden.md)
 * [Auction Houses](research/auction-houses.md)
 * [Organisations](research/organisations/README.md)
-  * [Burroughs Wellcome & Company](research/organisations/bw.md)
+  * [Burroughs Wellcome & Company \(BW & Co.\)](research/organisations/bw.md)
   * [Historical Medical Exhibition](research/organisations/hme.md)
   * [Wellcome Bureau of Scientific Research](research/organisations/wbsr.md)
   * [Wellcome Chemical Research Laboratories \(WCRL\)](research/organisations/wcrl.md)

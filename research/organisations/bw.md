@@ -2,7 +2,7 @@
 description: Pharmaceutical company established by Henry S. Wellcome and Silas Burroughs.
 ---
 
-# Burroughs Wellcome & Company
+# Burroughs Wellcome & Company \(BW & Co.\)
 
 Pharmaceutical company established by two American pharmacists, Henry S. Wellcome and Silas Mainville Burroughs in 1880. Wellcome became sole proprietor after Burroughs's death in 1895.
 
