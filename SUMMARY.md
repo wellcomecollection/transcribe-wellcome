@@ -59,7 +59,6 @@
 
 ## About the Transcribe Wellcome dataset <a id="dataset"></a>
 
-* [About](dataset/about.md)
 * [Dispersals](dataset/dispersals.md)
 
 ## Project Management
