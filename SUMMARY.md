@@ -70,7 +70,7 @@
     * [Lacaille, A. Donald](research/people/alphabetical/lacaille.md)
     * [Lane, Tom](research/people/alphabetical/lane-tom.md)
     * [Lillico, Joan](research/people/alphabetical/lillico-joan.md)
-    * [Malcolm, Louise William Gordon](research/people/alphabetical/malcolm.md)
+    * [Malcolm, Louis William Gordon](research/people/alphabetical/malcolm.md)
     * [Mall, Paira](research/people/alphabetical/mall-paira.md)
     * [Marmoy, Charles](research/people/alphabetical/marmoy-charles.md)
     * [Michieli, John](research/people/alphabetical/michieli-john.md)
