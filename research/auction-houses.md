@@ -4,5 +4,5 @@
 
 It was not uncommon for [more than one buyer to attend a single sale](https://wellcomecollection.org/works/h2byq8za/items?canvas=343). Each buyer was asked to mark up a copy of the catalogue with the '[purchaser of every item, together with the price paid, including other lots purchased by our own people](https://wellcomecollection.org/works/h2byq8za/items?canvas=365)'. 
 
-Wellcome's marked up copies of auction house sales catalogues are currently being digitised and will be [available online](https://wellcomecollection.org/works/tmt535tq) shortly \(September 2021\). 
+Wellcome's marked up copies of auction house sales catalogues are currently being digitised and should be [available online](https://wellcomecollection.org/works/tmt535tq) shortly \(expected by end 2021\). 
 
