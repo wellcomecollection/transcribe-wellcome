@@ -2,7 +2,7 @@
 description: Temporary exhibition of medical history planned for 1903. Finally opened 1913.
 ---
 
-# Historical Medical Exhibition
+# Historical Medical Exhibition \(HME\)
 
 Historical Medical Exhibition \(HME\)
 
