@@ -98,7 +98,6 @@
     * [Webb, Mr](research/people/alphabetical/webb-mr.md)
     * [Welch](research/people/alphabetical/welch.md)
     * [Wilkes, Mr](research/people/alphabetical/wilkes-mr.md)
-    * [Daukes, S.H.](research/people/alphabetical/daukes-sh.md)
   * [Collectors](research/people/collectors.md)
 * [Places](research/places/README.md)
   * [Aldersgate Street](research/places/aldersgate-street.md)
@@ -128,7 +127,6 @@
   * [Epworth & Co.](research/organisations/epworth-co.md)
   * [Wellcome Museum of Medical Science \(WMMS\)](research/organisations/wmms.md)
 * [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
-
 
 ## TRANSCRIPTION GUIDELINES
 
