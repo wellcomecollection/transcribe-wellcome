@@ -8,3 +8,5 @@ The archive which documents the activities of the Wellcome museum and library fr
 
 By transcribing the main series of accession and registration records, we aim to help researchers explore the provenance and collecting histories of items acquired for the Wellcome museum and library between 1897 and 2000, and to trace the recipient museums and libraries to which Wellcome collection items were transferred between 1936 and 1983.
 
+Whilst we work towards making the transcribed data available online, we have put together this documentation site to support our growing community of transcribers and researchers using the museum and library archive. 
+

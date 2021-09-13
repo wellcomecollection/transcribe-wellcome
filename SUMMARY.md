@@ -86,6 +86,7 @@
     * [Samson, Otto William](research/people/alphabetical/samson-otto-william.md)
     * [Shawe, J.](research/people/alphabetical/shawe-j.md)
     * [Shirreff, Frances Gordon](research/people/alphabetical/shirreff.md)
+    * [Sinel, Joseph William](research/people/alphabetical/sinel-joseph-william.md)
     * [Sizer, C.A.](research/people/alphabetical/sizer-ca.md)
     * [Smith, Miss](research/people/alphabetical/smith-miss.md)
     * [Spielmann, Marion Harry Alexander](research/people/alphabetical/spielmann.md)
@@ -97,6 +98,7 @@
     * [Webb, Mr](research/people/alphabetical/webb-mr.md)
     * [Welch](research/people/alphabetical/welch.md)
     * [Wilkes, Mr](research/people/alphabetical/wilkes-mr.md)
+    * [Daukes, S.H.](research/people/alphabetical/daukes-sh.md)
   * [Collectors](research/people/collectors.md)
 * [Places](research/places/README.md)
   * [Aldersgate Street](research/places/aldersgate-street.md)
@@ -116,20 +118,39 @@
 * [Auction Houses](research/auction-houses.md)
 * [Organisations](research/organisations/README.md)
   * [Burroughs Wellcome & Company](research/organisations/bw.md)
-  * [Epworth & Co.](research/organisations/epworth-co.md)
   * [Historical Medical Exhibition](research/organisations/hme.md)
   * [Wellcome Bureau of Scientific Research](research/organisations/wbsr.md)
   * [Wellcome Chemical Research Laboratories](research/organisations/wcrl.md)
   * [Wellcome Historical Medical Museum](research/organisations/whmm.md)
   * [Wellcome Institute of/for the History of Medicine](research/organisations/wihm.md)
-  * [Wellcome Museum of Medical Science](research/organisations/wmms.md)
   * [Wellcome Physiological Research Laboratories](research/organisations/wprl.md)
   * [Wellcome Tropical Research Laboratories](research/organisations/wtrl.md)
+  * [Epworth & Co.](research/organisations/epworth-co.md)
+  * [Wellcome Museum of Medical Science \(WMMS\)](research/organisations/wmms.md)
+* [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
+
 
 ## TRANSCRIPTION GUIDELINES
 
 * [Wellcome Transcribers' Group](transcription-guidelines/grp-wellcome-transcribers.md)
-* [Transcription Setup](transcription-guidelines/transcription-setup.md)
-* [WHMM Flimsy Slips](transcription-guidelines/whmm-flimsy-slips/README.md)
-  * [General Instructions](transcription-guidelines/whmm-flimsy-slips/general-instructions.md)
+* [Getting Started](transcription-guidelines/getting-started.md)
+* [Library Registers](transcription-guidelines/library-registers.md)
+* [Museum Flimsy Slips](transcription-guidelines/museum-flimsy-slips.md)
+* [Visual Material Registers](transcription-guidelines/visual-material-registers.md)
+* [Science Museum Transit Registers](transcription-guidelines/science-museum-transit-registers.md)
+* [Museum Accession Registers](transcription-guidelines/museum-accession-registers.md)
+
+## Contributing to Transcribe Wellcome
+
+* [Transcribers](contributing-to-transcribe-wellcome/new-transcribers.md)
+* [Recipient Museums & Libraries](contributing-to-transcribe-wellcome/recipient-museums-and-libraries.md)
+
+## About the Transcribe Wellcome dataset <a id="dataset"></a>
+
+* [Dispersals](dataset/dispersals.md)
+
+## Project Management
+
+* [Batch checking - Flimsy slips \(A sequence\)](project-management/batch-checking-flimsy-slips-a-sequence.md)
+* [Itemising batches for TW import and catalogue descriptions](project-management/itemising-batches-for-tw-import-and-catalogue-descriptions.md)
 
