@@ -4,5 +4,5 @@
 
 Location of WHMM museum store. Post 1922.
 
-place
+
 
