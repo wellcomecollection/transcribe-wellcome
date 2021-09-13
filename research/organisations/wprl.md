@@ -8,9 +8,7 @@ Located at Beckenham, London from 1922.
 
 List of staff as of 1931 given in WAHMM/CO/Wel/B/4, image 2
 
-Symons 1993 says foundation of WPRL was often given as 1894 during Henry Wellcome's lifetime but that is not accurate.
+[Symons 1993](https://archive.org/details/Symons1993/mode/2up) says foundation of WPRL was often given as 1894 during Henry Wellcome's lifetime but that is not accurate.
 
-Symons 1993, p3, 26 and 54n2.
-
-institution
+[Symons 1993](https://archive.org/details/Symons1993/mode/2up), p3, 26 and 54n2.
 
