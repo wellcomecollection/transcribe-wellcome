@@ -1,4 +1,4 @@
-# Wellcome Physiological Research Laboratories
+# Wellcome Physiological Research Laboratories \(WPRL\)
 
 Wellcome Physiological Research Laboratories \(WPRL\)
 
