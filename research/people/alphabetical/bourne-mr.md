@@ -1,6 +1,6 @@
-# Bourne, Mr
+# Bourne, Henry
 
-Mr Bourne. Life dates: c.1857-1936. ‘odd job man’, handyman. Active at WHMM: c.1908-c.1936 \[earliest/latest noted in sources\]
+Henry Bourne. Life dates: c.1857-1936. ‘odd job man’, handyman. Active at WHMM: c.1908-c.1936 \[earliest/latest noted in sources\]
 
 ## work at WHMM:
 

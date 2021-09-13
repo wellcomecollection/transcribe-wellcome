@@ -27,7 +27,7 @@
     * [Bishop, W.J.](research/people/alphabetical/bishop-wj.md)
     * [Borer, Mary Cathcart](research/people/alphabetical/borer-mary-cathcart.md)
     * [Boscawen, William St Chad](research/people/alphabetical/boscawen-william-st-chad.md)
-    * [Bourne, Mr](research/people/alphabetical/bourne-mr.md)
+    * [Bourne, Henry](research/people/alphabetical/bourne-mr.md)
     * [Britchford, W.J.](research/people/alphabetical/britchford-wj.md)
     * [Brookes, Mr](research/people/alphabetical/brookes-mr.md)
     * [Burgess, Renate](research/people/alphabetical/burgess-renate.md)
