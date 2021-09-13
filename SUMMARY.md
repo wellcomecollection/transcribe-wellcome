@@ -117,6 +117,7 @@
 * [Auction Houses](research/auction-houses.md)
 * [Wellcome Organisations](research/organisations/README.md)
   * [Burroughs Wellcome & Company \(BW & Co.\)](research/organisations/bw.md)
+  * [Epworth & Co.](research/organisations/epworth-co.md)
   * [Historical Medical Exhibition \(HME\)](research/organisations/hme.md)
   * [Wellcome Bureau of Scientific Research \(WBSR\)](research/organisations/wbsr.md)
   * [Wellcome Chemical Research Laboratories \(WCRL\)](research/organisations/wcrl.md)
@@ -124,7 +125,6 @@
   * [Wellcome Institute of/for the History of Medicine \(WIHM\)](research/organisations/wihm.md)
   * [Wellcome Physiological Research Laboratories \(WPRL\)](research/organisations/wprl.md)
   * [Wellcome Tropical Research Laboratories \(WTRL\)](research/organisations/wtrl.md)
-  * [Epworth & Co.](research/organisations/epworth-co.md)
   * [Wellcome Museum of Medical Science \(WMMS\)](research/organisations/wmms.md)
 * [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
 
