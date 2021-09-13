@@ -72,20 +72,28 @@ description: Contents of the Transcribe Wellcome dispersals table
 
 * Example objects, mostly collected by Winifred Blackman, identified from the Pitt Rivers Museum [Database of Object Collections](https://prm.web.ox.ac.uk/terms-use-pitt-rivers-museum-database-object-collections)
 
-## Science Museum Loan
+## Sir Henry Wellcome's Museum Collection \(Science Museum loan\)
 
 * Science Museum object numbers between A45 and A500529 inclusive for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(c.21,500 entries\)
 * Science Museum object numbers between A600001 and A700043 inclusive for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(c.67,000 entries\)
 * Science Museum part-numbered objects \(/1 and Pt1 etc.\) for which an online record exists on [https://collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk/)  \(c.5550 entries\)
 * 'B' loans to the Science Museum for which an online record exists on [https://collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk) \(c.900 entries\)
 
-## Stroud District \(Cowie\) Museum 
+## Stroud District \(Cowle\) Museum 
 
 * 21 objects \(mostly casts of prehistoric material\) [gifted to Stroud Museum in 1982-1983](https://wellcomecollection.org/works/ap29grmp/items?canvas=57).
 
 ## The Fitzwilliam Museum - University of Cambridge
 
 * Example objects identified from the Fitzwilliam beta release [collection online](https://collection.beta.fitz.ms/)
+
+## Tropenmuseum, Amsterdam
+
+* Example objects identified by staff at the Tropenmuseum
+
+## University of Leicester, School of Museum Studies
+
+* Example object identified by a member of teaching staff
 
 ## Victoria and Albert Museum
 
@@ -95,4 +103,5 @@ description: Contents of the Transcribe Wellcome dispersals table
 
 * Early printed books for which accession numbers are recorded in Wellcome's internal collections management system. Catalogue records and digitised images are available from the [Wellcome catalogue online](https://wellcomecollection.org/collections), but do not include accession numbers
 * Selected manuscripts
+* Selected paintings and photographs
 
