@@ -1,5 +1,8 @@
 ---
-description: Contents of the Transcribe Wellcome dispersals table
+description: >-
+  Contents of the Transcribe Wellcome dispersals table. A prototype
+  demonstration for a virtual piecing together of the Wellcome collections'
+  diaspora.
 ---
 
 # Dispersals
