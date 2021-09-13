@@ -4,5 +4,5 @@
 
 WHMM premises during period Euston Road evacuated during WW2.
 
-place
+
 
