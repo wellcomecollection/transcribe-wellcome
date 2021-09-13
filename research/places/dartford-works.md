@@ -2,7 +2,7 @@
 
 Dartford / 'Dartford works'. Factory in Dartford, London.
 
-Manufacturing site for \[Burroughs Wellcome & Co\) from 1889 onwards.
+Manufacturing site for [Burroughs Wellcome & Co](https://docs.wellcomecollection.org/transcribe-wellcome/research/organisations/bw) from 1889 onwards.
 
 Production remained at the site throughout the history of BW&Co, later the Wellcome Foundation. GSK now owns the site, since the merger of Wellcome plc pharmaceuticals with Glaxo in 1995.
 

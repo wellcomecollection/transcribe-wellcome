@@ -6,7 +6,7 @@ Street at the rear of Wigmore Street, which housed the first \[Wellcome Historic
 
 Curator [C.J.S. Thompson](https://github.com/wellcomecollection/transcribe-wellcome/tree/2609cc68a2c1fd291dbdf143ba793aa71ae9b8c6/researching-the-museum-and-library/places/Thompson,%20Charles%20John%20Samuel/README.md) used Easley Mews as a correspondence address, indicating use of rooms there.
 
-This was also a connecting route to the Welbeck Palace Hotel which was frequented by Henry Wellcome and held functions for the museum. Symons 1993, p.54n15
+This was also a connecting route to the Welbeck Palace Hotel which was frequented by Henry Wellcome and held functions for the museum. [Symons 1993](https://archive.org/details/Symons1993/mode/2up), p.54n15
 
-place
+
 
