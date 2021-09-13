@@ -123,9 +123,9 @@
   * [Wellcome Chemical Research Laboratories \(WCRL\)](research/organisations/wcrl.md)
   * [Wellcome Historical Medical Museum \(WHMM\)](research/organisations/whmm.md)
   * [Wellcome Institute of/for the History of Medicine \(WIHM\)](research/organisations/wihm.md)
+  * [Wellcome Museum of Medical Science \(WMMS\)](research/organisations/wmms.md)
   * [Wellcome Physiological Research Laboratories \(WPRL\)](research/organisations/wprl.md)
   * [Wellcome Tropical Research Laboratories \(WTRL\)](research/organisations/wtrl.md)
-  * [Wellcome Museum of Medical Science \(WMMS\)](research/organisations/wmms.md)
 * [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
 
 ## TRANSCRIPTION GUIDELINES
