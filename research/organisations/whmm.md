@@ -4,7 +4,7 @@ description: >-
   Square 1947, and back to Euston Road from 1954.
 ---
 
-# Wellcome Historical Medical Museum
+# Wellcome Historical Medical Museum \(WHMM\)
 
 ## Wellcome Historical Medical Museum
 

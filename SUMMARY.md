@@ -120,7 +120,7 @@
   * [Historical Medical Exhibition](research/organisations/hme.md)
   * [Wellcome Bureau of Scientific Research](research/organisations/wbsr.md)
   * [Wellcome Chemical Research Laboratories](research/organisations/wcrl.md)
-  * [Wellcome Historical Medical Museum](research/organisations/whmm.md)
+  * [Wellcome Historical Medical Museum \(WHMM\)](research/organisations/whmm.md)
   * [Wellcome Institute of/for the History of Medicine](research/organisations/wihm.md)
   * [Wellcome Physiological Research Laboratories](research/organisations/wprl.md)
   * [Wellcome Tropical Research Laboratories](research/organisations/wtrl.md)
