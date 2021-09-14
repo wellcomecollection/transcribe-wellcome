@@ -98,6 +98,7 @@
     * [Webb, Mr](research/people/alphabetical/webb-mr.md)
     * [Welch](research/people/alphabetical/welch.md)
     * [Wilkes, Mr](research/people/alphabetical/wilkes-mr.md)
+    * [Winder, Marianne](research/people/alphabetical/winder-marianne.md)
   * [Collectors](research/people/collectors.md)
 * [Places](research/places/README.md)
   * [Aldersgate Street](research/places/aldersgate-street.md)
