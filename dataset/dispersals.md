@@ -7,6 +7,10 @@ description: >-
 
 # Dispersals
 
+## Amgueddfa Cymru - National Museum Wales
+
+* Example object identified from [collection online](https://museum.wales/collections/online/).
+
 ## Bibljoteka Nazzjonali - Malta \(National Library of Malta\)
 
 * Archives of the Knights of Malta \(The Order of St. John\)
