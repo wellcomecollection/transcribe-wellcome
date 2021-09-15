@@ -6,3 +6,21 @@ It was not uncommon for [more than one buyer to attend a single sale](https://we
 
 Wellcome's marked up copies of auction house sales catalogues are currently being digitised and should be [available online](https://wellcomecollection.org/works/tmt535tq) shortly \(expected by end 2021\). 
 
+#### Common auction house abbreviations used on index cards and object labels
+
+| Abbreviation | Auction House |
+| :--- | :--- |
+| Bon | Bonhams |
+| Ch | Christies |
+| Deb | Debenham Stores |
+| Fos | Foster |
+| Glen | Glendining |
+| H | Hurcomb |
+| K.F.&R. | Knight, Frank & Rutley |
+| P.&S. | Puttick & Simpson |
+| P.S.&N. | Philips, Son & Neale |
+| R.&F. | Robinson & Fisher |
+| R.F.&H. | Robinson, Fisher & Harding |
+| Soth | Sotheby's |
+| St | Stevens |
+
