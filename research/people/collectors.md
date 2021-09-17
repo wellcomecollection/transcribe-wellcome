@@ -12,7 +12,7 @@ description: >-
 
 Life dates: 1888–1957. Swedish anthropologist working across Africa and South America.
 
-[Material acquired from Bolinder](https://wellcome.quickbase.com/db/bqqgfjb3t?a=q&qid=12) includes anthropological photographs of Ibo peoples in southern Nigeria \(c.1932\).
+Material acquired from Bolinder includes anthropological photographs of Ibo peoples in southern Nigeria \(c.1932\).
 
 #### Archive sources:
 
@@ -22,7 +22,7 @@ Life dates: 1888–1957. Swedish anthropologist working across Africa and South 
 
 ### Church Missionary Society
 
-Material acquired from the [Church Missionary Society](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=55) \(CMS\) includes ethnographic collections originating from peoples in Egypt, Kenya, Nigeria and Uganda. Group of material acquired 1962.
+Material acquired from the Church Missionary Society \(CMS\) includes ethnographic collections originating from peoples in Egypt, Kenya, Nigeria and Uganda. Group of material acquired 1962.
 
 Collecting associated with CMS hasn't yet been researched. Archive sources located so far may not relate to the collections transcribed in TW.
 
@@ -35,7 +35,7 @@ Collecting associated with CMS hasn't yet been researched. Archive sources locat
 
 Life dates: 1890–1975. South African anthropologist. Colonial administrator in Nigeria and Cameroon.
 
-[Material acquired via Jeffreys](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=52) includes ethnographic collections originating from \(confirmed so far\) Aro, Ibibio, Efik peoples in southern Nigeria and Cameroon. Collections from other peoples may also be included. Material was sent to WHMM in large shipments from c.1927 to c.1938.
+Material acquired via Jeffreys includes ethnographic collections originating from \(confirmed so far\) Aro, Ibibio, Efik peoples in southern Nigeria and Cameroon. Collections from other peoples may also be included. Material was sent to WHMM in large shipments from c.1927 to c.1938.
 
 Contemporary with Jeffreys' collecting in 1932, peoples of southern Nigeria were also photographed for WHMM by anthropologist [Gustav Bolinder](collectors.md#bolinder-gustav).
 
@@ -59,7 +59,7 @@ Museum records related to display, cataloguing, and dispersal of material to oth
 
 Life dates: 1835–1909. British Conservative Member of Parliament. Collector of artworks, antiquities and books.
 
-[Material acquired from Amherst's collection](https://wellcome.quickbase.com/db/bqhbm5y5u?a=q&qid=58) includes ancient Egyptian antiquities and Mesopotamian cuneiform tablets.
+Material acquired from Amherst's collection includes ancient Egyptian antiquities and Mesopotamian cuneiform tablets.
 
 #### Archive sources:
 
@@ -70,5 +70,11 @@ Life dates: 1835–1909. British Conservative Member of Parliament. Collector of
 
 ### Gorga, Evangelista
 
-Italian opera singer. Material acquired from Gorga's collection includes ancient Greco-Roman and Etruscan votive offerings \('donaria'\). \[Not yet listed on TW\].
+Italian opera singer. Material acquired from Gorga's collection includes ancient Greco-Roman and Etruscan votive offerings \('donaria'\).
+
+#### Archive sources:
+
+* [WA/HMM/CM/Col/47](https://wellcomecollection.org/works/dwfsfnzd)  collections dossier, 1912-32
+* [WA/HMM/CM/Env/6](https://wellcomecollection.org/works/xhrgujmf)  invoice book, Apr-May 1936
+* [WA/HMM/CM/Env/8](https://wellcomecollection.org/works/up5jfxfw)  invoice book, May-Aug 1936
 
