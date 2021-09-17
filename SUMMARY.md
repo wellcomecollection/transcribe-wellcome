@@ -38,7 +38,7 @@
     * [Chatterjee, B.](research/people/alphabetical/chatterjee-b.md)
     * [Chiang Yee](research/people/alphabetical/chiang-yee.md)
     * [Clarke, Edwin](research/people/alphabetical/clarke-edwin.md)
-    * [Comims, Mr](research/people/alphabetical/comins-mr.md)
+    * [Comins, Mr](research/people/alphabetical/comins-mr.md)
     * [Cooper-Reade, J.B.](research/people/alphabetical/cooper-reade-jb.md)
     * [Cox, R.M.](research/people/alphabetical/cox-rm.md)
     * [Crellin, John K.](research/people/alphabetical/crellin-john-k.md)
