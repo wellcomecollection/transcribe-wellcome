@@ -18,7 +18,7 @@ In 1921 he joined Bristol Museum and Art Gallery where he was assistant curator 
 
 In 1932, he was awarded a PhD by the University of Cambridge on '[Medical Museums: an historical and bibliographic study](https://idiscover.lib.cam.ac.uk/permalink/f/t9gok8/44CAM\_ALMA21432633030003606)'.&#x20;
 
-After leaving WHMM, he joined the Inspectorate of the London County Council as a Liaison Officer organising the use of museum collections for teaching in London schools, and in 1937 became [Curator of the Horniman Museum](https://www.horniman.ac.uk/agent/agent-11425/), a position he held until his death on 9 September 1946.&#x20;
+After leaving WHMM at the end of 1934, he joined the Inspectorate of the London County Council as a Liaison Officer organising the use of museum collections for teaching in London schools, and in 1937 became [Curator of the Horniman Museum](https://www.horniman.ac.uk/agent/agent-11425/), a position he held until his death on 9 September 1946.&#x20;
 
 Handwriting sample: difficult to find, as Malcolm usually has documents in typescript. Some ms notes in [WA/HMM/CO/Wel/E/2](https://wellcomecollection.org/works/ubfs633j/items) and in museum register [WA/HMM/CM/Acc/7](https://wellcomecollection.org/works/au9sjk9g/items?canvas=73) (in red ink, signed on opposite page).
 
