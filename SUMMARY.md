@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Terminology and language](language.md)
 
-## RESEARCHING THE MUSEUM & LIBRARY <a id="research"></a>
+## RESEARCHING THE MUSEUM & LIBRARY <a href="research" id="research"></a>
 
 * [Documentation Systems](research/documentation-systems/README.md)
   * [Museum Accession Numbers](research/documentation-systems/museum-accession-numbers.md)
@@ -46,7 +46,7 @@
     * [Daukes, S.H.](research/people/alphabetical/daukes-sh.md)
     * [Davis, Walter](research/people/alphabetical/davis-walter.md)
     * [Dean, A.L.](research/people/alphabetical/dean-al.md)
-    * [Duncum \(Pyecraft\), Barbara](research/people/alphabetical/duncum-pyecraft-barbara.md)
+    * [Duncum (Pyecraft), Barbara](research/people/alphabetical/duncum-pyecraft-barbara.md)
     * [Dykes, R.](research/people/alphabetical/dykes-r.md)
     * [Earnshaw, C.A.](research/people/alphabetical/earnshaw-ca.md)
     * [Freeman, E.J.](research/people/alphabetical/freeman-ej.md)
@@ -62,7 +62,7 @@
     * [Holz, Dorothy](research/people/alphabetical/holz-dorothy.md)
     * [Hooper, D.](research/people/alphabetical/hooper-d.md)
     * [Huck, T.W.](research/people/alphabetical/huck-tw.md)
-    * [Johnston-Saint, Peter \(Captain\)](research/people/alphabetical/johnston-saint.md)
+    * [Johnston-Saint, Peter (Captain)](research/people/alphabetical/johnston-saint.md)
     * [Jones, Miss](research/people/alphabetical/jones-miss.md)
     * [Keighley, Mr](research/people/alphabetical/keighley-mr.md)
     * [Kemp, P.M.](research/people/alphabetical/kemp-pm.md)
@@ -80,7 +80,7 @@
     * [Poynter, F.N.L.](research/people/alphabetical/poynter.md)
     * [Prideaux, W.R.B.](research/people/alphabetical/prideaux-wrb.md)
     * [Rainsford-Hannay, Margaret](research/people/alphabetical/rainsford-hannay-margaret.md)
-    * [Raymont \(Braunholtz\), Joan](research/people/alphabetical/raymont-joan.md)
+    * [Raymont (Braunholtz), Joan](research/people/alphabetical/raymont-joan.md)
     * [Rowbottom, Margaret](research/people/alphabetical/rowbottom-margaret.md)
     * [Sambon, Louis Westenra](research/people/alphabetical/sambon-louis-westenra.md)
     * [Samson, Otto William](research/people/alphabetical/samson-otto-william.md)
@@ -94,7 +94,7 @@
     * [Swinstead, A.E.H.](research/people/alphabetical/swinstead-aeh.md)
     * [Thompson, Charles John Samuel](research/people/alphabetical/thompson-cjs.md)
     * [Underwood, Edwin Ashworth](research/people/alphabetical/underwood-ea.md)
-    * [Uribe, Julio \(Major\)](research/people/alphabetical/uribe.md)
+    * [Uribe, Julio (Major)](research/people/alphabetical/uribe.md)
     * [Webb, Mr](research/people/alphabetical/webb-mr.md)
     * [Welch](research/people/alphabetical/welch.md)
     * [Wilkes, Mr](research/people/alphabetical/wilkes-mr.md)
@@ -117,17 +117,17 @@
   * [Willesden](research/places/willesden.md)
 * [Auction Houses](research/auction-houses.md)
 * [Wellcome Organisations](research/organisations/README.md)
-  * [Burroughs Wellcome & Company \(BW & Co.\)](research/organisations/bw.md)
+  * [Burroughs Wellcome & Company (BW & Co.)](research/organisations/bw.md)
   * [Epworth & Co.](research/organisations/epworth-co.md)
-  * [Historical Medical Exhibition \(HME\)](research/organisations/hme.md)
-  * [Wellcome Bureau of Scientific Research \(WBSR\)](research/organisations/wbsr.md)
-  * [Wellcome Chemical Research Laboratories \(WCRL\)](research/organisations/wcrl.md)
-  * [Wellcome Historical Medical Museum \(WHMM\)](research/organisations/whmm.md)
-  * [Wellcome Institute of/for the History of Medicine \(WIHM\)](research/organisations/wihm.md)
-  * [Wellcome Museum of Medical Science \(WMMS\)](research/organisations/wmms.md)
-  * [Wellcome Physiological Research Laboratories \(WPRL\)](research/organisations/wprl.md)
-  * [Wellcome Tropical Research Laboratories \(WTRL\)](research/organisations/wtrl.md)
-* [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
+  * [Historical Medical Exhibition (HME)](research/organisations/hme.md)
+  * [Wellcome Bureau of Scientific Research (WBSR)](research/organisations/wbsr.md)
+  * [Wellcome Chemical Research Laboratories (WCRL)](research/organisations/wcrl.md)
+  * [Wellcome Historical Medical Museum (WHMM)](research/organisations/whmm.md)
+  * [Wellcome Institute of/for the History of Medicine (WIHM)](research/organisations/wihm.md)
+  * [Wellcome Museum of Medical Science (WMMS)](research/organisations/wmms.md)
+  * [Wellcome Physiological Research Laboratories (WPRL)](research/organisations/wprl.md)
+  * [Wellcome Tropical Research Laboratories (WTRL)](research/organisations/wtrl.md)
+* [Bibliography](https://www.zotero.org/groups/2778863/transcribe\_wellcome/library)
 
 ## TRANSCRIPTION GUIDELINES
 
@@ -144,12 +144,12 @@
 * [Transcribers](contributing-to-transcribe-wellcome/new-transcribers.md)
 * [Recipient Museums & Libraries](contributing-to-transcribe-wellcome/recipient-museums-and-libraries.md)
 
-## About the Transcribe Wellcome dataset <a id="dataset"></a>
+## About the Transcribe Wellcome dataset <a href="dataset" id="dataset"></a>
 
 * [Dispersals](dataset/dispersals.md)
 
 ## Project Management
 
-* [Batch checking - Flimsy slips \(A sequence\)](project-management/batch-checking-flimsy-slips-a-sequence.md)
+* [Batch checking - Flimsy slips (A sequence)](project-management/batch-checking-flimsy-slips-a-sequence.md)
+* [Batch checking - Library Accession Registers](project-management/batch-checking-library-accession-registers.md)
 * [Itemising batches for TW import and catalogue descriptions](project-management/itemising-batches-for-tw-import-and-catalogue-descriptions.md)
-
