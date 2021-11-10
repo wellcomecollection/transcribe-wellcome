@@ -6,7 +6,7 @@ Life dates: 1890–1975. South African anthropologist. Colonial administrator in
 
 Material acquired via Jeffreys includes ethnographic collections originating from (confirmed so far) Aro, Ibibio, Efik peoples in southern Nigeria and Cameroon. Collections from other peoples may also be included. Material was sent to WHMM in large shipments from c.1927 to c.1938.
 
-Contemporary with Jeffreys' collecting in 1932, peoples of southern Nigeria were also photographed for WHMM by anthropologist [Gustav Bolinder](./#bolinder-gustav).
+Contemporary with Jeffreys' collecting in 1932, peoples of southern Nigeria were also photographed for WHMM by anthropologist [Gustav Bolinder](../collectors.md#bolinder-gustav).
 
 #### Archive sources
 
