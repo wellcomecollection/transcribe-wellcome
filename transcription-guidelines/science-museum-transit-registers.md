@@ -4,35 +4,35 @@ description: Guide for Transcribers
 
 # Science Museum Transit Registers
 
-![Page from Transit Register A-1 \(WA/HMM/TR/Abc/A.1/1\)](../.gitbook/assets/transit-register.jpg)
+![Page from Transit Register A-1 (WA/HMM/TR/Abc/A.1/1)](../.gitbook/assets/transit-register.jpg)
 
 ## The Transcription Spreadsheet
 
-The column headings in the transcription spreadsheet correspond - broadly - to the headings used in the transit register, plus some additional columns linking your transcription to the digitised archive record \(and for notes\). 
+The column headings in the transcription spreadsheet correspond - broadly - to the headings used in the transit register, plus some additional columns linking your transcription to the digitised archive record (and for notes).&#x20;
 
-As working documents, the transit registers are heavily customised and annotated, and columns may sometimes appear in the registers in a different layout to that set out in the transcription template. 
+As working documents, the transit registers are heavily customised and annotated, and columns may sometimes appear in the registers in a different layout to that set out in the transcription template.&#x20;
 
 ## General Transcription Instructions
 
 Each row of the transit register should be transcribed onto one row of the spreadsheet.
 
-Wellcome object identifiers are inconsistently recorded in the transit registers. When transcribing these identifiers, please transcribe _without_ prefix i.e. `R1234` should be transcribed into the **Old R number** column as just `1234`. 
+Wellcome object identifiers are inconsistently recorded in the transit registers. When transcribing these identifiers, please transcribe _without _prefix i.e. `R1234` should be transcribed into the **Old R number** column as just `1234`.&#x20;
 
-`NN` \(meaning 'no number'\) should be transcribed into **transcriber's notes**. 
+`NN` (meaning 'no number') should be transcribed into **transcriber's notes**.&#x20;
 
-If the register uses `ditto` or `" "` \(or similar\), transcribe the relevant information in full in each row. Do not transcribe as written. 
+If the register uses `ditto` or `" "` (or similar), transcribe the relevant information in full in each row. Do not transcribe as written.&#x20;
 
 ## Green Column Headings
 
-### **A number** 
+### **A number **
 
-Transcribe the accession \('A number'\) for each object from the left hand column of the transit register \(headed 'No.' in the register\) onto a new row in the spreadsheet:
+Transcribe the accession ('A number') for each object from the left hand column of the transit register (headed 'No.' in the register) onto a new row in the spreadsheet:
 
-![](../.gitbook/assets/transit-a-no%20%281%29.jpg)
+![](<../.gitbook/assets/transit-a-no (1).jpg>)
 
-A numbers are integers of up to 6 digits in length. 
+A numbers are integers of up to 6 digits in length.&#x20;
 
-Do not include the A prefix, even if this is written in the transit register. 
+Do not include the A prefix, even if this is written in the transit register.&#x20;
 
 ### Object Description
 
@@ -44,11 +44,11 @@ Transcribe the old registration number for the object, without prefix:
 
 ![](../.gitbook/assets/rnos.jpg)
 
-Old registration numbers are integers of up to 5 digits in length. 
+Old registration numbers are integers of up to 5 digits in length.&#x20;
 
-Do not include the R prefix on the spreadsheet, even if this is written in the transit register.  i.e. `R1234` in the register should be transcribed as `1234` in this column in the spreadsheet. Please transcribe any number suffixes \(e.g. `A-F`\) separately into **transcriber's notes**. 
+Do not include the R prefix on the spreadsheet, even if this is written in the transit register.  i.e. `R1234` in the register should be transcribed as `1234` in this column in the spreadsheet. Please transcribe any number suffixes (e.g. `A-F`) separately into **transcriber's notes**.&#x20;
 
-Be aware that individual objects may have an old registration number, a new registration number or both. Be careful to enter these into the correct column of the spreadsheet. 
+Be aware that individual objects may have an old registration number, a new registration number or both. Be careful to enter these into the correct column of the spreadsheet.&#x20;
 
 ### New R year number
 
@@ -58,42 +58,42 @@ Transcribe the new registration number for the object, without prefix:
 
 New registration 'R year' numbers consist of 4 or 5 parts:
 
-* a prefix \(which is always `R` in the transit registers\)
+* a prefix (which is always `R` in the transit registers)
 * an integer of up to 5 digits in length
-* a divider \(usually written as `/` in the transit registers, but sometimes `-` or `'` are used instead\)
-* a year \(usually - but not always - written as 4 digits\). This should always be transcribed as a full 4 digits
-* \(optionally\) a suffix, usually alphabetical e.g. `A-G`
+* a divider (usually written as `/` in the transit registers, but sometimes `-` or `'` are used instead)
+* a year (usually - but not always - written as 4 digits). This should always be transcribed as a full 4 digits
+* (optionally) a suffix, usually alphabetical e.g. `A-G`
 
 Here are some further examples of new registration numbers as you may encounter them in the transit registers:
 
 | Written in transit register | Transcribe as: |
-| :--- | :--- |
-| R1234/1938 | 1234/1938 |
-| 6-1964 | 6/1964 |
-| 14057/1936 | 14057/1936 |
-| R'67-492 | 492/1967 |
+| --------------------------- | -------------- |
+| R1234/1938                  | 1234/1938      |
+| 6-1964                      | 6/1964         |
+| 14057/1936                  | 14057/1936     |
+| R'67-492                    | 492/1967       |
 
-For the purposes of transit register transcription, all new registration numbers should be transcribed _without_ prefix but with the year written in full i.e. `1234/1938`. Please transcribe any number suffixes \(e.g. `A-F`\) separately into **transcriber's notes**. 
+For the purposes of transit register transcription, all new registration numbers should be transcribed _without _prefix but with the year written in full i.e. `1234/1938`. Please transcribe any number suffixes (e.g. `A-F`) separately into **transcriber's notes**.&#x20;
 
-Be aware that individual objects may have an old registration number, a new registration number or both. Be careful to enter these into the correct column of the spreadsheet. 
+Be aware that individual objects may have an old registration number, a new registration number or both. Be careful to enter these into the correct column of the spreadsheet.&#x20;
 
 ### Box Number
 
-Transcribe the box or case number as written in the transit register, as digits \(i.e. do not include the word 'box' if this is written in the register\). This is not a printed heading but has been added as an additional column on most pages of the registers. 
+Transcribe the box or case number as written in the transit register, as digits (i.e. do not include the word 'box' if this is written in the register). This is not a printed heading but has been added as an additional column on most pages of the registers.&#x20;
 
 ### Wellcome location
 
-Transcribe the Wellcome Location exactly as written in the transit register. This may be either a gallery or a stores location. Do not include any box number details already transcribed into the box number column. 
+Transcribe the Wellcome Location exactly as written in the transit register. This may be either a gallery or a stores location. Do not include any box number details already transcribed into the box number column.&#x20;
 
 ## Yellow Column Headings
 
 ### Transcriber's Notes
 
-Please use this column to record any additional notes, or to note any problems you have had with the transcription. 
+Please use this column to record any additional notes, or to note any problems you have had with the transcription.&#x20;
 
-`NN` \('no number'\) should also be noted in this column. 
+`NN` ('no number') should also be noted in this column.&#x20;
 
-If you have a note that relates to more than one entry, please make sure you add it into every relevant row of the spreadsheet and avoid the use of the phrases 'see above', 'see below' or 'ditto' in any column. 
+If you have a note that relates to more than one entry, please make sure you add it into every relevant row of the spreadsheet and avoid the use of the phrases 'see above', 'see below' or 'ditto' in any column.&#x20;
 
 ### Transcribed By
 
@@ -103,17 +103,15 @@ Your email address e.g. j.bloggs@wellcome.org
 
 ### Image Number
 
-Enter the image number for the page of the transit register. This can be found at the top middle of the top middle of the image viewer window to the left of the '/'. 
+Enter the image number for the page of the transit register. This can be found at the top middle of the top middle of the image viewer window to the left of the '/'.&#x20;
 
-Alternatively, if you are transcribing from PDF, the image number is the PDF page number minus 1 \(because of the cover sheet added to the PDF\). 
+Alternatively, if you are transcribing from PDF, the image number is the PDF page number minus 1 (because of the cover sheet added to the PDF).&#x20;
 
 ### Wellcome archive reference
 
-Enter the reference for the transit register in the Wellcome archive e.g. `WA/HMM/TR/Abc/A.1/1`. This will be the same for every entry in each batch of transcription. 
+Enter the reference for the transit register in the Wellcome archive e.g. `WA/HMM/TR/Abc/A.1/1`. This will be the same for every entry in each batch of transcription.&#x20;
 
 ### Licence
 
 Enter `CC0` for each entry.
-
-
 

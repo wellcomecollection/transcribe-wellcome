@@ -11,14 +11,14 @@ description: >-
 
 * Example object identified from [collection online](https://museum.wales/collections/online/).
 
-## Bibljoteka Nazzjonali - Malta \(National Library of Malta\)
+## Bibljoteka Nazzjonali - Malta (National Library of Malta)
 
-* Archives of the Knights of Malta \(The Order of St. John\)
+* Archives of the Knights of Malta (The Order of St. John)
 
 ## Birmingham Museum & Art Gallery
 
-* Shabtis with Wellcome identifiers published in Watson, P. \(2012\) [_Catalogue of Inscribed Shabtis in Birmingham Museum and Art Gallery_](https://www.birminghammuseums.org.uk/system/resources/W1siZiIsIjIwMTQvMTEvMjAvNmp0Nnk5dm1zOV9zaGFidGlfbWFzdGVyX3YxXzMucGRmIl1d/shabti%20master%20v1_3.pdf)_._ Birmingham Museums Trust.
-* Cuneiform tablets published in Watson, P.J. \(1986\) _Catalogue of Cuneiform Tablets in Birmingham City Museum,_ volume 1. Warminster: Aris & Phillips.
+* Shabtis with Wellcome identifiers published in Watson, P. (2012) [_Catalogue of Inscribed Shabtis in Birmingham Museum and Art Gallery_](https://www.birminghammuseums.org.uk/system/resources/W1siZiIsIjIwMTQvMTEvMjAvNmp0Nnk5dm1zOV9zaGFidGlfbWFzdGVyX3YxXzMucGRmIl1d/shabti%20master%20v1\_3.pdf)_._ Birmingham Museums Trust.
+* Cuneiform tablets published in Watson, P.J. (1986) _Catalogue of Cuneiform Tablets in Birmingham City Museum, _volume 1. Warminster: Aris & Phillips.
 
 ## Bolton Museum
 
@@ -26,7 +26,7 @@ description: >-
 
 ## Bristol Museum & Art Gallery
 
-* Example object identified from photograph in Bristol's [collections online](http://museums.bristol.gov.uk/)
+* Example object identified from photograph in Bristol's [collections online](http://museums.bristol.gov.uk)
 
 ## British Museum
 
@@ -37,11 +37,11 @@ description: >-
 
 ## Durham University Museums
 
-* Objects for which former Wellcome identifiers are recorded in Durham University Museums' internal collections management system. Catalogue records and some digitised images are available from [Discover Durham Collections](https://discover.durham.ac.uk/primo-explore/search?vid=44DUR_VU4), but do not include Wellcome identifiers.
+* Objects for which former Wellcome identifiers are recorded in Durham University Museums' internal collections management system. Catalogue records and some digitised images are available from [Discover Durham Collections](https://discover.durham.ac.uk/primo-explore/search?vid=44DUR\_VU4), but do not include Wellcome identifiers.
 
 ## Egypt Centre - Swansea University
 
-* Objects for which former Wellcome identifiers are recorded in the [Egypt Centre Online Collection](https://egyptcentre.abasetcollections.com/)
+* Objects for which former Wellcome identifiers are recorded in the [Egypt Centre Online Collection](https://egyptcentre.abasetcollections.com)
 
 ## Fowler Museum UCLA
 
@@ -57,7 +57,7 @@ description: >-
 
 ## Museum of Archaeology and Anthropology - University of Cambridge
 
-* Example objects identified from [online catalogue](https://collections.maa.cam.ac.uk/) entries.
+* Example objects identified from [online catalogue](https://collections.maa.cam.ac.uk) entries.
 
 ## Museum of London
 
@@ -73,26 +73,26 @@ description: >-
 
 ## Petrie Museum - UCL
 
-* Example objects identified from photographs available in the [UCL Petrie Collection Online Catalogue](https://petriecat.museums.ucl.ac.uk/), including some manuscripts originally accessioned into the Wellcome library
+* Example objects identified from photographs available in the [UCL Petrie Collection Online Catalogue](https://petriecat.museums.ucl.ac.uk), including some manuscripts originally accessioned into the Wellcome library
 
 ## Pitt Rivers Museum - University of Oxford
 
 * Example objects, mostly collected by Winifred Blackman, identified from the Pitt Rivers Museum [Database of Object Collections](https://prm.web.ox.ac.uk/terms-use-pitt-rivers-museum-database-object-collections)
 
-## Sir Henry Wellcome's Museum Collection \(Science Museum loan\)
+## Sir Henry Wellcome's Museum Collection (Science Museum loan)
 
-* Science Museum object numbers between A45 and A500529 inclusive for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(c.21,500 entries\)
-* Science Museum object numbers between A600001 and A700043 inclusive for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk/) \(c.67,000 entries\)
-* Science Museum part-numbered objects \(/1 and Pt1 etc.\) for which an online record exists on [https://collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk/)  \(c.5550 entries\)
-* 'B' loans to the Science Museum for which an online record exists on [https://collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk) \(c.900 entries\)
+* Science Museum object numbers between A45 and A500529 inclusive for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk) (c.21,500 entries)
+* Science Museum object numbers between A600001 and A700043 inclusive for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk) (c.67,000 entries)
+* Science Museum part-numbered objects (/1 and Pt1 etc.) for which an online record exists on [https://collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk)  (c.5550 entries)
+* 'B' loans to the Science Museum for which an online record exists on [https://collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk) (c.900 entries)
 
-## Stroud District \(Cowle\) Museum 
+## Stroud District (Cowle) Museum&#x20;
 
-* 21 objects \(mostly casts of prehistoric material\) [gifted to Stroud Museum in 1982-1983](https://wellcomecollection.org/works/ap29grmp/items?canvas=57).
+* 21 objects (mostly casts of prehistoric material) [gifted to Stroud Museum in 1982-1983](https://wellcomecollection.org/works/ap29grmp/items?canvas=57).
 
 ## The Fitzwilliam Museum - University of Cambridge
 
-* Example objects identified from the Fitzwilliam beta release [collection online](https://collection.beta.fitz.ms/)
+* Example objects identified from the Fitzwilliam beta release [collection online](https://collection.beta.fitz.ms)
 
 ## Tropenmuseum, Amsterdam
 
@@ -104,11 +104,10 @@ description: >-
 
 ## Victoria and Albert Museum
 
-* Example object identified from the V&A's [Explore the Collections](https://www.vam.ac.uk/collections)
+* Example object identified from the V\&A's [Explore the Collections](https://www.vam.ac.uk/collections)
 
 ## Wellcome Collection
 
 * Early printed books for which accession numbers are recorded in Wellcome's internal collections management system. Catalogue records and digitised images are available from the [Wellcome catalogue online](https://wellcomecollection.org/collections), but do not include accession numbers
 * Selected manuscripts
 * Selected paintings and photographs
-

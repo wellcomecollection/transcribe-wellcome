@@ -12,13 +12,12 @@ There are several channels within the group:
 * **Visual Material Registers:** A channel where members can ask for and read advice in transcribing the Visual Material Registers. Members should also use this space to highlight any interesting finds from the Registers and inform the admin team when they have submitted [completed Visual Material spreadsheets](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/grp-wellcome-transcribers#completed-spreadsheets).
 * **Transcribers:** A chat channel for members to introduce themselves and ask for Library or Museum spreadsheets.
 * **FAQ:** A channel answering frequently asked questions on all aspects of the transcription work.
-* **Transcribe Wellcome \[TW\]:** A channel for updates, questions and requests regarding the Transcribe Wellcome database.
+* **Transcribe Wellcome \[TW]:** A channel for updates, questions and requests regarding the Transcribe Wellcome database.
 
 ## Completed Spreadsheets
 
-Once you have fully completed all the records in your spreadsheet, please upload your file to **Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In there you will see a **‘Completed Spreadsheets’** folder, please upload your file there:
+Once you have fully completed all the records in your spreadsheet, please upload your file to** Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In there you will see a **‘Completed Spreadsheets’** folder, please upload your file there:
 
-![](../.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 When you have uploaded your sheet, please leave a message in your respective channel so that the team are kept up to date.
-
