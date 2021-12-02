@@ -108,7 +108,7 @@ If you come across an A number that has been crossed out on your flimsy slip and
 
 If **no** A number is re-written, leave column A _blank_ and leave a transcribers note.
 
-If you come across a slip with an A number that has a single strike through and it is a **sold **item (like [this](https://wellcomecollection.org/works/p8v9fmrc/items?canvas=358) one), then keep the A number in the column and leave a note in transcribers notes.
+If you come across a slip with an A number that has a single strike through and it is a **sold** item (like [this](https://wellcomecollection.org/works/p8v9fmrc/items?canvas=358) one), then keep the A number in the column and leave a note in transcribers notes.
 
 #### ¡ Column B is hidden, please ignore it and keep it hidden !
 
@@ -164,7 +164,7 @@ Enter any text that appears in the ‘Group’ section of the slip. In almost al
 
 ### Section \[T]
 
-* These codes are for the _TYPE _of object
+* These codes are for the _TYPE_ of object
 * Transcribe the type of the object in column I.
 * These take the form of an abbreviation: VES (Vessel), COS (Costume), AW (Arrows), AM (Amulet) etc.&#x20;
 * In some cases, there will be more than one type, which should be separated by a semi-colon in your transcription.&#x20;
@@ -198,7 +198,7 @@ Enter any text that appears in the ‘Group’ section of the slip. In almost al
   * **Alt + 0188 = ¼**&#x20;
   * **Alt + 0189 = ½**&#x20;
   * **Alt + 0190 = ¾**
-* All other fractions** need to be written out** as e.g. 5/8
+* All other fractions **need to be written out** as e.g. 5/8
   * Remember to put a space _before_ you write out the fraction e.g 3 5/8"&#x20;
 * Sometimes the description continues on the back of the slip, please put this in description.
 * Some slips include the lot numbers or value - transcribe these in **Columns L** and **M**.&#x20;
@@ -232,7 +232,7 @@ Transcribe any text or letters under the ‘To be placed’ heading, exactly as 
 
 ### Additional notes on flimsy&#x20;
 
-* Use this column to enter, **exactly** as written, anything **on the slip **that does _not_ fit into other columns.
+* Use this column to enter, **exactly** as written, anything **on the slip** that does _not_ fit into other columns.
 * Do not put your own notes in this column. If you need to add notes e.g there is a drawing, put it in transcribers notes.
 
 ## Blue Column Headings
@@ -247,7 +247,7 @@ Transcribe acquisition dates according to the following instructions:
 
 * Enter an exact acquisition date where this is written on the flimsy slip (usually already transcribed in **Bought of (column L)**) in the format DD-Month-Full Year. e.g. 22 January 1929.
 * Where the date written on the flimsy slip is given **only as a month**, **year**, or **span of days**, enter the latest date at which the object(s) can have been acquired. Examples are as follows:
-  * Month and year:** August 1952** should be entered as **31 August 1952**
+  * Month and year: **August 1952** should be entered as **31 August 1952**
   * Year only: **1924** should be entered as **31 December 1924**
   * Span of days: **17-20 January 1930** should be entered as **20 January 1930**.
 * For dates in February, you may find [this list of leap years 1800 - 2400](https://kalender-365.de/leap-years.php) useful.

@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Terminology and language](language.md)
 
-## RESEARCHING THE MUSEUM & LIBRARY <a href="research" id="research"></a>
+## RESEARCHING THE MUSEUM & LIBRARY <a href="#research" id="research"></a>
 
 * [Documentation Systems](research/documentation-systems/README.md)
   * [Museum Accession Numbers](research/documentation-systems/museum-accession-numbers.md)
@@ -32,7 +32,6 @@
     * [Brookes, Mr](research/people/alphabetical/brookes-mr.md)
     * [Burgess, Renate](research/people/alphabetical/burgess-renate.md)
     * [Burstein, Rosa](research/people/alphabetical/burstein-rosa.md)
-    * [Canaan, Tawfiq](research/people/alphabetical/canaan-tawfiq.md)
     * [Carline, G.R.](research/people/alphabetical/carline-gr.md)
     * [Chadburn, Mr](research/people/alphabetical/chadburn-mr.md)
     * [Chatterjee, B.](research/people/alphabetical/chatterjee-b.md)
@@ -106,6 +105,7 @@
   * [Private Collectors](research/people/private-collectors/README.md)
     * [Amherst, William Tyssen-Amherst](research/people/private-collectors/amherst-william-tyssen-amherst.md)
     * [Gorga, Evangelista](research/people/private-collectors/gorga-evangelista.md)
+    * [Canaan, Tawfiq](research/people/private-collectors/canaan-tawfiq.md)
 * [Places](research/places/README.md)
   * [Aldersgate Street](research/places/aldersgate-street.md)
   * [Beckenham](research/places/beckenham.md)
@@ -150,7 +150,7 @@
 * [Transcribers](contributing-to-transcribe-wellcome/new-transcribers.md)
 * [Recipient Museums & Libraries](contributing-to-transcribe-wellcome/recipient-museums-and-libraries.md)
 
-## About the Transcribe Wellcome dataset <a href="dataset" id="dataset"></a>
+## About the Transcribe Wellcome dataset <a href="#dataset" id="dataset"></a>
 
 * [Dispersals](dataset/dispersals.md)
 

@@ -60,7 +60,7 @@ If the Register uses ‘ditto’ (sometimes shortened to 'do') or ‘//’ in th
 * **Registration date –** When the item/object/record was entered into the Register
 * **Accession date –** When the item/object/record was accessioned _into_ the collection
 
-## ‌**Green **Column Headings
+## ‌**Green** Column Headings
 
 _Please Note: columns in the spreadsheet may be hidden if they are not applicable to a specific Register or do not require transcribing._
 
@@ -154,7 +154,7 @@ If there is _both_ a stamp and additional notes, please put all the additional n
 
 ## ‌**Blue Column Headings**
 
-‌_In addition to transcribing text exactly as written on the Register under the green column headings, transcribers should also extract, where relevant, acquisition date, auction house and/or lot numbers into a standardised format. _
+‌_In addition to transcribing text exactly as written on the Register under the green column headings, transcribers should also extract, where relevant, acquisition date, auction house and/or lot numbers into a standardised format._&#x20;
 
 _Not all records will include a date, auction house or lot number so please leave these columns blank where this information is not provided._
 

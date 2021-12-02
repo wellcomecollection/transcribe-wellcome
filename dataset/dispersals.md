@@ -18,7 +18,7 @@ description: >-
 ## Birmingham Museum & Art Gallery
 
 * Shabtis with Wellcome identifiers published in Watson, P. (2012) [_Catalogue of Inscribed Shabtis in Birmingham Museum and Art Gallery_](https://www.birminghammuseums.org.uk/system/resources/W1siZiIsIjIwMTQvMTEvMjAvNmp0Nnk5dm1zOV9zaGFidGlfbWFzdGVyX3YxXzMucGRmIl1d/shabti%20master%20v1\_3.pdf)_._ Birmingham Museums Trust.
-* Cuneiform tablets published in Watson, P.J. (1986) _Catalogue of Cuneiform Tablets in Birmingham City Museum, _volume 1. Warminster: Aris & Phillips.
+* Cuneiform tablets published in Watson, P.J. (1986) _Catalogue of Cuneiform Tablets in Birmingham City Museum,_ volume 1. Warminster: Aris & Phillips.
 
 ## Bolton Museum
 

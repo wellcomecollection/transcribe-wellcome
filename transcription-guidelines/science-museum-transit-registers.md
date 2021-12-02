@@ -16,7 +16,7 @@ As working documents, the transit registers are heavily customised and annotated
 
 Each row of the transit register should be transcribed onto one row of the spreadsheet.
 
-Wellcome object identifiers are inconsistently recorded in the transit registers. When transcribing these identifiers, please transcribe _without _prefix i.e. `R1234` should be transcribed into the **Old R number** column as just `1234`.&#x20;
+Wellcome object identifiers are inconsistently recorded in the transit registers. When transcribing these identifiers, please transcribe _without_ prefix i.e. `R1234` should be transcribed into the **Old R number** column as just `1234`.&#x20;
 
 `NN` (meaning 'no number') should be transcribed into **transcriber's notes**.&#x20;
 
@@ -24,7 +24,7 @@ If the register uses `ditto` or `" "` (or similar), transcribe the relevant info
 
 ## Green Column Headings
 
-### **A number **
+### **A number**&#x20;
 
 Transcribe the accession ('A number') for each object from the left hand column of the transit register (headed 'No.' in the register) onto a new row in the spreadsheet:
 
@@ -73,7 +73,7 @@ Here are some further examples of new registration numbers as you may encounter 
 | 14057/1936                  | 14057/1936     |
 | R'67-492                    | 492/1967       |
 
-For the purposes of transit register transcription, all new registration numbers should be transcribed _without _prefix but with the year written in full i.e. `1234/1938`. Please transcribe any number suffixes (e.g. `A-F`) separately into **transcriber's notes**.&#x20;
+For the purposes of transit register transcription, all new registration numbers should be transcribed _without_ prefix but with the year written in full i.e. `1234/1938`. Please transcribe any number suffixes (e.g. `A-F`) separately into **transcriber's notes**.&#x20;
 
 Be aware that individual objects may have an old registration number, a new registration number or both. Be careful to enter these into the correct column of the spreadsheet.&#x20;
 

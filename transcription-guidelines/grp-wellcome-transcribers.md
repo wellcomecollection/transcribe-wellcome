@@ -16,7 +16,7 @@ There are several channels within the group:
 
 ## Completed Spreadsheets
 
-Once you have fully completed all the records in your spreadsheet, please upload your file to** Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In there you will see a **‘Completed Spreadsheets’** folder, please upload your file there:
+Once you have fully completed all the records in your spreadsheet, please upload your file to **Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In there you will see a **‘Completed Spreadsheets’** folder, please upload your file there:
 
 ![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 

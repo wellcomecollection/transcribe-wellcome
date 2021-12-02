@@ -24,7 +24,7 @@ Apart from the **Date of Accession** column leave any blank spaces blank. Blank 
 
 ### Duplicate Accession Numbers
 
-Any duplicate library accession numbers should be added to the bottom of your spreadsheet with comments in the **Transcriber’s Notes **column. As duplicate accession numbers require extra checks before importing, please highlight these rows with a colour so that they can be identified easily.
+Any duplicate library accession numbers should be added to the bottom of your spreadsheet with comments in the **Transcriber’s Notes** column. As duplicate accession numbers require extra checks before importing, please highlight these rows with a colour so that they can be identified easily.
 
 ### Tagging Scored Text or Italics
 
@@ -56,7 +56,7 @@ You are not expected/required to expand abbreviated words e.g. Imp\[erial]. Simp
 
 _Please Note: columns in the spreadsheet may be hidden if they are not applicable to a specific Register or do not require transcribing._
 
-### _Date of Accession _
+### _Date of Accession_&#x20;
 
 _\[Date of Receipt in Registers 12;13]_
 
@@ -64,7 +64,7 @@ The date of the accession is listed in the first column of the Library Accession
 
 To aid filtering and analysis, if several consecutive dates are given, enter the **latest** day that these items were accessioned e.g. 6-9 January 1931 should be entered as 9 January 1931 with a **Transcriber’s Note** saying, ‘Accession date normalised to last day of entry’. If the date of accession is recorded as only a month or a year, provide the last possible date the accession may have occurred e.g. September 1928 should be entered as 30 September 1928 with a similar **Transcriber’s Note** - 'Accession date normalised to final date of month'. For dates in February, you may find [this list of leap years 1800 - 2400](https://kalender-365.de/leap-years.php) useful.
 
-### _AccNo _
+### _AccNo_&#x20;
 
 The accession numbers have already been provided in a sequential order. Use these numbers to keep track of where you are on the page. IMPORTANT: Make sure you double-check the accession numbers as you go along as there may be a break or mistake in the sequential numbering in the Register. If you come across an accession number which is out of sequence, please add this to the bottom of your spreadsheet and add a note to the **Transcriber’s Notes**.
 
@@ -72,19 +72,19 @@ The accession numbers have already been provided in a sequential order. Use thes
 
 For each accession number, enter the image number given in the Wellcome Collection website Viewer. If you are transcribing from a PDF, the image number is the page number minus 1. REMEMBER - the information for each row in the Accession Register is split across two pages.
 
-### _Location Number _
+### _Location Number_&#x20;
 
-_\[excluding Registers 3;12;13] _
+_\[excluding Registers 3;12;13]_&#x20;
 
 Enter the location letter/number, if applicable, in this column. Most frequent abbreviations are M.C. (Museum Case) and P.C. (Packing Case).
 
-### _Author _
+### _Author_&#x20;
 
-_\[excluding Register 3] _
+_\[excluding Register 3]_&#x20;
 
 Transcribe the information in the ‘author’ column on the Register page. The author name should be standardised to read: Surname, Forenames (Title, if applicable) e.g. Braithwaite, William K. (Capt.). Do not transcribe brackets around the forenames e.g. Franklin (Rosalind) should be standardised to Franklin, Rosalind.
 
-### _Title/Description _
+### _Title/Description_&#x20;
 
 Transcribe the information exactly as it is written on the page. Spelling, particularly for the titles of early modern books, can be very different to that of modern-day words e.g. you may see the word ‘chirurgerie’ instead of ‘surgery’. Transcribe titles exactly as they appear on the Register rather than correcting them to modern standards.
 
@@ -92,11 +92,11 @@ Transcribe the information exactly as it is written on the page. Spelling, parti
 
 This column will contain a numerical value to show the number of volumes associated with the accession number/title of a printed item e.g. one entry ‘Voyages in the Southern Hemisphere’ is composed of 4 volumes. The column will contain the letter ‘P’ if the item is a pamphlet.
 
-### _No. of vols (Manuscripts) _
+### _No. of vols (Manuscripts)_&#x20;
 
 Similar to above, this column will contain a numerical value to show the number of volumes associated with the accession number/title of a manuscript.
 
-### _Size _
+### _Size_&#x20;
 
 _\[excluding Registers 3;12;13]_
 
@@ -114,19 +114,19 @@ All other fractions need to be written out as e.g. 5/8, remembering to put a spa
 
 If you encounter difficulties in finding the correct symbol, record this in the **Transcriber’s Notes.** Please note: The format refers to the size of the book not the number of volumes e.g. 8vo = octavo format. Guidance on technical/archaic format terms [here](https://www.harringtonbooks.co.uk/booksizes.php).
 
-### _Place of Publication (Imprint) _
+### _Place of Publication (Imprint)_&#x20;
 
-_\[excluding Registers 3;12;13] _
+_\[excluding Registers 3;12;13]_&#x20;
 
 Transcribe exactly as on the page. Many place names will be written in Latin e.g. Londini = London, so if you are having any difficulty deciphering the place name you can check for possible places on the [Latin Place Names File](https://rbms.info/lpn/). Do not standardise into English.
 
-### _Date of Publication (Imprint) _
+### _Date of Publication (Imprint)_&#x20;
 
 _\[excluding Register 3]_
 
 This is the date, usually just a year, in which the book was printed/published. If the date is in Roman numerals transcribe it into Arabic numerals e.g. MDCCLXI = 1761. [Online converter](https://www.periodni.com/roman\_numerals\_converter.html).
 
-### _Printer _
+### _Printer_&#x20;
 
 _\[excluding Registers 3;12;13]_
 
@@ -142,9 +142,9 @@ If the price refers to a group of books put in the price and put in brackets for
 
 For volumes, it is clear in each individual accession number/row how many volumes there were and what was paid for all of them so you do not need to record that information in brackets or in the notes.
 
-### _Valuation _
+### _Valuation_&#x20;
 
-_\[excluding Registers 3;12;13] _
+_\[excluding Registers 3;12;13]_&#x20;
 
 Transcribe as in the Price column above.
 
@@ -186,29 +186,29 @@ Below are some common auction houses and known abbreviations:
 
 The auction house list is by no means exhaustive and is presented merely to help with identifying letters/names. As in other columns, transcribe the abbreviations as they appear and note possible expansions in the **Transcriber’s Notes**. Do not attempt to make the transcription ‘fit’ the abbreviation.
 
-### _Lot Number _
+### _Lot Number_&#x20;
 
 _\[Register 3 only]_
 
 Enter the lot number, if applicable, in this column.
 
-### _Condition _
+### _Condition_&#x20;
 
 _\[Registers 12;13 only]_
 
 Enter any physical condition notes, if applicable, in this column.
 
-### _Remarks _
+### _Remarks_&#x20;
 
 _\[excluding Register 3]_
 
 Transcribe any remarks exactly as they appear on the page.
 
-### _Transcribed by _
+### _Transcribed by_&#x20;
 
 Your email address e.g. j.bloggs@wellcome.org.
 
-### _Transcriber’s Notes _
+### _Transcriber’s Notes_&#x20;
 
 A place for the transcriber to add any additional notes about the record e.g. if the record was written in multiple hands or if the record has corrections/later additions/prefixes. Further examples are given within the guidance for individual column headings and in the general transcription instructions. Also use this column to note any problems you have had with the transcription. Prefix this note with ‘Unsure’ followed by an explanation e.g. ‘Unsure: cannot read first name of author’.&#x20;
 
@@ -220,7 +220,7 @@ This column assigns the CC0 terms to each row of transcribed data and does not r
 
 ## Upon completion
 
-Please upload your file to** Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.
+Please upload your file to **Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.
 
 ![](<../.gitbook/assets/7 (1) (1).jpeg>)
 
