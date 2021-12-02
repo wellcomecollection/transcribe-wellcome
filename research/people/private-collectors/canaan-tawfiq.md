@@ -11,6 +11,7 @@ See [https://en.wikipedia.org/wiki/Tawfiq\_Canaan](https://en.wikipedia.org/wiki
 ### WA/HMM archives
 
 * [WA/HMM/CM/Col/20](https://wellcomecollection.org/works/prcankb7) - Collections dossier. Includes summary of collection history and amulet registration numbers. Biographical note on Dr Canaan.
+* [WA/HMM/CO/Ear/457](https://wellcomecollection.org/works/xdqt6yfd/items?canvas=8) - letter to Dr Kanaan dated 16 April 1913, requesting loan of charms and amulets for the Historical Medical Museum. Annotated 'No record in Loans Register'.
 * [WA/HMM/CO/Sai/D.7](https://wellcomecollection.org/works/pektkcmk) – letter to Dr Canaan from Peter Johnston-Saint 1944 (starting [page image 119](https://wellcomecollection.org/works/pektkcmk/items?canvas=119))
 * [WA/HMM/TR/Abc/C.4/1](https://wellcomecollection.org/works/p7hqcrc2) - Transfer documentation. Includes 1984 gift agreement with University of Oxford, Pitt Rivers Museum (starting on [page image 343)](https://wellcomecollection.org/works/p7hqcrc2/items?canvas=343). Gift to Pitt Rivers includes 290 amulets from the Canaan collection ([page image 349](https://wellcomecollection.org/works/p7hqcrc2/items?canvas=349))
 
