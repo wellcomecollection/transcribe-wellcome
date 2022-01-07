@@ -32,7 +32,7 @@ For any text which has been scored through, do the same in the transcription. If
 
 ### Indistinct handwriting
 
-If you cannot decipher the handwriting use \[.] to indicate an indecipherable letter e.g. mon\[.]stro\[..]ty. The number of dots = number of missing letters. Use \[?] if you have guessed at a letter or word e.g. Mhairi\[?]. If you use dots for text or words you are unsure of, please add a \[?] and make a note in the **Transcriber's Notes** e.g. Unsure: word/letter in title.&#x20;
+If you cannot decipher the handwriting use \[.] to indicate an indecipherable letter e.g. mon\[.]stro\[..]ty. The number of dots = number of missing letters. Use \[?] if you have guessed at a letter or word e.g. Mhairi\[?]. If you use dots for text or words you are unsure of, please add a \[?] and make a note in the **Transcriber's Notes** e.g. Unsure: word/letter in title.
 
 In some Registers, earlier information is visible in pencil underneath the final pen entry. If this is the case, add a **Transcriber’s Note** and include any of the information written in pencil where legible.
 
@@ -56,7 +56,7 @@ You are not expected/required to expand abbreviated words e.g. Imp\[erial]. Simp
 
 _Please Note: columns in the spreadsheet may be hidden if they are not applicable to a specific Register or do not require transcribing._
 
-### _Date of Accession_&#x20;
+### _Date of Accession_
 
 _\[Date of Receipt in Registers 12;13]_
 
@@ -64,7 +64,7 @@ The date of the accession is listed in the first column of the Library Accession
 
 To aid filtering and analysis, if several consecutive dates are given, enter the **latest** day that these items were accessioned e.g. 6-9 January 1931 should be entered as 9 January 1931 with a **Transcriber’s Note** saying, ‘Accession date normalised to last day of entry’. If the date of accession is recorded as only a month or a year, provide the last possible date the accession may have occurred e.g. September 1928 should be entered as 30 September 1928 with a similar **Transcriber’s Note** - 'Accession date normalised to final date of month'. For dates in February, you may find [this list of leap years 1800 - 2400](https://kalender-365.de/leap-years.php) useful.
 
-### _AccNo_&#x20;
+### _AccNo_
 
 The accession numbers have already been provided in a sequential order. Use these numbers to keep track of where you are on the page. IMPORTANT: Make sure you double-check the accession numbers as you go along as there may be a break or mistake in the sequential numbering in the Register. If you come across an accession number which is out of sequence, please add this to the bottom of your spreadsheet and add a note to the **Transcriber’s Notes**.
 
@@ -72,19 +72,19 @@ The accession numbers have already been provided in a sequential order. Use thes
 
 For each accession number, enter the image number given in the Wellcome Collection website Viewer. If you are transcribing from a PDF, the image number is the page number minus 1. REMEMBER - the information for each row in the Accession Register is split across two pages.
 
-### _Location Number_&#x20;
+### _Location Number_
 
-_\[excluding Registers 3;12;13]_&#x20;
+_\[excluding Registers 3;12;13]_
 
 Enter the location letter/number, if applicable, in this column. Most frequent abbreviations are M.C. (Museum Case) and P.C. (Packing Case).
 
-### _Author_&#x20;
+### _Author_
 
-_\[excluding Register 3]_&#x20;
+_\[excluding Register 3]_
 
 Transcribe the information in the ‘author’ column on the Register page. The author name should be standardised to read: Surname, Forenames (Title, if applicable) e.g. Braithwaite, William K. (Capt.). Do not transcribe brackets around the forenames e.g. Franklin (Rosalind) should be standardised to Franklin, Rosalind.
 
-### _Title/Description_&#x20;
+### _Title/Description_
 
 Transcribe the information exactly as it is written on the page. Spelling, particularly for the titles of early modern books, can be very different to that of modern-day words e.g. you may see the word ‘chirurgerie’ instead of ‘surgery’. Transcribe titles exactly as they appear on the Register rather than correcting them to modern standards.
 
@@ -92,17 +92,17 @@ Transcribe the information exactly as it is written on the page. Spelling, parti
 
 This column will contain a numerical value to show the number of volumes associated with the accession number/title of a printed item e.g. one entry ‘Voyages in the Southern Hemisphere’ is composed of 4 volumes. The column will contain the letter ‘P’ if the item is a pamphlet.
 
-### _No. of vols (Manuscripts)_&#x20;
+### _No. of vols (Manuscripts)_
 
 Similar to above, this column will contain a numerical value to show the number of volumes associated with the accession number/title of a manuscript.
 
-### _Size_&#x20;
+### _Size_
 
 _\[excluding Registers 3;12;13]_
 
 Transcribe the size as it appears on the page. The column may contain a measurement e.g. 20 x 15, a format e.g. post 4to, or a mixture of the two e.g. 8vo 23. Transcribe fractions (e.g. in measurements) using Insert – Symbol and selecting the correct proper fraction.
 
-The following are keyboard shortcuts that can be used instead of the insert method: &#x20;
+The following are keyboard shortcuts that can be used instead of the insert method:
 
 | Fraction | Keyboard Shortcut |
 | -------- | ----------------- |
@@ -114,19 +114,19 @@ All other fractions need to be written out as e.g. 5/8, remembering to put a spa
 
 If you encounter difficulties in finding the correct symbol, record this in the **Transcriber’s Notes.** Please note: The format refers to the size of the book not the number of volumes e.g. 8vo = octavo format. Guidance on technical/archaic format terms [here](https://www.harringtonbooks.co.uk/booksizes.php).
 
-### _Place of Publication (Imprint)_&#x20;
+### _Place of Publication (Imprint)_
 
-_\[excluding Registers 3;12;13]_&#x20;
+_\[excluding Registers 3;12;13]_
 
 Transcribe exactly as on the page. Many place names will be written in Latin e.g. Londini = London, so if you are having any difficulty deciphering the place name you can check for possible places on the [Latin Place Names File](https://rbms.info/lpn/). Do not standardise into English.
 
-### _Date of Publication (Imprint)_&#x20;
+### _Date of Publication (Imprint)_
 
 _\[excluding Register 3]_
 
 This is the date, usually just a year, in which the book was printed/published. If the date is in Roman numerals transcribe it into Arabic numerals e.g. MDCCLXI = 1761. [Online converter](https://www.periodni.com/roman\_numerals\_converter.html).
 
-### _Printer_&#x20;
+### _Printer_
 
 _\[excluding Registers 3;12;13]_
 
@@ -142,9 +142,9 @@ If the price refers to a group of books put in the price and put in brackets for
 
 For volumes, it is clear in each individual accession number/row how many volumes there were and what was paid for all of them so you do not need to record that information in brackets or in the notes.
 
-### _Valuation_&#x20;
+### _Valuation_
 
-_\[excluding Registers 3;12;13]_&#x20;
+_\[excluding Registers 3;12;13]_
 
 Transcribe as in the Price column above.
 
@@ -186,37 +186,69 @@ Below are some common auction houses and known abbreviations:
 
 The auction house list is by no means exhaustive and is presented merely to help with identifying letters/names. As in other columns, transcribe the abbreviations as they appear and note possible expansions in the **Transcriber’s Notes**. Do not attempt to make the transcription ‘fit’ the abbreviation.
 
-### _Lot Number_&#x20;
+### _Lot Number_
 
 _\[Register 3 only]_
 
 Enter the lot number, if applicable, in this column.
 
-### _Condition_&#x20;
+### _Condition_
 
 _\[Registers 12;13 only]_
 
 Enter any physical condition notes, if applicable, in this column.
 
-### _Remarks_&#x20;
+### _Remarks_
 
 _\[excluding Register 3]_
 
 Transcribe any remarks exactly as they appear on the page.
 
-### _Transcribed by_&#x20;
+### _Transcribed by_
 
 Your email address e.g. j.bloggs@wellcome.org.
 
-### _Transcriber’s Notes_&#x20;
+### _Transcriber’s Notes_
 
-A place for the transcriber to add any additional notes about the record e.g. if the record was written in multiple hands or if the record has corrections/later additions/prefixes. Further examples are given within the guidance for individual column headings and in the general transcription instructions. Also use this column to note any problems you have had with the transcription. Prefix this note with ‘Unsure’ followed by an explanation e.g. ‘Unsure: cannot read first name of author’.&#x20;
+A place for the transcriber to add any additional notes about the record e.g. if the record was written in multiple hands or if the record has corrections/later additions/prefixes. Further examples are given within the guidance for individual column headings and in the general transcription instructions. Also use this column to note any problems you have had with the transcription. Prefix this note with ‘Unsure’ followed by an explanation e.g. ‘Unsure: cannot read first name of author’.
 
 **Important note:** If you have made a remark that relates to more than one accession, please make sure you add it into every relevant **Transcriber’s Notes** column. In the future, each row may be displayed individually without the context of the rows above and below it. For the same reason, do not use the phrases ‘see above’ or ‘see below’ in any column.
 
-### _Creative Commons Licence_&#x20;
+### _Creative Commons Licence_
 
 This column assigns the CC0 terms to each row of transcribed data and does not require transcription. More information on the Creative Commons Licence can be found [here](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/getting-started#creative-commons-licence).
+
+## Variations for Library Accession Register 2
+
+The main difference between Library Accession Register 2 and the later registers are in the lack of accession numbers. Although the numbers may have been added subsequently by staff this is fairly rare. There are also differences in the column headings. Register 2 only uses five or six columns - date, title, (author), no of vols, price/cost, source \[sometimes bought off or by] – over a single page. When completing transcription, follow the standard rules for transcribing Library Accession Registers but bear in mind the following variations.
+
+**Date of Accession/Date** – normal rules apply
+
+**Accession number** – there is no dedicated accession number column so leave this column blank. If an accession number has been added later (usually in the title column), please transcribe into the accession number column e.g. M.S. of veterinary receipts 18745 – keep M.S. of veterinary receipts in title column but add 18745 to the accession number heading
+
+**Page image no./RH page image no.** – transcribe in the normal way but, as the records are only over a single page, leave the RH page image no. column blank
+
+**Location number** – leave blank
+
+**Author** – a separate author heading is only found in the latter part of the Register. Transcribe in the usual way. If an author has been added to the title column, transcribe it into the author column instead e.g. Origin of steam navigation (Woodcroft) keep Origin of steam navigation in the title column but add Woodcroft to author heading
+
+**Title/Description** – transcribe as normal. The only time this varies is if an author name has been added, transcribe this in the author column e.g. Origin of steam navigation (Woodcroft) keep Origin of steam navigation in the title column but add Woodcroft to author heading
+
+**No. of vols. (V or P)/No. of vols (manuscript)** – as there is only a single column in Register 2, use the No. of vols (V or P) column. Only if it clearly states that the item is a manuscript do you transcribe in the No. of vols (manuscript) column
+
+**Size/Place of Publication/Date of Publication (imprint)/Printer** – no corresponding headings so leave blank
+
+**Price/Cost** – transcribe in the normal way but add postage or carriage (usually in the title column) e.g. 2s 3d (+ postage). Because of the lack of accession numbers, if the cost is for multiple items, add the range of titles included in the Transcribers Notes in place of the accession number range e.g. Price for 4 items \[Poemata; Sentenze e proverbi Italiani; L'apotheose du dictionnaire de l'academie; Examen de ingenios para las sciencias]
+
+**Valuation** – leave blank apart from in the rare instances when the entry notes the books worth e.g. 18s 0d Worth by Symons
+
+**Donor or Vendor (source)/Bought off/Bought by** – transcribe in usual way. If there are multiple names, separate with a semi-colon e.g. C. J. S. T.; Sotheby's
+
+**Lot Number/Condition** – leave blank
+
+**Remarks** – although not a heading in the Register, use this column to transcribe any additional information on the page regarding the item and where the information came from in square brackets e.g. \[in price column] See Oct 28th another entry. You do not need to transcribe the ‘balance carried forward’ information.
+
+**Transcribed by/Transcribers Notes** – use as normal
 
 ## Upon completion
 
@@ -227,8 +259,6 @@ Please upload your file to **Grp\_Wellcome Transcribers** on Microsoft Teams. At
 Once you’ve done this please leave a message in your respective channel that you’ve uploaded your sheet.
 
 Happy Transcribing!
-
-
 
 #### Version History
 
