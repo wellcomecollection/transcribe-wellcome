@@ -142,6 +142,7 @@
 * [Library Registers](transcription-guidelines/library-registers.md)
 * [Museum Flimsy Slips](transcription-guidelines/museum-flimsy-slips.md)
 * [PHO Accession Registers](transcription-guidelines/visual-material-registers.md)
+* [CC Accessions - Cabinet Cards](transcription-guidelines/cc-accessions-cabinet-cards.md)
 * [Science Museum Transit Registers](transcription-guidelines/science-museum-transit-registers.md)
 * [Museum Accession Registers](transcription-guidelines/museum-accession-registers.md)
 
