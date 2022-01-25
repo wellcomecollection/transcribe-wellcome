@@ -2,23 +2,31 @@
 
 S. Rosa Burstein
 
-active: 1929 , \[left WHMM for war work\] returned by 1945, undertook research trip to USA 1951, 1953
+### Work at WHMM
 
-biographical note: M.A., Diploma in Anthropology, Oxford. Also educated in Aberystwyth.
+Employed at the museum in 1928 after studying folklore and anthropology in Wales and Oxford. She oversaw the Ethnography section and the other women working on these collections (Margaret Rowbottom and Joan Lillico).
 
-!! Sources:
+Left WHMM for war work, and returned by 1945. Undertook research trips to USA 1951, 1953.
 
-staff reports 1929-30 \(WAHMM/RP/Sta/1\)
+### Biographical note
 
-staff list 1945 WAHMM/CO/Wel/C/4 [https://wellcomecollection.org/works/gkqyqdrb/items?canvas=11&langCode=false&sierraId=b18457745](https://wellcomecollection.org/works/gkqyqdrb/items?canvas=11&langCode=false&sierraId=b18457745)
+M.A., Diploma in Anthropology, Oxford. Also educated in Aberystwyth, Wales.
 
-memoranda 1945, 1951, WAHMM/CO/Sub/206
+### WA/HMM archives
 
-memoranda 1953 in WAHMM/CO/Sub/212
+* WAHMM/RP/Sta/1  - staff reports 1929-30
+* WAHMM/CO/Wel/C/4  - staff list 1945  (education qualifications, see [page image 10](https://wellcomecollection.org/works/gkqyqdrb/items?canvas=11))
+* WAHMM/CO/Sub/206  - memoranda 1945, 1951
+* WAHMM/CO/Sub/212 - memoranda 1953&#x20;
 
-\[Symons 1987\), 9.
+### Handwriting sample
 
-!! Handwriting sample [https://wellcomecollection.org/works/aadq2es3/items?canvas=29&langCode=false&sierraId=b19106051](https://wellcomecollection.org/works/aadq2es3/items?canvas=29&langCode=false&sierraId=b19106051)
+* WA/HMM/RP/Sta/1  - monthly work report, January 1930 ([page image 29](https://wellcomecollection.org/works/aadq2es3/items?canvas=29))
 
-\[\[museum staff\]\] Africa ethnography \[\[scientific staff\]\]
+### Sources
 
+Oral history in Symons 1987, p.9.
+
+
+
+Tags: museum staff; anthropollogy; 'Ethnographic section'; scientific staff
