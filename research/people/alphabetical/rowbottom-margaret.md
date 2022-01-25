@@ -1,32 +1,29 @@
 # Rowbottom, Margaret
 
-Margaret E. Rowbottom \(DATES\)
+Margaret Esther Rowbottom. Historian of science. Life dates: 1908-1999
 
-scientific assistant active: joined WHMM in 1933, recorded active until 1959
+Image: [https://wellcomecollection.org/works/pdnsn3qb](https://wellcomecollection.org/works/pdnsn3qb)
 
-\[img\[L0015158-tiny.jpg\)
+### Work at WHMM
 
-image: L0015158
+Rowbottom joined WHMM as an assistant in the museum’s ethnographic section in 1933 after a bachelor’s degree in Physics and studies in anthropology. **** When first employed, she worked under the direction of [Rosa Burstein](https://github.com/wellcomecollection/transcribe-wellcome/tree/f72c2b61ac1ad669053741de27081d2c70951534/researching-the-museum-and-library/people/alphabetical/Burstein,%20Rosa/README.md), “as a general assistant to help in sorting museum material”.
 
-!! work at WHMM Ethnographic Section \(Gallery of Primitive Medicine\) with [Rosa Burstein](https://github.com/wellcomecollection/transcribe-wellcome/tree/f72c2b61ac1ad669053741de27081d2c70951534/researching-the-museum-and-library/people/alphabetical/Burstein,%20Rosa/README.md) and [Joan Lillico](https://github.com/wellcomecollection/transcribe-wellcome/tree/f72c2b61ac1ad669053741de27081d2c70951534/researching-the-museum-and-library/people/alphabetical/Lillico,%20Joan/README.md). When first employed, worked under the directon of Rosa Burstein, “as a general assistant to help in sorting museum material, largely ethnographical”.
+Rowbottom stayed at Wellcome’s museum for her whole career, organising exhibitions, recataloguing objects, and specialising in European history of science.
 
-!! Biographical note Arrived at WHMM after B.Sc. Special and General, including Anthropology. Completed MSc. in history of science in London in 1943 while in the WAAF. PhD \(Date? recorded by 1949\)
+### Biography
 
-!! sources oral history, Symons 1987, pp35-38. WAHMM/CO/Wel/C/4 image 11, staff list 1945
+[Obituary by John Symons (2000)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1044291/)
 
-!! WAHMM archive materials: memoranda 1937-1959, WAHMM/CO/Sub/211
+Notes in the description of her archived personal papers PP/MER  [https://wellcomecollection.org/works/dncq9cpk](https://wellcomecollection.org/works/dncq9cpk)
 
-!! Oral history discussing cataloguing and sorting objects in 1933
+### WA/HMM archives
 
-&lt;&lt;&lt; The ethnographical category was by far the largest, and it was this material that [Miss Burstein ](https://github.com/wellcomecollection/transcribe-wellcome/tree/f72c2b61ac1ad669053741de27081d2c70951534/researching-the-museum-and-library/people/alphabetical/Burstein,%20Rosa/README.md)and I sorted into appropriate sub-categories for re-packing – the whole of the first floor South Gallery was devoted to this purpose. Later when we had caught up with the arrears of sorting, we were also put onto accessioning. From interest and in order that I might work on more or less equal terms with the other members of the ethnographical staff, I added anthropology to my General Degree. &lt;&lt;&lt;
+* WA/HMM/CO/Sub/211  - memoranda 1937-1959&#x20;
 
-source: Symons 1987, 36
+### Sources
 
-discussing ethnographic collections \[//contains derogatory historic language describing African cultures//\]
+Oral history in Symons 1987, p. 36 discussing cataloguing and sorting objects in 1933:
 
-&lt;&lt;&lt; \[In 1934\] I remember being present at a meeting of the ethnographical staff with Sir Henry and Captain Saint at which plans were made to go through Sir Henry’s very large collection of weapons, including Oriental and European as well as primitive. By degrees literally thousands of weapons were accessioned and arranged in racks according to types and country of origin. I can remember seeing Sir Henry happily prowling around the racks, often with [Mr Keighley](https://github.com/wellcomecollection/transcribe-wellcome/tree/f72c2b61ac1ad669053741de27081d2c70951534/researching-the-museum-and-library/people/alphabetical/Keighley,%20Mr/README.md), the Registrar. &lt;&lt;&lt;
+> The ethnographical category was by far the largest, and it was this material that [Miss Burstein ](https://github.com/wellcomecollection/transcribe-wellcome/tree/f72c2b61ac1ad669053741de27081d2c70951534/researching-the-museum-and-library/people/alphabetical/Burstein,%20Rosa/README.md)and I sorted into appropriate sub-categories for re-packing – the whole of the first floor South Gallery was devoted to this purpose. Later when we had caught up with the arrears of sorting, we were also put onto accessioning. From interest and in order that I might work on more or less equal terms with the other members of the ethnographical staff, I added anthropology to my General Degree.
 
-source: Symons 1987, p.36
-
-\[\[museum staff\]\] ethnography Africa \[\[scientific staff\]\]
-
+Tags: museum staff; anthropology; 'Ethnographic section; scientific staff
