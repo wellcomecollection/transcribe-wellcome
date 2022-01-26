@@ -6,4 +6,6 @@ Joined staff on 1 January 1966. Organised and reported on materia medica specime
 
 Produced a 2 vol catalogue of medical ceramics collection in 1969: //Medical ceramics : a catalogue of the English and Dutch collections in the Museum of the Wellcome Institute of the History of Medicine// [https://catalogue.wellcomelibrary.org/record=b2008612\~S12](https://catalogue.wellcomelibrary.org/record=b2008612\~S12)
 
+CV contained in [WT/D/2/1/37](https://wellcomecollection.org/works/mk8mwcc9)
+
 WIHM \[\[museum staff]]
