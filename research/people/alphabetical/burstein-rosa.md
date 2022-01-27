@@ -1,10 +1,12 @@
 # Burstein, Rosa
 
-S. Rosa Burstein
+Sona Rosa Burstein. Folklorist, anthropologist and gerontologist. Life dates: 1897–1971
+
+Image: see Freeman 1976.
 
 ### Work at WHMM
 
-Employed at the museum in 1928 after studying folklore and anthropology in Wales and Oxford. She oversaw the Ethnography section and the other women working on these collections (Margaret Rowbottom and Joan Lillico).
+Employed at WHMM in 1928 after studying folklore and anthropology in Wales and Oxford. She oversaw the Ethnography section and the other women working on these collections (Margaret Rowbottom and Joan Lillico).
 
 Left WHMM for war work, and returned by 1945. Undertook research trips to USA 1951, 1953.
 
@@ -25,8 +27,12 @@ M.A., Diploma in Anthropology, Oxford. Also educated in Aberystwyth, Wales.
 
 ### Sources
 
+[Freeman, J.T. (1976)](https://doi.org/10.1111/j.1532-5415.1976.tb03281.x), Sona Rosa Burstein: Gerontologist in Motley. Journal of the American Geriatrics Society, 24: 547-551.   [Copy in Wellcome Collection's library](https://wellcomecollection.org/works/f8r8tqx7).
+
+[Sona Rosa Burstein, RAI history wiki](https://historywiki.therai.org.uk/index.php?title=Sona\_Rosa\_Burstein)
+
 Oral history in Symons 1987, p.9.
 
 
 
-Tags: museum staff; anthropollogy; 'Ethnographic section'; scientific staff
+Tags: museum staff; anthropology; 'Ethnographic section'; scientific staff

@@ -1,6 +1,6 @@
 # Lillico, Joan
 
-Joan Wilson Lillico.  Folklorist and anthropologist.  Life dates: 12 March 1911 - ?
+Joan Wilson Lillico.  Folklorist and anthropologist.  Life dates: 12 March 1911 - 2001
 
 ### Work at WHMM
 
@@ -8,13 +8,15 @@ Employed from 1935 as an assistant in the museum’s ‘Ethnographic Section’.
 
 ### Biographical note
 
-Education listed in staff file (WA/HMM/ST/Lat/A.136): [https://wellcomecollection.org/works/qas45uzj/items?canvas=36](https://wellcomecollection.org/works/qas45uzj/items?canvas=36)
+Joan Lillico was born in 1911 in New Zealand. Her education listed in her staff file (WA/HMM/ST/Lat/A.136): [https://wellcomecollection.org/works/qas45uzj/items?canvas=36](https://wellcomecollection.org/works/qas45uzj/items?canvas=36)
 
-Completed degree in Archaeology and Anthropology at Newnham College, University of Cambridge 1935 (Smith 1998). Joined WHMM in December that same year, aged 24, with letters of recommendation from Dorothy Garrod and J. H. Driberg (copies in Lillico's staff file).
+Completed a degree in Archaeology and Anthropology at Newnham College, University of Cambridge 1935 (Smith 1998). Joined WHMM in December that same year, aged 24, with letters of recommendation from Dorothy Garrod and J. H. Driberg (copies in Lillico's staff file).
 
 Elected as a Fellow of Royal Anthropological Institute, 1937 ([RAI archives, census of British Anthropologists](https://www.therai.org.uk/archives-and-manuscripts/archive-contents/census-of-british-anthropologists-a71)).
 
 Lillico moved from WHMM to a post at Bristol Museum by 1949 ([https://wellcomecollection.org/works/qas45uzj/items?canvas=15](https://wellcomecollection.org/works/qas45uzj/items?canvas=15)) and remained at Bristol Museum until retirement in the 1970s ([MacClancy 2013](https://www.theasa.org/publications/asaonline/articles/asaonline\_0108.shtml)).
+
+She died in 2001 in Bristol, UK.
 
 ### WA/HMM archives
 
@@ -30,6 +32,10 @@ Lillico moved from WHMM to a post at Bristol Museum by 1949 ([https://wellcomeco
 [MacClancy 2013](https://www.theasa.org/publications/asaonline/articles/asaonline\_0108.shtml).
 
 [Smith, Pamela Jane. 2000](https://www.arch.cam.ac.uk/files/dorothy\_garrod\_at\_cambridge.pdf). "Dorothy Garrod, first woman Professor at Cambridge." _Antiquity_, vol. 74, no. 283, Mar. 2000, p. 131.  (Lillico was interviewed in 1998 regarding her former tutor Dorothy Garrod.)
+
+[Lillico family tree](https://www.ancestry.co.uk/genealogy/records/james-hall-lillico-24-4xrthx) (ancestry.com)
+
+[Joan Lillico, RAI history wiki](https://historywiki.therai.org.uk/index.php?title=Joan\_Wilson\_Lillico)
 
 Oral history in Symons 1987. Includes discussing work on the ethnographic collections in the 1930s, pp 31-32:
 
