@@ -238,7 +238,7 @@ The main difference between Library Accession Register 2 and the later registers
 
 **Size/Place of Publication/Date of Publication (imprint)/Printer** – no corresponding headings so leave blank
 
-**Price/Cost** – transcribe in the normal way but add postage or carriage (usually in the title column) e.g. 2s 3d (+ postage). Because of the lack of accession numbers, if the cost is for multiple items, add the range of titles included in the Transcribers Notes in place of the accession number range e.g. Price for 4 items \[Poemata; Sentenze e proverbi Italiani; L'apotheose du dictionnaire de l'academie; Examen de ingenios para las sciencias]
+**Price/Cost** – transcribe in the normal way but add postage or carriage (usually in the title column) e.g. 2s 3d (+ postage). Because of the lack of accession numbers, if the cost is for multiple items, add the range of titles included in the Transcribers Notes in place of the accession number range e.g. Price for 4 items \[Poemata; Sentenze e proverbi Italiani; L'apotheose du dictionnaire de l'academie; Examen de ingenios para las sciencias]. If there are too many titles give the best description you can in the brackets, most likely based on the vendor/source details e.g. Price for 198 items \[bought by Mr Wellcome, Bordeaux, 1902/3]
 
 **Valuation** – leave blank apart from in the rare instances when the entry notes the books worth e.g. 18s 0d Worth by Symons
 
