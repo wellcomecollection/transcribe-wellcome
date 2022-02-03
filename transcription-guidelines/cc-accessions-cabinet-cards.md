@@ -130,7 +130,7 @@ You will need to insert a line into your spreadsheet to record cards like this i
 
 If you find a number out of sequence from your allocation i.e. you are given C1 – 100 to transcribe and you find a cabinet card numbered 302, you would add this to the bottom of your spreadsheet and add a comment to the transcribers notes column.
 
-## _**WA/HMM reference**_
+## **WA/HMM reference**
 
 This is a column that will be prefilled with the archive reference to the index card collection in your spreadsheet. For CC1 – CC500 series this reference is **WA/HMM/IC/3/A.1** This is not something taken from the index card to transcribe and will often be a hidden column in your template.
 
