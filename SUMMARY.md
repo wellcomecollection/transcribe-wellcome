@@ -133,7 +133,7 @@
   * [Wellcome Museum of Medical Science (WMMS)](research/organisations/wmms.md)
   * [Wellcome Physiological Research Laboratories (WPRL)](research/organisations/wprl.md)
   * [Wellcome Tropical Research Laboratories (WTRL)](research/organisations/wtrl.md)
-* [Page 1](research/page-1.md)
+* [Dispersals](research/dispersals.md)
 * [Bibliography](https://www.zotero.org/groups/2778863/transcribe\_wellcome/library)
 
 ## TRANSCRIPTION GUIDELINES
