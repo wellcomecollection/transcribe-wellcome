@@ -31,7 +31,7 @@
     * [Britchford, W.J.](research/people/alphabetical/britchford-wj.md)
     * [Brookes, Mr](research/people/alphabetical/brookes-mr.md)
     * [Burgess, Renate](research/people/alphabetical/burgess-renate.md)
-    * [Burstein, Rosa](research/people/alphabetical/burstein-rosa.md)
+    * [Burstein, S. Rosa](research/people/alphabetical/burstein-rosa.md)
     * [Carline, G.R.](research/people/alphabetical/carline-gr.md)
     * [Chadburn, Mr](research/people/alphabetical/chadburn-mr.md)
     * [Chatterjee, B.](research/people/alphabetical/chatterjee-b.md)
