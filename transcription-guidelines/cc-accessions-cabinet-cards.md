@@ -146,15 +146,15 @@ This is not a heading on your cabinet card, but for CC numbers that have been du
 
 ![How to record sub numbers in your spreadsheet](<../.gitbook/assets/image (4).png>)
 
-## **Present Number**
+## **Present Number (Classification)**
 
 This column in your spreadsheet corresponds to the second heading from the top left of the index card. Whilst not always filled out on the index card, where there has been data to record, this appears to be a classification reference. Please capitalise the data in your spreadsheet, so ‘Mis’ for example would be recorded as ‘MIS.’ If nothing is recorded on the index card against ‘Present No’ leave the field in your spreadsheet blank.
 
-## **Provisional Classification**
+## **Provisional Classification (Group)**
 
 This is the third heading from the top left of the index card and is largely recorded as ‘CC’, which for the CC series appears to be visual items that happen to be framed. Entries to date in this series have described engravings, watercolours, pencil drawings, oil paintings, paintings on panels and canvases. Please capitalise the classification in your spreadsheet with no punctuation between the letters.
 
-## **New Classification**
+## **New Classification (Section)**
 
 This is another classification heading on the index card. Sometimes the card records more than one classification and in this case should be separated on your spreadsheet by a semicolon. In the example below this would be recorded as ‘W; SH’
 
