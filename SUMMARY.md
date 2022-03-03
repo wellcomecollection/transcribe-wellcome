@@ -32,7 +32,7 @@
     * [Brookes, Mr](research/people/alphabetical/brookes-mr.md)
     * [Burgess, Renate](research/people/alphabetical/burgess-renate.md)
     * [Burstein, S. Rosa](research/people/alphabetical/burstein-rosa.md)
-    * [Carline, G.R.](research/people/alphabetical/carline-gr.md)
+    * [Carline, George R.](research/people/alphabetical/carline-gr.md)
     * [Chadburn, Mr](research/people/alphabetical/chadburn-mr.md)
     * [Chatterjee, B.](research/people/alphabetical/chatterjee-b.md)
     * [Chiang Yee](research/people/alphabetical/chiang-yee.md)
