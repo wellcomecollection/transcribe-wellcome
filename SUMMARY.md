@@ -21,6 +21,7 @@
   * [Collections Abbreviations](research/classification-codes/collections.md)
 * [People](research/people/README.md)
   * [Alphabetical list of staff](research/people/alphabetical/README.md)
+    * [Lander, Kathleen](research/people/alphabetical/lander-kathleen.md)
     * [Amoruso, Arthur](research/people/alphabetical/amoruso-arthur.md)
     * [Barber-Lomax, John Walker](research/people/alphabetical/barber-lomax.md)
     * [Barnard, Cyril Cuthbert](research/people/alphabetical/barnard-cyril-cuthbert.md)
