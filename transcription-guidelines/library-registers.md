@@ -250,6 +250,44 @@ The main difference between Library Accession Register 2 and the later registers
 
 **Transcribed by/Transcribers Notes** – use as normal
 
+## Variations for Library Accession Register 1
+
+Library Accession Register 1 was the first attempt at Wellcome to register material coming into the collection. The first few pages have no set layout, with some simply describing ‘sacks of books’ coming into the building. After that the main difference between Library Accession Register 1 and the later registers are in the lack of accession numbers. Although the numbers may have been added subsequently by staff, this is fairly rare. There are also differences in the column headings. Register 1 uses nine columns – title, vols., date purchased, from whom, thro’ whom, cat., no., dis., price – but still in a double-page format. When completing transcription, follow the standard rules for transcribing Library Accession Registers but bear in mind the following variations.
+
+**Date of Accession/Date Purchased** – normal rules apply but use information from the Date Purchased column
+
+**Accession number** – there is no dedicated accession number column so leave this column blank. If an accession number has been added later (usually in the title column), please transcribe into the accession number column e.g. Fasciculus temporum 5230 – keep Fasciculus temporum in title column but add 5230 to the accession number heading
+
+**Page image no./RH page image no.** – transcribe in the normal way
+
+**Location number** – leave blank
+
+**Author** – there is no separate author heading in the Register. If an author has been added to the title column, transcribe it into the author column instead e.g. English herbal (Wm. Salmon) keep English herbal in the title column but add Salmon, Wm., to author heading
+
+**Title/Description** – transcribe as normal. The only time this varies is if an author name has been added, transcribe this in the author column e.g. . English herbal (Wm. Salmon) keep English herbal in the title column but add Salmon, Wm., to author heading. This Register also contains items other than books. Still transcribe as on the page e.g. 2 silk needlework pictures – parrots
+
+**No. of vols. (V or P)/No. of vols (manuscript)** – as there is only a single column in Register 1, use the No. of vols (V or P) column. Only if it clearly states that the item is a manuscript do you transcribe in the No. of vols (manuscript) column
+
+**Size/Place of Publication/Date of Publication (imprint)/Printer** – no corresponding headings so leave blank. If a date or printer is mentioned in the title column, transcribe into the appropriate column e.g. Nievve herbal 1578 – leave Nievve herbal in the title column but add 1578 to the date of publication section
+
+**Price/Cost** – transcribe in the normal way but add postage or carriage (usually in the title column) e.g. 2s 3d (+ postage). Because of the lack of accession numbers, if the cost is for multiple items, add the range of titles included in the Transcribers Notes in place of the accession number range e.g. Price for 3 items \[Famous Parks; History of Africa; Universal mags]. If there are too many titles give the best description you can in the brackets, most likely based on the vendor/source details e.g. Price for 198 items \[bought by Mr Wellcome, Bordeaux, 1902/3]
+
+**Valuation** – leave blank apart from in the rare instances when the entry notes the books worth e.g. 18s 0d Worth by Symons
+
+**Donor or Vendor (source)/From whom, Thro’ whom, Cat** – transcribe into same column e.g. Tregaskis | Petzler, I. & Co | 424 should be transcribed as Tregaskis through Petzler, I. & Co. Cat. 424
+
+![Page from Library Register 1](<../.gitbook/assets/register 1 eg.jpg>)
+
+![How the page should be transcribed](<../.gitbook/assets/register 1 eg 2.jpg>)
+
+**Lot Number –** transcribe where applicable
+
+**Condition** – leave blank
+
+**Remarks** – although not a heading in the Register, use this column to transcribe information from the Dis\[count] column e.g. \[in discount column] 20%, or any additional information on the page regarding the item and where the information came from in square brackets e.g. \[in title column] To be shown to Mr Linstead. You do not need to transcribe the ‘balance carried forward’ information.
+
+**Transcribed by/Transcribers Notes** – use as normal
+
 ## Upon completion
 
 Please upload your file to **Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.

@@ -21,7 +21,7 @@ Museum Assistant at WHMM, c.1914-1917. One of four original staff members of the
 
 George Carline studied anthropology at Exeter College, Oxford and was part of the student archaeological society. After graduating he worked at the Oxford English Dictionary (see Gilliver 2016).
 
-His family were well-known artists, including mother [Annie Smith](https://en.wikipedia.org/wiki/Annie\_Carline), father [George F. Carline](https://en.wikipedia.org/wiki/George\_Francis\_Carline), younger brothers [Sydney](https://en.wikipedia.org/wiki/Sydney\_Carline) and [Richard](https://en.wikipedia.org/wiki/Richard\_Carline), sister [Hilda ](https://en.wikipedia.org/wiki/Hilda\_Carline)and brother-in-law [Stanley Spencer](https://stanleyspencer.org.uk).
+His family were well-known artists, including mother [Annie Smith](https://en.wikipedia.org/wiki/Annie\_Carline), father [George F. Carline](https://en.wikipedia.org/wiki/George\_Francis\_Carline), younger brothers [Sydney](https://en.wikipedia.org/wiki/Sydney\_Carline) and [Richard](https://en.wikipedia.org/wiki/Richard\_Carline), sister [Hilda ](https://en.wikipedia.org/wiki/Hilda\_Carline)and brother-in-law [Stanley Spencer](https://stanleyspencer.org.uk/).
 
 George Carline became a museum assistant at WHMM at the time of its permanent opening in 1914. He was one of four original staff members working under curator C.J.S. Thompson.
 
