@@ -218,7 +218,7 @@ A place for the transcriber to add any additional notes about the record e.g. if
 
 This column assigns the CC0 terms to each row of transcribed data and does not require transcription. More information on the Creative Commons Licence can be found [here](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/getting-started#creative-commons-licence).
 
-## Variations for Library Accession Register 2
+## Library Register 2 Variations
 
 The main difference between Library Accession Register 2 and the later registers are in the lack of accession numbers. Although the numbers may have been added subsequently by staff this is fairly rare. There are also differences in the column headings. Register 2 only uses five or six columns - date, title, (author), no of vols, price/cost, source \[sometimes bought off or by] – over a single page. When completing transcription, follow the standard rules for transcribing Library Accession Registers but bear in mind the following variations.
 
@@ -250,7 +250,7 @@ The main difference between Library Accession Register 2 and the later registers
 
 **Transcribed by/Transcribers Notes** – use as normal
 
-## Variations for Library Accession Register 1
+## Library Register 1 Variations
 
 Library Accession Register 1 was the first attempt at Wellcome to register material coming into the collection. The first few pages have no set layout, with some simply describing ‘sacks of books’ coming into the building. After that the main difference between Library Accession Register 1 and the later registers are in the lack of accession numbers. Although the numbers may have been added subsequently by staff, this is fairly rare. There are also differences in the column headings. Register 1 uses nine columns – title, vols., date purchased, from whom, thro’ whom, cat., no., dis., price – but still in a double-page format. When completing transcription, follow the standard rules for transcribing Library Accession Registers but bear in mind the following variations.
 
