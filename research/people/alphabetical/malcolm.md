@@ -46,8 +46,8 @@ Handwriting sample: difficult to find, as Malcolm usually has documents in types
 
 #### Published Bibliography
 
-* Bücher, L.W.G. (1913) 'Notes on certain of the Cape Barren Islanders, Furneaux Group, Bass Strait, Australia' _Zeitschrift für Ethnologie_, 45. Jahrg., H.6, pp.932-934 [https://www.jstor.org/stable/24240296](https://www.jstor.org/stable/24240296)
-* Bücher, L.W.G. (1914) 'A Study of the Curvatures of the Tasmanian Aboriginal Cranium' _Proceedings of the Royal Society of Edinburgh_, 28 April 1914
+* Büchner, L.W.G. (1913) 'Notes on certain of the Cape Barren Islanders, Furneaux Group, Bass Strait, Australia' _Zeitschrift für Ethnologie_, 45. Jahrg., H.6, pp.932-934 [https://www.jstor.org/stable/24240296](https://www.jstor.org/stable/24240296)
+* Büchner, L.W.G. (1914) 'A Study of the Curvatures of the Tasmanian Aboriginal Cranium' _Proceedings of the Royal Society of Edinburgh_, 28 April 1914
 * Berry, J.A., Robertson, A.W.D. and Büchner, L.W.G. 'The Craniometry of the Tasmanian Aboriginal' The Journals of the Royal Anthropological Institute of Great Britain and Ireland, January - June 1914, vol. 44, pp. 122-126 [https://www.jstor.org/stable/2843533](https://www.jstor.org/stable/2843533)
 * Malcolm, L.W.G. (1920) 'Notes on the Cameroon province (with special-reference to the Bamenda division)', _Scottish Geographical Magazine_, 36:3, pp.145-153 [https://doi.org/10.1080/00369222008734314](https://doi.org/10.1080/00369222008734314)
 
