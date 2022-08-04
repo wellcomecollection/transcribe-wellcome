@@ -24,11 +24,16 @@ Handwriting sample: difficult to find, as Malcolm usually has documents in types
 
 #### Biographical and Archive Sources
 
-* Lacaille, A.D. Typescript copy of obituary written for the Museums Journal in [WA/HMM/EX/F/1](https://wellcomecollection.org/works/n6a3mp3a/items?canvas=188).
-* Clarke, Ian D. (2016) [A Peep at the Blacks: A History of Tourism at Coranderrk Aboriginal Station, 1863-1924](https://www.google.co.uk/books/edition/A\_Peep\_at\_the\_Blacks/mDNBDAAAQBAJ?hl=en\&gbpv=0), 3.5.
-* Clarke, Ian D. (2015) [From Katoomba to Ballarat to France and West Africa](http://www.goldmuseum.com.au/from-katoomba-to-ballarat-to-france-and-west-africa/). Biography of L.W.G. Malcolm, Gold Museum Ballarat.
-* Kröller, Eva-Marie (2021) The McIlwraiths, 1853-1948. Chapter 7, T.F. McIlwraith at Cambridge.
+* Lacaille, A.D. Typescript copy of obituary written for the Museums Journal in [WA/HMM/EX/F/1](https://wellcomecollection.org/works/n6a3mp3a/items?canvas=188)
+* Clarke, Ian D. (2016) [A Peep at the Blacks: A History of Tourism at Coranderrk Aboriginal Station, 1863-1924](https://www.google.co.uk/books/edition/A\_Peep\_at\_the\_Blacks/mDNBDAAAQBAJ?hl=en\&gbpv=0), 3.5
+* Clarke, Ian D. (2015) [From Katoomba to Ballarat to France and West Africa](http://www.goldmuseum.com.au/from-katoomba-to-ballarat-to-france-and-west-africa/). Biography of L.W.G. Malcolm, Gold Museum Ballarat
+* Jeffreys, M.D.W. (1966) 'Witchcraft in the Calabar province' _African Studies_, 25:2, pp.95-100 [https://doi.org/10.1080/00020186608707234](https://doi.org/10.1080/00020186608707234)
+* Kröller, Eva-Marie (2021) The McIlwraiths, 1853-1948. Chapter 7, T.F. McIlwraith at Cambridge
+* Tuchscherer, Konrad (1999) 'The Lost Script of the Bagam' _African Affairs_, January 1999, vol. 98, no. 390, pp.55-77 [https://www.jstor.org/stable/723684](https://www.jstor.org/stable/723684)
 * Woerlee, Bill (2007) [Australians in Africa post on Great War Forum](https://www.greatwarforum.org/topic/72898-australians-in-africa/?do=findComment\&comment=660100)
+
+
+
 * Medal card of Malcolm, L W G, Australian Volunteer Hospital Regiment. The National Archives [WO 372/13/90938](https://discovery.nationalarchives.gov.uk/details/r/D3904607)&#x20;
 * Probate Office. Grant of Administration (admon) for Louis William Gordon Malcolm of 7 Monahan Avenue Purley, dated 4 December 1946
 * 'Four children burnt to death' Burrowa News (New South Wales), Friday 10 July 1896, p.3
@@ -37,4 +42,11 @@ Handwriting sample: difficult to find, as Malcolm usually has documents in types
 * 'In the Public Eye' The Herald (Melbourne, Victoria), Monday 6 July 1914, p.10
 * 'Student joins Artillery' The Herald (Melbourne, Victoria), Wednesday 3 March 1915, p.8
 * 'Personal' Sydney Morning Herald (New South Wales), Tuesday 4 September 1917, p.6
+
+#### Published Bibliography
+
+* Bücher, L.W.G. (1913) 'Notes on certain of the Cape Barren Islanders, Furneaux Group, Bass Strait, Australia' _Zeitschrift für Ethnologie_, 45. Jahrg., H.6, pp.932-934 [https://www.jstor.org/stable/24240296](https://www.jstor.org/stable/24240296)
+* Bücher, L.W.G. (1914) 'A Study of the Curvatures of the Tasmanian Aboriginal Cranium' _Proceedings of the Royal Society of Edinburgh_, 28 April 1914
+* Berry, J.A., Robertson, A.W.D. and Büchner, L.W.G. 'The Craniometry of the Tasmanian Aboriginal' The Journals of the Royal Anthropological Institute of Great Britain and Ireland, January - June 1914, vol. 44, pp. 122-126 [https://www.jstor.org/stable/2843533](https://www.jstor.org/stable/2843533)
+* Malcolm, L.W.G. (1920) 'Notes on the Cameroon province (with special-reference to the Bamenda division), _Scottish Geographical Magazine_, 36:3, pp.145-153 [https://doi.org/10.1080/00369222008734314](https://doi.org/10.1080/00369222008734314)
 
