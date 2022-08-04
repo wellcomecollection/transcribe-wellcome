@@ -34,7 +34,8 @@ Handwriting sample: difficult to find, as Malcolm usually has documents in types
 
 
 
-* Medal card of Malcolm, L W G, Australian Volunteer Hospital Regiment. The National Archives [WO 372/13/90938](https://discovery.nationalarchives.gov.uk/details/r/D3904607)&#x20;
+* Medal card for Malcolm, L W G, Australian Volunteer Hospital Regiment. The National Archives [WO 372/13/90938](https://discovery.nationalarchives.gov.uk/details/r/D3904607)&#x20;
+* 1914 Star medal card for Malcolm, L W G. The National Archives [WO 329/2504](https://discovery.nationalarchives.gov.uk/details/r/C4437722)
 * Probate Office. Grant of Administration (admon) for Louis William Gordon Malcolm of 7 Monahan Avenue Purley, dated 4 December 1946
 * 'Four children burnt to death' Burrowa News (New South Wales), Friday 10 July 1896, p.3
 * 'Katoomba News' Nepean Times (Penrith, New South Wales), Saturday 4 July 1896, p.6
