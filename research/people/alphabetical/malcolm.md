@@ -30,7 +30,7 @@ Handwriting sample: difficult to find, as Malcolm usually has documents in types
 * Kröller, Eva-Marie (2021) The McIlwraiths, 1853-1948. Chapter 7, T.F. McIlwraith at Cambridge.
 * Woerlee, Bill (2007) [Australians in Africa post on Great War Forum](https://www.greatwarforum.org/topic/72898-australians-in-africa/?do=findComment\&comment=660100)
 * Medal card of Malcolm, L W G, Australian Volunteer Hospital Regiment. The National Archives [WO 372/13/90938](https://discovery.nationalarchives.gov.uk/details/r/D3904607)&#x20;
-* Probate Office. Grant of Administration (admon) for Louis William Gordon Malcolm of 7 Monahan Avenue Purley, dated 4 December 1946.
+* Probate Office. Grant of Administration (admon) for Louis William Gordon Malcolm of 7 Monahan Avenue Purley, dated 4 December 1946
 * 'Four children burnt to death' Burrowa News (New South Wales), Friday 10 July 1896, p.3
 * 'Katoomba News' Nepean Times (Penrith, New South Wales), Saturday 4 July 1896, p.6
 * 'Personal Items' Ballarat Star (Victoria), Friday 24 November 1911, p.2
