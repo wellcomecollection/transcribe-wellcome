@@ -12,7 +12,7 @@ Educated at Katoomba public school, Sydney Technical College and Ballarat School
 
 Sent to France with the Imperial Expeditionary Force in August 1914. Obtained commission in Royal Field Artillery at Portsmouth in 1915, as L.W.G. Büchner-Malcolm. Lieutenant Büchner-Malcolm was attached to the Nigeria Regiment, West African Frontier Force where he took part in the [Battle of Banjo](https://en.wikipedia.org/wiki/Battle\_of\_Banjo) in Cameroon in November 1915 (see [https://www.greatwarforum.org/topic/72898-australians-in-africa/?do=findComment\&comment=660100](https://www.greatwarforum.org/topic/72898-australians-in-africa/?do=findComment\&comment=660100)), and undertook research into the Eghap people of central Cameroon. He remained in the Artillery until 1919. King's Messenger (diplomatic courier) at the Paris Peace Conference.
 
-After the war he matriculated at Christ's College, Cambridge, and worked/volunteered at the Museum of Archaeology and Anthropology. He graduated in 1921 with a Master's degree in Anthropology. From 1919 onwards, he used his mother's maiden name exclusively, and changed his name to Louis William Gordon Malcolm or L.W.G. Malcolm.
+From about 1919 onwards, he used his mother's maiden name exclusively, and changed his name to Louis William Gordon Malcolm or L.W.G. Malcolm. After the war he matriculated at Christ's College, Cambridge, and worked/volunteered at the University Museum of Archaeology and Anthropology. He graduated in 1921 with a Master's degree in Anthropology.&#x20;
 
 In 1921 he joined Bristol Museum and Art Gallery where he was assistant curator of archaeology and ethnology, before joining the Wellcome Historical Medical Museum as Conservator (chief curator) in 1925.
 
