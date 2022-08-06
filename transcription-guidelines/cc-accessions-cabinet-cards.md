@@ -158,7 +158,7 @@ This is the third heading from the top left of the index card and is largely rec
 
 This is another classification heading on the index card. Sometimes the card records more than one classification and in this case should be separated on your spreadsheet by a semicolon. In the example below this would be recorded as ‘W; SH’
 
-![Image 47 of WA/HMM/IC/3/A.1](../.gitbook/assets/image.png)
+![Image 47 of WA/HMM/IC/3/A.1](<../.gitbook/assets/image (1).png>)
 
 
 
@@ -182,7 +182,7 @@ Sometimes the date is recorded as a range, where a sale may have taken place ove
 
 In the acquisition date field, you would standardise the date to the last possible date of sale i.e. 30 June 1919. In transcribers note’s you would record that you had standardised this to the last possible date the item could have been purchased.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Other times the date may also include roman numerals, again record as is: Fos/99/12/ii/1919. In this case the lot number has been recorded before the date. When recording the date in the acquisition field you can record 12 February 1919.
 

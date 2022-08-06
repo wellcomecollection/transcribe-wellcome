@@ -133,6 +133,7 @@
   * [Wellcome Institute of/for the History of Medicine (WIHM)](research/organisations/wihm.md)
   * [Wellcome Museum of Medical Science (WMMS)](research/organisations/wmms.md)
   * [Wellcome Physiological Research Laboratories (WPRL)](research/organisations/wprl.md)
+  * [Wellcome Research Institution (WRI)](research/organisations/wellcome-research-institution-wri.md)
   * [Wellcome Tropical Research Laboratories (WTRL)](research/organisations/wtrl.md)
 * [Dispersals](research/dispersals/README.md)
   * [The Ten Distributions (1950s)](research/dispersals/the-ten-distributions-1950s.md)

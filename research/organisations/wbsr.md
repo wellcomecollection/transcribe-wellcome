@@ -2,9 +2,14 @@
 description: Laboratory est. c.1896.
 ---
 
-# Wellcome Bureau of Scientific Research \(WBSR\)
+# Wellcome Bureau of Scientific Research (WBSR)
 
-Established c.1896 as a laboratory under the directorship of Dr Frederick Belding Power. Theoretically independent of [Burroughs Wellcome & Company \(BW & Co.\)](bw.md) but in practice administered through their head office and carried out some work on company products.
+Established 1913 under the direction of Dr Balfour, to promote '[the study and investigation of medical problems, more particularly in their relation to tropical medicine and hygiene](https://wellcomecollection.org/works/e5ahc5zu/items?canvas=17)', encompassing the various Wellcome research laboratories and museums. Reconstructed and enlarged in 1926.
 
-[Symons 1993](https://archive.org/details/Symons1993/mode/2up), page [3](https://archive.org/details/Symons1993/page/n7/mode/1up).
+#### Directors
 
+* Sir Andrew Balfour, 1913 - 1923
+* Dr Stevenson, Acting Director 1915 - 1916
+* Dr C.M. Wenyon, 1923 -
+
+[Symons 1993](https://archive.org/details/Symons1993/mode/2up), page [12](https://archive.org/details/Symons1993/page/n16/mode/1up).
