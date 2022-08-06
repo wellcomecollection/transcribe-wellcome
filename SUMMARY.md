@@ -129,6 +129,7 @@
   * [Historical Medical Exhibition (HME)](research/organisations/hme.md)
   * [Wellcome Bureau of Scientific Research (WBSR)](research/organisations/wbsr.md)
   * [Wellcome Chemical Research Laboratories (WCRL)](research/organisations/wcrl.md)
+  * [Wellcome Foundation Ltd.](research/organisations/wellcome-foundation-ltd..md)
   * [Wellcome Historical Medical Museum (WHMM)](research/organisations/whmm.md)
   * [Wellcome Institute of/for the History of Medicine (WIHM)](research/organisations/wihm.md)
   * [Wellcome Museum of Medical Science (WMMS)](research/organisations/wmms.md)
