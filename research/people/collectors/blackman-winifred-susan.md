@@ -2,7 +2,7 @@
 
 Winifred Susan Blackman (1872 - 1950) was retained by Captain Peter Johnston-Saint, third Conservator of the Wellcome Museum, to collect ethnographic materials relating to the _fellahin_ of Egypt.
 
-&#x20;Winifred Susan Blackman was born in Westmorland, England. After she received her diploma in Anthropology from the University of Oxford, Blackman worked as Pitt Rivers Curator Henry Balfour’s assistant. Her younger brother, Aylward Manley Blackman, an Egyptologist, had a great influence on Winifred, who undertook her own visits there. In Egypt, she documented the historical and the contemporary customs of the _fellahin_, the farmers. She received some funding from Henry Wellcome to acquire works. She passed away in 1950. She was particularly interested in jewelry and amulets. Material that she collected is now at the Pitt Rivers Museum, the British Museum, and the Fowler Museum at UCLA.
+&#x20;Winifred Susan Blackman was born in Westmorland, England. After she received her diploma in Anthropology from the University of Oxford, Blackman worked as Pitt Rivers Curator Henry Balfour’s assistant. Her younger brother, Aylward Manley Blackman, an Egyptologist, had a great influence on Winifred, who undertook her own visits there. In Egypt, she documented the historical and the contemporary customs of the _fellahin_, the farmers. She received some funding from Henry Wellcome to acquire works. She passed away in 1950. She was particularly interested in jewelry and amulets. Material that she collected is now primarily at the Pitt Rivers Museum, the British Museum, and the Fowler Museum at UCLA, with smaller numbers of objects on loan to Sir Henry Wellcome's Museum Collection at the Science Museum and at the Egypt Centre Swansea.
 
 &#x20;
 
