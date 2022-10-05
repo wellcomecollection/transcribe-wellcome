@@ -16,10 +16,12 @@ Winifred Blackman’s Publications:
 
 &#x20;&#x20;
 
-Wellcome archive references:
+Wellcome Collection references:
 
-* [WA/HMM/CM/Col/12](https://wellcomecollection.org/works/ewaueqqd)
+* Blackman collection dossier / correspondence: [WA/HMM/CM/Col/12](https://wellcomecollection.org/works/ewaueqqd)
 * Dispersal to British Museum: [WA/HMM/TR/Abc/C.4/23](https://wellcomecollection.org/works/uyh3tteb)
+* One of Blackman's collecting notebooks: [MS.8182](https://wellcomecollection.org/works/rm37j7zt)
+* [Photographs taken by Blackman in Egypt](https://wellcomecollection.org/works?query=Winifred+Blackman\&workType=k)
 
 &#x20;&#x20;
 
