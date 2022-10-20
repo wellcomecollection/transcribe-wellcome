@@ -50,7 +50,6 @@
     * [Dykes, R.](research/people/alphabetical/dykes-r.md)
     * [Earnshaw, C.A.](research/people/alphabetical/earnshaw-ca.md)
     * [Freeman, E.J.](research/people/alphabetical/freeman-ej.md)
-    * [French Sheldon, Mrs](research/people/alphabetical/french-sheldon-mrs.md)
     * [Gardner, S.B.](research/people/alphabetical/gardner-sb.md)
     * [Gaskell, E.](research/people/alphabetical/gaskell-e.md)
     * [Gaster, Theodor](research/people/alphabetical/gaster-theodor.md)
