@@ -105,6 +105,7 @@
     * [Church Missionary Society](research/people/collectors/church-missionary-society.md)
     * [Jeffreys, Mervyn D.W.](research/people/collectors/jeffreys-mervyn-d.w..md)
   * [Private Collectors](research/people/private-collectors/README.md)
+    * [Rachel Debes Davies](research/people/private-collectors/rachel-debes-davies.md)
     * [William Hewlett](research/people/private-collectors/william-hewlett.md)
     * [Amherst, William Tyssen-Amherst](research/people/private-collectors/amherst-william-tyssen-amherst.md)
     * [Gorga, Evangelista](research/people/private-collectors/gorga-evangelista.md)
