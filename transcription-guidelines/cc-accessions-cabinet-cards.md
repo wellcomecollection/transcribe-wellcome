@@ -52,7 +52,7 @@ For any text which has been crossed out or scored through, please transcribe it 
 
 ## **Gaps in accession numbers**
 
-You may notice gaps in the accession numbers, this is normal. You can record in the transcribers notes column that there is no cabinet card in sequence for the CC number that is missing.
+You may notice gaps in the accession numbers, this is normal. You can record in the transcribers notes column that there is no cabinet card in sequence for the CC number that is missing. Alternatively, delete the row in the spreadsheet.
 
 ## **Sketches and drawings**
 
