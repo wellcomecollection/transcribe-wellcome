@@ -1,4 +1,4 @@
-# Hewlett, William
+# William Hewlett
 
 William Hewlett was born on 22/07/1898 at 77 Elder Street in the district of St Peter in Brighton to William Henry Hewlett and Minnie Emma Hewlett (nee Wells). William Henry Hewlett worked as a coach painter at a railway factory.
 
