@@ -1,12 +1,12 @@
-# Visual Material Registers
+# PHO Accession Registers
 
-![A close up of text on a white background
+!\[A close up of text on a white background
 
-Description generated with very high confidence](<../.gitbook/assets/1 (1).png>)
+Description generated with very high confidence]\(<../.gitbook/assets/1 (1).png>)
 
-![A close up of text on a white background
+!\[A close up of text on a white background
 
-Description generated with very high confidence](<../.gitbook/assets/2 (1).png>)
+Description generated with very high confidence]\(<../.gitbook/assets/2 (1).png>)
 
 ## The Transcription Spreadsheet
 
@@ -40,9 +40,7 @@ See example below:
 
 PHO1093-1096 from WAHMM/IC/1/10, [PHO 886-2332](https://wellcomelibrary.org/item/b29490005) (image 46)
 
-![A close up of text on a white background
-
-Description generated with very high confidence](../.gitbook/assets/11.png)
+<figure><img src="../.gitbook/assets/PHO_guidance_image_46.jpg" alt=""><figcaption><p>Image 46</p></figcaption></figure>
 
 Please do transcribe them in separate lines and add the same note to each photograph, in the ‘Transcriber’s Note’ field e.g. ‘_PHO1093: Photograph on stretcher, same as PHO1094-1096_’.
 
@@ -64,9 +62,9 @@ All Latin characters with accents should be transcribed by inserting the correct
 
 PHO registers in particular, present a significant amount of information written in different languages, such as French, which makes a wide use of accents. Please make sure that you transcribe the correct symbols. You can simply use the Excel function clicking on the ‘Insert’ tab at the top and then ‘Symbol’. You will find the most common characters with accents under the ‘Latin-1 Supplement set’. As an alternative you can use shortcuts as listed in the table below. Just press **Alt** + three-digit number in the Number keyboard to get the accent mark character.
 
-![A screenshot of a cell phone
+!\[A screenshot of a cell phone
 
-Description generated with high confidence](../.gitbook/assets/12.png)
+Description generated with high confidence]\(../.gitbook/assets/12.png)
 
 ### Fractions:
 
@@ -105,15 +103,15 @@ Some of the Registers are entirely written in capitalised text. If you can, plea
 
 PHO294 from WAHMM/IC/1/9 [Accession register, PHO 1-885](https://wellcomelibrary.org/item/b29490078) (image 108)
 
-![A close up of text on a white background
+!\[A close up of text on a white background
 
-Description generated with very high confidence](../.gitbook/assets/13.png)
+Description generated with very high confidence]\(../.gitbook/assets/13.png)
 
 Will be transcribed as follows:
 
-![A close up of a logo
+!\[A close up of a logo
 
-Description generated with high confidence](../.gitbook/assets/14.png)
+Description generated with high confidence]\(../.gitbook/assets/14.png)
 
 **Definitions for general reference:**
 
@@ -153,7 +151,7 @@ Transcribe each PHO number in this column. There is no need to prefix the number
 
 **Important note:** If you come across a PHO number for which you have a duplicate, or a number which is outside your allocated sequence, please transcribe these at the bottom of your spreadsheet, adding the relevant PHO number into column B.
 
-\*Please see instructions on ‘[Classification’](broken-reference) for details on how to transcribe the letters in brackets usually found below the PHO No.
+\*Please see instructions on ‘[Classification’](broken-reference/) for details on how to transcribe the letters in brackets usually found below the PHO No.
 
 #### Other Number/s (Column C):
 
@@ -161,15 +159,15 @@ Any additional identification number, other than PHO and Neg. Nos. should be tra
 
 PHO171 from WAHMM/IC/1/9 [Accession register, PHO 1-885](https://wellcomelibrary.org/item/b29490078) (image 108)
 
-![A close up of text on a white background
+!\[A close up of text on a white background
 
-Description generated with very high confidence](../.gitbook/assets/15.png)
+Description generated with very high confidence]\(../.gitbook/assets/15.png)
 
 In the Other Number/s column we will transcribe as follows:
 
-![A picture containing bird, drawing
+!\[A picture containing bird, drawing
 
-Description generated with very high confidence](../.gitbook/assets/16.png)
+Description generated with very high confidence]\(../.gitbook/assets/16.png)
 
 Additional CC identification numbers are common in PHO registers, as well as ‘Mus. No.’ (appearing from Register 10). CC numbers were normally used for Paintings and some prints and drawings and were introduced by Daniel Pender-Davidson and continued by others until 1935. These will often be found in the article description field and may refer to a painting in the collection that has been photographed.
 
@@ -177,9 +175,9 @@ Please do transcribe additional identification numbers in this column even if it
 
 PHO162 from WAHMM/IC/1/9 [Accession register, PHO 1-885](https://wellcomelibrary.org/item/b29490078) (image 56)
 
-![A close up of text on a white background
+!\[A close up of text on a white background
 
-Description generated with very high confidence](../.gitbook/assets/17.png)
+Description generated with very high confidence]\(../.gitbook/assets/17.png)
 
 PR2865 will be transcribed in the Other Number Column, without the word ‘see’.
 
@@ -219,7 +217,7 @@ The following are keyboard shortcuts that can be used instead of the insert meth
 All other fractions need to be written out as e.g. 5/8, remembering to put a space beforehand, i.e. 3 5/8" because the symbols available in Excel aren't widely interpreted outside of Microsoft word (so get replaced by squiggles when we import the spreadsheets into Quickbase).
 
 * In the PHO registers you will frequently come across a + sign which has been used in place of the word ‘and’ please transcribe as a +.
-* PHO registers in particular, present a significant amount of information in other languages, which uses accents. Please make sure that you transcribe the correct symbols. You can simply use Insert – Symbol and select the correct accented character. You will find the most common characters with accents under the ‘Latin-1 Supplement set’. As an alternative you can use shortcuts as listed in the table at the beginning of this document under ‘[Accented Characters’](broken-reference). Just press **Alt** + three-digit number in the Number keyboard to get the accent mark character.
+* PHO registers in particular, present a significant amount of information in other languages, which uses accents. Please make sure that you transcribe the correct symbols. You can simply use Insert – Symbol and select the correct accented character. You will find the most common characters with accents under the ‘Latin-1 Supplement set’. As an alternative you can use shortcuts as listed in the table at the beginning of this document under ‘[Accented Characters’](broken-reference/). Just press **Alt** + three-digit number in the Number keyboard to get the accent mark character.
 * Some of the Registers are entirely written in capitalised text. If you can, please avoid capitalising all text in your transcription spreadsheet as it could make readability slightly harder. If it works for a particular register, you could keep the first part of the description capitalised (e.g. name of the doctor portrayed) and transcribe the remainder using standard lower-case characters
 
 **Important note:** If you notice anything is written in non-Latin script and you cannot discern or transliterate it, please put \[…]. Please make a note that you have come across non-latin script in column T’s ‘Transcriber’s notes.’
@@ -228,19 +226,19 @@ All other fractions need to be written out as e.g. 5/8, remembering to put a spa
 
 * We came across a number of scenarios where the ‘Description of Articles’ is continuing across the next page, more specifically under the ‘Obtained from’ heading. See example below:
 
-![A close up of text on a white background
+!\[A close up of text on a white background
 
-Description generated with very high confidence](../.gitbook/assets/18.png)
+Description generated with very high confidence]\(../.gitbook/assets/18.png)
 
-![A close up of a map
+!\[A close up of a map
 
-Description generated with high confidence](../.gitbook/assets/19.png)
+Description generated with high confidence]\(../.gitbook/assets/19.png)
 
 Please transcribe the final section of the ‘description of article’ (from the ‘Obtained from’ heading) in square brackets and add a note in the Transcriber’s Note field. See example below:
 
-![A screenshot of a cell phone
+!\[A screenshot of a cell phone
 
-Description generated with high confidence](../.gitbook/assets/20.png)
+Description generated with high confidence]\(../.gitbook/assets/20.png)
 
 If the description is particularly long and they have continued in the correct field, but in the next register’s page, please do transcribe normally and add a note in the Transcriber’s Note field. E.g. ‘PHO 89 continues on to image pages 36 and 37…’.
 
@@ -345,7 +343,7 @@ The auction house list is by no means exhaustive and is presented merely to help
 
 **Important note:** You will notice that often, information about value/cost of the item are included under this heading. Sometimes, just the word ’value’ appear at the bottom of the ‘Obtained from’ information. This could refer to the adjacent column headed ‘Cost’ and it could mean that this denotes value instead of cost. In previous registers cost and value have been two separate headings.
 
-&#x20;Please do transcribe what you see and then add a comment in the Transcriber’s Note field
+Please do transcribe what you see and then add a comment in the Transcriber’s Note field
 
 e.g The word ‘Value’ is noted in the ‘obtained from’ field possibly to state that this denotes value instead of cost.
 
@@ -371,9 +369,9 @@ Please record your email address e.g. [j.bloggs@wellcome.org](mailto:j.bloggs@we
 
 A place for the transcriber to add any additional notes about the record e.g. if the record was written in multiple hands or if the record has corrections/later additions/prefixes or the accession was Cancelled. See example below:
 
-![A close up of a map
+!\[A close up of a map
 
-Description generated with high confidence](../.gitbook/assets/21.png)
+Description generated with high confidence]\(../.gitbook/assets/21.png)
 
 Also use this column to note any problems you have had with the transcription. Prefix this note with ‘Unsure’ followed by an explanation e.g. ‘Unsure: cannot read first name of author’.
 
@@ -401,7 +399,7 @@ Transcribers are also invited to include an explanation for the following abbrev
 
 **T.Q.L.:** Two Quarter Length
 
-**pl. G.B.** (usually found after fraction ½): half plate glossy bromide**.** (There is no need to put this in the Note field, as it applies to almost all register’s entries and it is quite self-explanatory.
+**pl. G.B.** (usually found after fraction ½): half plate glossy bromide\*\*.\*\* (There is no need to put this in the Note field, as it applies to almost all register’s entries and it is quite self-explanatory.
 
 **P.O.P.:** Printing Out Paper
 
@@ -409,15 +407,13 @@ Transcribers are also invited to include an explanation for the following abbrev
 
 Creative Commons Licence (Column X): This column assigns the CC0 terms to each row of transcribed data and does not require transcription.
 
-## Upon completion&#x20;
+## Upon completion
 
-Please upload your file **to Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.&#x20;
+Please upload your file **to Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.
 
-Once you’ve done this please leave a message in your respective channel that you’ve uploaded your sheet.&#x20;
+Once you’ve done this please leave a message in your respective channel that you’ve uploaded your sheet.
 
 Happy Transcribing!
-
-
 
 #### **Version 3.0**
 
