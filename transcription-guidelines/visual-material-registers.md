@@ -1,12 +1,6 @@
 # PHO Accession Registers
 
-!\[A close up of text on a white background
-
-Description generated with very high confidence]\(<../.gitbook/assets/1 (1).png>)
-
-!\[A close up of text on a white background
-
-Description generated with very high confidence]\(<../.gitbook/assets/2 (1).png>)
+<figure><img src="../.gitbook/assets/PHO_register.jpg" alt=""><figcaption><p>An image of WA/HMM/IC/1/9</p></figcaption></figure>
 
 ## The Transcription Spreadsheet
 
@@ -39,6 +33,10 @@ You may come across multiple entries which have been grouped together on the Reg
 See example below:
 
 PHO1093-1096 from WAHMM/IC/1/10, [PHO 886-2332](https://wellcomelibrary.org/item/b29490005) (image 46)
+
+
+
+
 
 <figure><img src="../.gitbook/assets/PHO_guidance_image_46.jpg" alt=""><figcaption><p>Image 46</p></figcaption></figure>
 
