@@ -169,3 +169,4 @@
 * [Batch checking - Flimsy slips (A sequence)](project-management/batch-checking-flimsy-slips-a-sequence.md)
 * [Batch checking - Library Accession Registers](project-management/batch-checking-library-accession-registers.md)
 * [Itemising batches for TW import and catalogue descriptions](project-management/itemising-batches-for-tw-import-and-catalogue-descriptions.md)
+* [Importing itemisation batches](project-management/importing-itemisation-batches.md)
