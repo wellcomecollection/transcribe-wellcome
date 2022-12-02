@@ -17,7 +17,7 @@ description: >-
 
 ## Birmingham Museum & Art Gallery
 
-* Shabtis with Wellcome identifiers published in Watson, P. (2012) [_Catalogue of Inscribed Shabtis in Birmingham Museum and Art Gallery_](https://www.birminghammuseums.org.uk/system/resources/W1siZiIsIjIwMTQvMTEvMjAvNmp0Nnk5dm1zOV9zaGFidGlfbWFzdGVyX3YxXzMucGRmIl1d/shabti%20master%20v1\_3.pdf)_._ Birmingham Museums Trust.
+* Shabtis with Wellcome identifiers published in Watson, P. (2012) [_Catalogue of Inscribed Shabtis in Birmingham Museum and Art Gallery_](https://www.yumpu.com/en/document/read/11976439/catalogue-of-inscribed-shabtis-in-birmingham-museum-and-art-gallery)_._ Birmingham Museums Trust.
 * Cuneiform tablets published in Watson, P.J. (1986) _Catalogue of Cuneiform Tablets in Birmingham City Museum,_ volume 1. Warminster: Aris & Phillips.
 
 ## Bolton Museum
@@ -83,10 +83,10 @@ description: >-
 
 * Science Museum object numbers between A45 and A500529 inclusive for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk) (c.21,500 entries)
 * Science Museum object numbers between A600001 and A700043 inclusive for which an online record exists on [https://collection.sciencemuseumgroup.org.uk/](https://collection.sciencemuseumgroup.org.uk) (c.67,000 entries)
-* Science Museum part-numbered objects (/1 and Pt1 etc.) for which an online record exists on [https://collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk)  (c.5550 entries)
+* Science Museum part-numbered objects (/1 and Pt1 etc.) for which an online record exists on [https://collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk) (c.5550 entries)
 * 'B' loans to the Science Museum for which an online record exists on [https://collection.sciencemuseumgroup.org.uk](https://collection.sciencemuseumgroup.org.uk) (c.900 entries)
 
-## Stroud District (Cowle) Museum&#x20;
+## Stroud District (Cowle) Museum
 
 * 21 objects (mostly casts of prehistoric material) [gifted to Stroud Museum in 1982-1983](https://wellcomecollection.org/works/ap29grmp/items?canvas=57).
 
