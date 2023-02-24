@@ -170,3 +170,4 @@
 * [Batch checking - Library Accession Registers](project-management/batch-checking-library-accession-registers.md)
 * [Itemising batches for TW import and catalogue descriptions](project-management/itemising-batches-for-tw-import-and-catalogue-descriptions.md)
 * [Importing itemisation batches](project-management/importing-itemisation-batches.md)
+* [Checking & importing visual batches](project-management/checking-and-importing-visual-batches.md)
