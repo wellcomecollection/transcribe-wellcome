@@ -17,4 +17,5 @@ description: Draft instructions
   * `PHO Prefix` maps to `Visual accession number prefix`
   * `PHO No.` maps to `Visual accession number without prefix`
   * There's no need to import the CC0 licence in each row of the data
-* Check an entry or two to make sure the digitised images links are working correctly, that the dating looks correct etc.
+* Check an entry or two on TW to make sure the digitised images links are working correctly, that the dating looks correct etc.
+* Save the imported transcription spreadsheet in the relevant 'imported to QB' folders in both Sharepoint locations, and mark the import off as complete on the transcribers' log.
