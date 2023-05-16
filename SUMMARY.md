@@ -113,7 +113,7 @@
     * [French-Sheldon, May](research/people/private-collectors/french-sheldon-may.md)
     * [Iles, Isaac](research/people/private-collectors/iles-isaac.md)
     * [Lovett, Edward](research/people/private-collectors/lovett-edward.md)
-* [Places](research/places/README.md)
+* [Wellcome Places](research/places/README.md)
   * [Aldersgate Street](research/places/aldersgate-street.md)
   * [Beckenham](research/places/beckenham.md)
   * [Bushey Hill Road](research/places/bushey-hill-road.md)
