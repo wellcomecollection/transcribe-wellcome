@@ -18,16 +18,16 @@ The style of the printed flimsy slips changed over time, and according to the pu
 
 Generally, each flimsy slip will be transcribed onto **one** row of the spreadsheet, except:
 
-* **When one slip has **_**more**_** than one object described in detail:**
-  * &#x20;Split the description over separate rows, with one row for each object.&#x20;
+* **When one slip has \_more**\_\*\* than one object described in detail:\*\*
+  * Split the description over separate rows, with one row for each object.
   * Give each row/description a **sub number** in **column E** \[1, 2, 3, 4 etc.] _unless_ it already has alphabetical identifier **(e.g three objects on a single slip have been lettered A, B and C)** then put the corresponding letter in the sub number column for each row
 * **When one slip represents a short running sequence of A numbers:**
-  * &#x20;Use a separate row for each number in the sequence, transcribing the details from the card onto each row.&#x20;
+  * Use a separate row for each number in the sequence, transcribing the details from the card onto each row.
   * This can appear, for example, "**A15186-15189**" with four objects on the single slip
 
 ### Pencil writing
 
-* If you see this, **please transcribe as per usual** in their respective fields&#x20;
+* If you see this, **please transcribe as per usual** in their respective fields
   * i.e if half the description is in pen and the other in pencil, transcriber all of it in the description (column K).
   * You do not need to note that there is pencil writing on the slip or what colour pen
 * If it is unclear where the pencil writing is meant to go, please enter it into additional notes (column Q) and highlight this in the transcribers note column.
@@ -54,7 +54,7 @@ You may see the following image in your batch has a sketching of the object, thi
 
 ### **Stamps & labels**
 
-* If you see a stamp on your flimsy slip, enter this information in this column according to the following format:&#x20;
+* If you see a stamp on your flimsy slip, enter this information in this column according to the following format:
   * **\[Stamp] W.H.M.M. ACCESSION DEPARTMENT. Received DD Month Year. Acc no.###**
 * If there is _both_ a stamp and additional notes, please put all the additional notes **first** and then the stamp transcription.
 
@@ -62,7 +62,7 @@ You may see the following image in your batch has a sketching of the object, thi
 
 You may notice that some of the labels in the top right are scored through, please list these in additional notes (column Q) separated by a semi-colon. This example here would be transcribed as **W; \<s>H.M.M.\</s>**
 
-****[**All stamps and labels go in the "Additional notes found on flimsy" column.**](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/museum-flimsy-slips#additional-notes-on-flimsy)&#x20;
+\*\*\*\*[**All stamps and labels go in the "Additional notes found on flimsy" column.**](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/museum-flimsy-slips#additional-notes-on-flimsy)
 
 ### **Dispersal/Transfers**
 
@@ -72,7 +72,7 @@ If you notice a slip has a very clear dispersal, like the example in the image a
 
 ### **Non-Latin script**
 
-* If you notice anything is written in non-Latin script and you cannot discern or transliterate it, please put \[…].&#x20;
+* If you notice anything is written in non-Latin script and you cannot discern or transliterate it, please put \[…].
 * Please make a note that you have come across non-latin script in column V’s ‘Transcriber’s notes.’
 
 ### **Acquisition vs Accession**
@@ -88,11 +88,11 @@ If you notice a slip has a very clear dispersal, like the example in the image a
 
 ![This is the 'accession' number, 15186](../.gitbook/assets/accessionno.png)
 
-* For each flimsy slip, transcribe the ‘Accessions No.’ (A number) for the accession(s) described on the slip&#x20;
+* For each flimsy slip, transcribe the ‘Accessions No.’ (A number) for the accession(s) described on the slip
 * Each accession is entered into its own row
 * This number is usually written in the top left hand corner of the flimsy slip.
 
-This A number is a number of up to 6 digits in length, sometimes written on the flimsy slip with an ‘A’ prefix or suffix, but more often without. Only transcribe the number, without prefix or suffix. **If a comma is used in the number (123,456), do **_**not**_** include it in the transcription.**
+This A number is a number of up to 6 digits in length, sometimes written on the flimsy slip with an ‘A’ prefix or suffix, but more often without. Only transcribe the number, without prefix or suffix. **If a comma is used in the number (123,456), do \_not**\_\*\* include it in the transcription.\*\*
 
 Other identifying numbers may also be written on the flimsy slip: **the ‘A’ number will always be the top or first number**, even if it is not at the top left hand corner of the slip.
 
@@ -123,7 +123,7 @@ If you come across a slip with an A number that has a single strike through and 
 
 ### Sub number
 
-* This is only required where **more than one row** is required for a flimsy slip&#x20;
+* This is only required where **more than one row** is required for a flimsy slip
 * Or where there are **several cards representing one A number**, as explained in the general transcription instructions. _Leave blank in all other cases._
 
 ### R number
@@ -134,11 +134,11 @@ Registration (‘R’) numbers are sometimes written under or to the right hand 
 
 * An R running number (e.g. 12345)
   * Note that written without a prefix, this style of R number is easily confused with an A number, but **will always be the bottom or second number written on the slip**.
-* An R-date number (e.g. 4168/1937).&#x20;
-  * This example means that the object was the 4168 object registered in 1937.&#x20;
+* An R-date number (e.g. 4168/1937).
+  * This example means that the object was the 4168 object registered in 1937.
   * In some cases the R-date number can appear elsewhere on the slip, such as within a stamp.
   * You may also see the R-date number written in reverse (e.g. 1937/4168), with an abbreviated year form (e.g. 4168/37), and with commas or apostrophes used in place of / (e.g. 4168’37).
-    * Please transcribe all R-date forms in full with the year last i.e. R4168/1937.&#x20;
+    * Please transcribe all R-date forms in full with the year last i.e. R4168/1937.
     * You can assume all the years referenced by R-date number are in the **twentieth century**, i.e. 19xx.
 
 When transcribing in this column, **please always add the prefix ‘R’ before the number**.
@@ -166,14 +166,14 @@ Enter any text that appears in the ‘Group’ section of the slip. In almost al
 
 * These codes are for the _TYPE_ of object
 * Transcribe the type of the object in column I.
-* These take the form of an abbreviation: VES (Vessel), COS (Costume), AW (Arrows), AM (Amulet) etc.&#x20;
-* In some cases, there will be more than one type, which should be separated by a semi-colon in your transcription.&#x20;
+* These take the form of an abbreviation: VES (Vessel), COS (Costume), AW (Arrows), AM (Amulet) etc.
+* In some cases, there will be more than one type, which should be separated by a semi-colon in your transcription.
 * **Please note that the abbreviations used may represent insensitive or outdated terminology which you may find uncomfortable. Please transcribe the abbreviation as written on the flimsy slip.**
 
-### Section \[C]&#x20;
+### Section \[C]
 
-* These codes are for place of origin (culture)&#x20;
-* Transcribe the abbreviation in column J.&#x20;
+* These codes are for place of origin (culture)
+* Transcribe the abbreviation in column J.
 
 ### Section codes & meanings
 
@@ -181,10 +181,12 @@ Enter any text that appears in the ‘Group’ section of the slip. In almost al
 
 **If you are confused about any classification, nationality (Section \[C]) or Type (Section \[T]) codes and can't decide which column they should go into, please check out the lists available in the WHMM codes folder found under the Museum Index Cards channel's file section.**
 
-### Description of object&#x20;
+### Description of object
 
-* Enter the description of the object(s) in this column, exactly as written on the flimsy slip&#x20;
+* Enter the description of the object(s) in this column, exactly as written on the flimsy slip
 * _Except_ when the slip describes multiple objects which can be clearly separated out onto separate rows, please use separate rows for each object and remember to add **sub numbers.**
+* Sometimes the description continues on the back of the slip, please put this in description.
+* Some slips include the lot numbers or value - transcribe these in **Columns L** and **M**.
 
 #### Ditto
 
@@ -194,14 +196,12 @@ Enter any text that appears in the ‘Group’ section of the slip. In almost al
 #### Fractions
 
 * Transcribe fractions (e.g. in measurements) using Insert – Symbol and selecting the correct proper fraction. If you encounter difficulties in finding the correct symbol, record this in the **transcriber’s notes (column V)**.
-* The following are keyboard shortcuts that can be used instead of the insert method:&#x20;
-  * **Alt + 0188 = ¼**&#x20;
-  * **Alt + 0189 = ½**&#x20;
+* The following are keyboard shortcuts that can be used instead of the insert method:
+  * **Alt + 0188 = ¼**
+  * **Alt + 0189 = ½**
   * **Alt + 0190 = ¾**
 * All other fractions **need to be written out** as e.g. 5/8
-  * Remember to put a space _before_ you write out the fraction e.g 3 5/8"&#x20;
-* Sometimes the description continues on the back of the slip, please put this in description.
-* Some slips include the lot numbers or value - transcribe these in **Columns L** and **M**.&#x20;
+  * Remember to put a space _before_ you write out the fraction e.g 3 5/8"
 
 ![](../.gitbook/assets/green-k-to-p.png)
 
@@ -209,20 +209,20 @@ Enter any text that appears in the ‘Group’ section of the slip. In almost al
 
 Transcribe the acquisition details, which usually appear in the slip under ‘bought of’, exactly as written on the flimsy slip.
 
-### Value&#x20;
+### Value
 
 * Enter the acquisition value of the object in this column, exactly as written on the flimsy slip.
 * If there are multiple values if a slip has more than one object, transcribe the corresponding value for each object in its own row. If you can't discern this, put an unsure note in transcribers notes.
 * If you come across non-pound sterling currencies, simply transcribe other currencies as they are written e.g. 36l.
 
-### At present&#x20;
+### At present
 
-* Anything recorded in the ‘at present’ field should be transcribed here, exactly as written on the flimsy slip.&#x20;
+* Anything recorded in the ‘at present’ field should be transcribed here, exactly as written on the flimsy slip.
 * This may refer to objects transferred to the Wellcome Research Institute, or dispersed to other museums. For example, ‘To WRI 18 X 37’ means that the object was transferred to the Wellcome Research Institute on the 18 Oct 1937.
 
-### Case No.&#x20;
+### Case No.
 
-* Enter the case number here.&#x20;
+* Enter the case number here.
 * Sometimes more than one will be recorded; separate different case numbers with a semi-colon.
 * Others may be scored through and replaced with a new one. In this case, [show the old number scored through in this column.](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/museum-flimsy-slips#crossed-out-writing)
 
@@ -230,7 +230,7 @@ Transcribe the acquisition details, which usually appear in the slip under ‘bo
 
 Transcribe any text or letters under the ‘To be placed’ heading, exactly as written on the flimsy slip. In most cases, this heading will be empty on the slips and blank on the transcription.
 
-### Additional notes on flimsy&#x20;
+### Additional notes on flimsy
 
 * Use this column to enter, **exactly** as written, anything **on the slip** that does _not_ fit into other columns.
 * Do not put your own notes in this column. If you need to add notes e.g there is a drawing, put it in transcribers notes.
@@ -256,9 +256,9 @@ Transcribe acquisition dates according to the following instructions:
 
 If you have to normalise the dates as explained above, **leave a note in transcribers notes saying "Acquisition date normalised."**
 
-### Auction House&#x20;
+### Auction House
 
-In many cases, the acquisition will be an auction purchase - e.g. **Soth. 6 & 7/12/20 Lot 196** refers to lot 196 sold at Sotheby’s during the sale held on 6th and 7th December 1920.&#x20;
+In many cases, the acquisition will be an auction purchase - e.g. **Soth. 6 & 7/12/20 Lot 196** refers to lot 196 sold at Sotheby’s during the sale held on 6th and 7th December 1920.
 
 Sometimes the lot number appears before the date, and the month may appear in Roman numerals (Soth. 91/1/XII/30).
 
@@ -268,7 +268,7 @@ These abbreviations can expanded using the list below. Select the relevant aucti
 
 A list of the current known auction houses can be seen in the 'Auction House' tab at the bottom of your sheet.
 
-### Lot No.&#x20;
+### Lot No.
 
 Enter the lot number, if applicable, in this column. When a slip describes multiple items, these are often recorded next to each object (when different lot numbers) and should be entered on separate rows as explained in the [general transcription instructions](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/museum-flimsy-slips#general-transcription-instructions).
 
@@ -276,11 +276,11 @@ Enter the lot number, if applicable, in this column. When a slip describes multi
 
 ![](../.gitbook/assets/yellow-t-to-v.png)
 
-### Transcribed By&#x20;
+### Transcribed By
 
 Your email address e.g. j.bloggs@wellcome.org
 
-### Transcriber’s Notes&#x20;
+### Transcriber’s Notes
 
 * Use this column to record any additional notes. For example, if the slip is accompanied by a letter or extensive notes not transcribed in ‘Description of object’, there is a drawing, the slip is double sided etc.
 * Also use this column to note any problems you have had with the transcription. [Prefix this note with ‘Unsure’ followed by an explanation](https://docs.wellcomecollection.org/transcribe-wellcome/transcription-guidelines/museum-flimsy-slips#unsure-about-something) e.g. ‘Unsure: cannot read last digit of accession number’.

@@ -111,6 +111,8 @@
     * [Gorga, Evangelista](research/people/private-collectors/gorga-evangelista.md)
     * [Hewlett, William](research/people/private-collectors/william-hewlett.md)
     * [French-Sheldon, May](research/people/private-collectors/french-sheldon-may.md)
+    * [Iles, Isaac](research/people/private-collectors/iles-isaac.md)
+    * [Lovett, Edward](research/people/private-collectors/lovett-edward.md)
 * [Places](research/places/README.md)
   * [Aldersgate Street](research/places/aldersgate-street.md)
   * [Beckenham](research/places/beckenham.md)
