@@ -99,7 +99,7 @@
     * [Welch](research/people/alphabetical/welch.md)
     * [Wilkes, Mr](research/people/alphabetical/wilkes-mr.md)
     * [Winder, Marianne](research/people/alphabetical/winder-marianne.md)
-  * [Collectors](research/people/collectors.md)
+  * [Collecting Agents](research/people/collectors.md)
     * [Blackman, Winifred Susan](research/people/collectors/blackman-winifred-susan.md)
     * [Bolinder, Gustav](research/people/collectors/bolinder-gustav.md)
     * [Church Missionary Society](research/people/collectors/church-missionary-society.md)
