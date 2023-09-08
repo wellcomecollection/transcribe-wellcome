@@ -113,6 +113,7 @@
     * [French-Sheldon, May](research/people/private-collectors/french-sheldon-may.md)
     * [Iles, Isaac](research/people/private-collectors/iles-isaac.md)
     * [Lovett, Edward](research/people/private-collectors/lovett-edward.md)
+    * [Moore-Guggisberg, Lillian Decima](research/people/private-collectors/moore-guggisberg-lillian-decima.md)
 * [Wellcome Places](research/places/README.md)
   * [Aldersgate Street](research/places/aldersgate-street.md)
   * [Beckenham](research/places/beckenham.md)
