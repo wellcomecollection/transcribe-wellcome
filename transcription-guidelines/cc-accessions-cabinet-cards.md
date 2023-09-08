@@ -130,6 +130,16 @@ You will need to insert a line into your spreadsheet to record cards like this i
 
 If you find a number out of sequence from your allocation i.e. you are given C1 – 100 to transcribe and you find a cabinet card numbered 302, you would add this to the bottom of your spreadsheet and add a comment to the transcribers notes column.
 
+
+
+## R number
+
+If you come across any numbers prefixed by an 'R' this an old registration number.&#x20;
+
+## "R" or "P"/Year number
+
+You may also come across an "R" or "P" registration number followed by a year of registration i.e., P42/1949. The "P" and "R" have been used interchangeably.&#x20;
+
 ## **WA/HMM reference**
 
 This is a column that will be prefilled with the archive reference to the index card collection in your spreadsheet. For CC1 – CC500 series this reference is **WA/HMM/IC/3/A.1** This is not something taken from the index card to transcribe and will often be a hidden column in your template.
@@ -190,7 +200,7 @@ Other times the date may also include roman numerals, again record as is: Fos/99
 
 ![](<../.gitbook/assets/image (11).png>)
 
-&#x20;****&#x20;
+&#x20;
 
 ## **Value**
 
@@ -248,7 +258,7 @@ In many cases, the acquisition will be an auction purchase - e.g. **Soth. 6 & 7/
 
 Sometimes the lot number appears before the date, and the month may appear in Roman numerals (Soth. 91/1/XII/30).
 
-&#x20;****&#x20;
+&#x20;
 
 In your spreadsheet there is a picklist ready for you to select the auction house (where appliable) that the item you have transcribed was purchased from. This information is often recorded in the description. If the auction house is not present in the picklist, please record this in the transcribers’ notes.
 
