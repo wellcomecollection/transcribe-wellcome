@@ -60,9 +60,7 @@ All Latin characters with accents should be transcribed by inserting the correct
 
 PHO registers in particular, present a significant amount of information written in different languages, such as French, which makes a wide use of accents. Please make sure that you transcribe the correct symbols. You can simply use the Excel function clicking on the ‘Insert’ tab at the top and then ‘Symbol’. You will find the most common characters with accents under the ‘Latin-1 Supplement set’. As an alternative you can use shortcuts as listed in the table below. Just press **Alt** + three-digit number in the Number keyboard to get the accent mark character.
 
-!\[A screenshot of a cell phone
 
-Description generated with high confidence]\(../.gitbook/assets/12.png)
 
 ### Fractions:
 
@@ -119,7 +117,7 @@ Description generated with high confidence]\(../.gitbook/assets/14.png)
 
 Please note: Registration stops between 1933-35. From 1935 we see a new registration system (R Year), which works alongside Acc. No., and R no. (old system).
 
-**Visual Material Registers are complicated and rarely show identical features or headings. For this reason, the following guidelines have been organised in different sections, each one referring to a specific type of Registers**.
+**Visual Material Registers are complicated and rarely show identical features or headings. For this reason, the following guidelines have been organised in different sections, each one referring to a specific type of Register**.
 
 ## PHO REGISTERS (Photographs)
 
@@ -127,7 +125,7 @@ Series of 16 bound registers (WA/HMM/IC/1/9-24), containing entries for photogra
 
 ### PHO Column Headings
 
-Yellow headings: These headings correspond broadly to the headings printed in the PHO Accession registers.
+**Yellow headings:** These headings correspond broadly to the headings printed in the PHO Accession registers.
 
 **Blue headings:** Additional columns for recording details which may be useful for future data analysis and online search. These require some interpretation.
 
