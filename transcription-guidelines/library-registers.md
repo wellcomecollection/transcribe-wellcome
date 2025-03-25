@@ -124,7 +124,7 @@ Transcribe exactly as on the page. Many place names will be written in Latin e.g
 
 _\[excluding Register 3]_
 
-This is the date, usually just a year, in which the book was printed/published. If the date is in Roman numerals transcribe it into Arabic numerals e.g. MDCCLXI = 1761. [Online converter](https://www.periodni.com/roman\_numerals\_converter.html).
+This is the date, usually just a year, in which the book was printed/published. If the date is in Roman numerals transcribe it into Arabic numerals e.g. MDCCLXI = 1761. [Online converter](https://www.periodni.com/roman_numerals_converter.html).
 
 ### _Printer_
 
@@ -213,6 +213,10 @@ Your email address e.g. j.bloggs@wellcome.org.
 A place for the transcriber to add any additional notes about the record e.g. if the record was written in multiple hands or if the record has corrections/later additions/prefixes. Further examples are given within the guidance for individual column headings and in the general transcription instructions. Also use this column to note any problems you have had with the transcription. Prefix this note with ‘Unsure’ followed by an explanation e.g. ‘Unsure: cannot read first name of author’.
 
 **Important note:** If you have made a remark that relates to more than one accession, please make sure you add it into every relevant **Transcriber’s Notes** column. In the future, each row may be displayed individually without the context of the rows above and below it. For the same reason, do not use the phrases ‘see above’ or ‘see below’ in any column.
+
+#### Sensitivity
+
+If you come across a potentially sensitive or offensive term, transcribe it exactly as it is written. Then add a note in the Transcriber's Notes e.g. Potentially sensitive: offensive word in the title. [Here](../language.md) you can read more about our approach towards language and terminology in the registers.&#x20;
 
 ### _Creative Commons Licence_
 
