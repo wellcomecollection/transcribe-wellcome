@@ -146,7 +146,7 @@
 * [Dispersals](research/dispersals/README.md)
   * [The Ten Distributions (1950s)](research/dispersals/the-ten-distributions-1950s.md)
   * [Science Museum Departments](research/dispersals/science-museum-departments.md)
-* [Bibliography](https://www.zotero.org/groups/2778863/transcribe\_wellcome/library)
+* [Bibliography](https://www.zotero.org/groups/2778863/transcribe_wellcome/library)
 
 ## TRANSCRIPTION GUIDELINES
 
@@ -175,3 +175,7 @@
 * [Itemising batches for TW import and catalogue descriptions](project-management/itemising-batches-for-tw-import-and-catalogue-descriptions.md)
 * [Importing itemisation batches](project-management/importing-itemisation-batches.md)
 * [Checking & importing visual batches](project-management/checking-and-importing-visual-batches.md)
+
+***
+
+* [Importing Library batches for WA/HMM/LI/Acc/3 to /13](importing-library-batches-for-wa-hmm-li-acc-3-to-13.md)
