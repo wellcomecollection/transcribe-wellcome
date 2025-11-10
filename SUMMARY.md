@@ -175,7 +175,4 @@
 * [Itemising batches for TW import and catalogue descriptions](project-management/itemising-batches-for-tw-import-and-catalogue-descriptions.md)
 * [Importing itemisation batches](project-management/importing-itemisation-batches.md)
 * [Checking & importing visual batches](project-management/checking-and-importing-visual-batches.md)
-
-***
-
-* [Importing Library batches for WA/HMM/LI/Acc/3 to /13](importing-library-batches-for-wa-hmm-li-acc-3-to-13.md)
+* [Importing Library batches for WA/HMM/LI/Acc/3 to /13](project-management/importing-library-batches-for-wa-hmm-li-acc-3-to-13.md)

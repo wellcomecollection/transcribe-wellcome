@@ -6,7 +6,7 @@ Image: [https://wellcomecollection.org/works/pdnsn3qb](https://wellcomecollectio
 
 ### Work at WHMM
 
-Rowbottom joined WHMM as an assistant in the museum’s ethnographic section in 1933 after a bachelor’s degree in Physics and studies in anthropology. **** When first employed, she worked under the direction of [Rosa Burstein](https://github.com/wellcomecollection/transcribe-wellcome/tree/f72c2b61ac1ad669053741de27081d2c70951534/researching-the-museum-and-library/people/alphabetical/Burstein,%20Rosa/README.md), “as a general assistant to help in sorting museum material”.
+Rowbottom joined WHMM as an assistant in the museum’s ethnographic section in 1933 after a bachelor’s degree in Physics and studies in anthropology. When first employed, she worked under the direction of [Rosa Burstein](https://github.com/wellcomecollection/transcribe-wellcome/tree/f72c2b61ac1ad669053741de27081d2c70951534/researching-the-museum-and-library/people/alphabetical/Burstein,%20Rosa/README.md), “as a general assistant to help in sorting museum material”.
 
 Rowbottom stayed at Wellcome’s museum for her whole career, organising exhibitions, recataloguing objects, and specialising in European history of science.
 

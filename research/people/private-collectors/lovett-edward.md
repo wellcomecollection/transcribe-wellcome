@@ -40,9 +40,9 @@ Lovett, Edward, _Magic in modern London_, Croyden, London, 1925.&#x20;
 
 Lovett, Edward, _Folk-lore & legend of the Surrey hills and of the Sussex downs forests_, Caterham Valley : Printed at the Caterham printing works, 1928.&#x20;
 
-Lovett, Edward, T_he folk-lore of the horse_. Croyden, London \[date of publication not identified]&#x20;
+Lovett, Edward, &#x54;_&#x68;e folk-lore of the horse_. Croyden, London \[date of publication not identified]&#x20;
 
-Lovett, Edward, T_he game of knuckle bones_. Croyden, London  \[date of publication not identified]&#x20;
+Lovett, Edward, &#x54;_&#x68;e game of knuckle bones_. Croyden, London  \[date of publication not identified]&#x20;
 
 &#x20;
 

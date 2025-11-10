@@ -46,7 +46,7 @@ If there is something you are unsure of, please note it as \[?] and make sure th
 
 ## **Crossed out writing**
 
-For any text which has been crossed out or scored through, please transcribe it using: **\<s>**and **\</s>** tagging:
+For any text which has been crossed out or scored through, please transcribe it using: **\<s>**&#x61;nd **\</s>** tagging:
 
 \<s>\[transcribed text here]\</s>
 
