@@ -136,9 +136,21 @@ If you find a number out of sequence from your allocation i.e. you are given C1 
 
 If you come across any numbers prefixed by an 'R' this an old registration number.&#x20;
 
+If you come across a number without an 'R' prefix, presume it has been prefixed with an 'R' and record this, you can add a note to say you have done this in the transcribers note column.
+
+In the image below you can see that the 'CC' number is 3452, the number below is a registration number without its prefix. In your 'R number' column you would record this as R17631.
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Image 449 from WA/HMM/IC/3/A.7</p></figcaption></figure>
+
 ## "R" or "P"/Year number
 
-You may also come across an "R" or "P" registration number followed by a year of registration i.e., P42/1949. The "P" and "R" have been used interchangeably.&#x20;
+You may also come across an "R" or "P" registration number followed by a year of registration i.e., P73/1941. The "P" and "R" have been used interchangeably.&#x20;
+
+If you come across a number/year without an 'R' or a 'P' prefix,  presume it has been prefixed with an 'R' and record this, you can add a note to say you have done this in the transcribers note column.
+
+In the example below you would record 'P73/1941' in the 'R or P/Year number' column.
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Image number 40 from WA/HMM/IC/3/A.37</p></figcaption></figure>
 
 ## **WA/HMM reference**
 
@@ -292,11 +304,11 @@ If you have made a remark that relates to more than one accession, please make s
 
 This is another column of the spreadsheet that has been pre-filled as a reminder that your transcription will be used under a CC0 license.
 
-**Potential Sensitivity**
+## **Potential Sensitivity**
 
 It is possible that sensitive and offensive language has been recorded on the index cards, please still transcribe as you find. You can use the potential sensitivity column to flag any language here. i.e. Language: use of the word negro.
 
-**Upon Completion**
+## **Upon Completion**
 
 Please upload your file to Grp\_Wellcome Transcribers on Microsoft Teams. [https://teams.microsoft.com/l/channel/19%3a7358e913235e4459abd93d73245a1c72%40thread.tacv2/General?groupId=4e7ed022-a0ad-4baa-89c6-490da57430b6\&tenantId=3b7a675a-1fc8-4983-a100-cc52b7647737](https://teams.microsoft.com/l/channel/19%3a7358e913235e4459abd93d73245a1c72%40thread.tacv2/General?groupId=4e7ed022-a0ad-4baa-89c6-490da57430b6\&tenantId=3b7a675a-1fc8-4983-a100-cc52b7647737)
 
