@@ -176,3 +176,4 @@
 * [Importing itemisation batches](project-management/importing-itemisation-batches.md)
 * [Checking & importing visual batches](project-management/checking-and-importing-visual-batches.md)
 * [Importing Library batches for WA/HMM/LI/Acc/3 to /13](project-management/importing-library-batches-for-wa-hmm-li-acc-3-to-13.md)
+* [Standardising Library Accession Numbers on Sierra](project-management/standardising-library-accession-numbers-on-sierra.md)
