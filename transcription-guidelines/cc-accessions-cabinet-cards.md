@@ -152,6 +152,12 @@ In the example below you would record 'P73/1941' in the 'R or P/Year number' col
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Image number 40 from WA/HMM/IC/3/A.37</p></figcaption></figure>
 
+
+
+### R number
+
+##
+
 ## **WA/HMM reference**
 
 This is a column that will be prefilled with the archive reference to the index card collection in your spreadsheet. For CC1 – CC500 series this reference is **WA/HMM/IC/3/A.1** This is not something taken from the index card to transcribe and will often be a hidden column in your template.
