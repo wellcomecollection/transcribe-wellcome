@@ -2,9 +2,9 @@
 
 Life dates: 1890–1975. South African anthropologist. Colonial administrator in Nigeria and Cameroon.
 
-![](<../../../.gitbook/assets/Jeffreys\_best quality.jpg>)
+![](<../../../.gitbook/assets/Jeffreys_best quality.jpg>)
 
-(Image source: Detail from Photograph of International Congress of Anthropological and Ethnological Sciences delegates at University College London, main quadrangle. 30 July 1934. [RAI archives](https://historywiki.therai.org.uk/index.php?title=File:Jeffreys,\_Mervyn\_David\_Waldegrave.jpg), A62/ 192.​)
+(Image source: Detail from Photograph of International Congress of Anthropological and Ethnological Sciences delegates at University College London, main quadrangle. 30 July 1934. [RAI archives](https://historywiki.therai.org.uk/index.php?title=File:Jeffreys,_Mervyn_David_Waldegrave.jpg), A62/ 192.​)
 
 
 
