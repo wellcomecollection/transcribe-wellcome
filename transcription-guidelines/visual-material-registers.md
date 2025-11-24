@@ -99,15 +99,7 @@ Some of the Registers are entirely written in capitalised text. If you can, plea
 
 PHO294 from WAHMM/IC/1/9 [Accession register, PHO 1-885](https://wellcomelibrary.org/item/b29490078) (image 108)
 
-!\[A close up of text on a white background
 
-Description generated with very high confidence]\(../.gitbook/assets/13.png)
-
-Will be transcribed as follows:
-
-!\[A close up of a logo
-
-Description generated with high confidence]\(../.gitbook/assets/14.png)
 
 **Definitions for general reference:**
 
@@ -155,15 +147,7 @@ Any additional identification number, other than PHO and Neg. Nos. should be tra
 
 PHO171 from WAHMM/IC/1/9 [Accession register, PHO 1-885](https://wellcomelibrary.org/item/b29490078) (image 108)
 
-!\[A close up of text on a white background
 
-Description generated with very high confidence]\(../.gitbook/assets/15.png)
-
-In the Other Number/s column we will transcribe as follows:
-
-!\[A picture containing bird, drawing
-
-Description generated with very high confidence]\(../.gitbook/assets/16.png)
 
 Additional CC identification numbers are common in PHO registers, as well as ‘Mus. No.’ (appearing from Register 10). CC numbers were normally used for Paintings and some prints and drawings and were introduced by Daniel Pender-Davidson and continued by others until 1935. These will often be found in the article description field and may refer to a painting in the collection that has been photographed.
 
@@ -171,9 +155,7 @@ Please do transcribe additional identification numbers in this column even if it
 
 PHO162 from WAHMM/IC/1/9 [Accession register, PHO 1-885](https://wellcomelibrary.org/item/b29490078) (image 56)
 
-!\[A close up of text on a white background
 
-Description generated with very high confidence]\(../.gitbook/assets/17.png)
 
 PR2865 will be transcribed in the Other Number Column, without the word ‘see’.
 
@@ -220,21 +202,9 @@ All other fractions need to be written out as e.g. 5/8, remembering to put a spa
 
 **Important note:** If there is anything you cannot read and posting about it in Microsoft Teams does not help either, please put \[?] in the place of a single letter or entire word and make sure to make note of this in column V’s ‘Transcriber notes’.
 
-* We came across a number of scenarios where the ‘Description of Articles’ is continuing across the next page, more specifically under the ‘Obtained from’ heading. See example below:
+* We came across a number of scenarios where the ‘Description of Articles’ is continuing across the next page, more specifically under the ‘Obtained from’ heading.
 
-!\[A close up of text on a white background
-
-Description generated with very high confidence]\(../.gitbook/assets/18.png)
-
-!\[A close up of a map
-
-Description generated with high confidence]\(../.gitbook/assets/19.png)
-
-Please transcribe the final section of the ‘description of article’ (from the ‘Obtained from’ heading) in square brackets and add a note in the Transcriber’s Note field. See example below:
-
-!\[A screenshot of a cell phone
-
-Description generated with high confidence]\(../.gitbook/assets/20.png)
+Please transcribe the final section of the ‘description of article’ (from the ‘Obtained from’ heading) in square brackets and add a note in the Transcriber’s Note field.&#x20;
 
 If the description is particularly long and they have continued in the correct field, but in the next register’s page, please do transcribe normally and add a note in the Transcriber’s Note field. E.g. ‘PHO 89 continues on to image pages 36 and 37…’.
 
@@ -363,11 +333,9 @@ Please record your email address e.g. [j.bloggs@wellcome.org](mailto:j.bloggs@we
 
 #### Transcriber’s Notes (Column R)**:**
 
-A place for the transcriber to add any additional notes about the record e.g. if the record was written in multiple hands or if the record has corrections/later additions/prefixes or the accession was Cancelled. See example below:
+A place for the transcriber to add any additional notes about the record e.g. if the record was written in multiple hands or if the record has corrections/later additions/prefixes or the accession was Cancelled.&#x20;
 
-!\[A close up of a map
 
-Description generated with high confidence]\(../.gitbook/assets/21.png)
 
 Also use this column to note any problems you have had with the transcription. Prefix this note with ‘Unsure’ followed by an explanation e.g. ‘Unsure: cannot read first name of author’.
 
