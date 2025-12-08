@@ -41,7 +41,7 @@ description: >-
 20\.   Check the bottom few rows of the sheet, in case additional rows have been added for out-of-place accession numbers. If so, add any missing WA/HMM Box references for these rows, and highlight the rows in a different colour so that they stand out at the next stage.
 
 21. Make sure the assigned batch is transcribed and nothing less or more. If there is a discrepancy, make a note and follow up.
-22. Move the spreadsheet into 'Checked Pre-import' folder on the Transcribers’ Teams channel
+22. \[If passing onto another member of the team for Steps 3 and 4] Move the spreadsheet into 'Checked Pre-import' folder on the Transcribers’ Teams channel
 
 ### Step 3. Prepare Excel data for import to Quickbase
 
@@ -56,10 +56,30 @@ description: >-
 
 ### Step 4. Import spreadsheet to Transcribe Wellcome
 
-* Carry out the usual spot checks on e.g. date format, accuracy of transcription.
-* Import the batch into TW Library table in the usual way, selecting Record ID# as the merge field. The TW database is not very good at guessing which field heading is correct, so be careful you are selecting the correct field:
-  * There's no need to import the CC0 licence in each row of the data
-* Check an entry or two on TW to make sure the digitised images links are working correctly, that the dating looks correct etc.
-* Save the imported transcription spreadsheet in the relevant 'imported to QB' folders in both Sharepoint locations, and mark the import off as complete on the transcribers' log.
+1. Carry out a few spot checks on steps 2 and 3 above e.g. date format, accuracy of transcription.
+2.  Sign into TW as admin. From the home page,&#x20;
+
+    * select the ‘More’ tab (right hand end of top bar) and select ‘Import/Export’.
+
+    ![](<../.gitbook/assets/unknown (2).png>)
+
+    * For Choose Action, select 'Import into a table from a file'.
+    * For Select Table, select ‘Library Accessions’.
+    * For Select Merge Field, retain the default selection (‘Record ID#’).
+    * For Choose File, select the prepared transcription spreadsheet.
+    * Select 'Import From File'.\
+      ![](<../.gitbook/assets/unknown (3).png>)
+3. Check that the alignment of columns in the Quickbase table match the columns in the prepared spreadsheet. The TW database is not very good at guessing which field heading is correct, so be careful you are selecting the correct field. There's no need to import the CC0 licence in each row of the data:
+
+<table><thead><tr><th valign="top">Transcription Spreadsheet Column Headings</th><th valign="top">Transcribe Wellcome fields</th></tr></thead><tbody><tr><td valign="top">RID#</td><td valign="top">Record ID#</td></tr><tr><td valign="top">Date of Accession</td><td valign="top">Date of Accession</td></tr><tr><td valign="top">Accession number</td><td valign="top">Accession number</td></tr><tr><td valign="top">Register</td><td valign="top">Register</td></tr><tr><td valign="top">Page image no.</td><td valign="top">Page image no.</td></tr><tr><td valign="top">rh page image no. (if applicable)</td><td valign="top">rh page image no. (if applicable)</td></tr><tr><td valign="top">Location Number</td><td valign="top">Location Number</td></tr><tr><td valign="top">Author</td><td valign="top">Author</td></tr><tr><td valign="top">Title/Description</td><td valign="top">Title/Description</td></tr><tr><td valign="top">No. of vols (V or P)</td><td valign="top">No. of vols (V or P)</td></tr><tr><td valign="top">No. of vols (Manuscript)</td><td valign="top">No. of vols (Manuscript)</td></tr><tr><td valign="top">Size</td><td valign="top">Size</td></tr><tr><td valign="top">Place of Publication</td><td valign="top">Place of Publication</td></tr><tr><td valign="top">Date of Publication</td><td valign="top">Date of Publication (imprint)</td></tr><tr><td valign="top">Printer</td><td valign="top">Printer</td></tr><tr><td valign="top">Price</td><td valign="top">Price</td></tr><tr><td valign="top">Valuation</td><td valign="top">Valuation</td></tr><tr><td valign="top">Donor or Vendor (Source)</td><td valign="top">Donor or Vendor (Source)</td></tr><tr><td valign="top">Lot Number</td><td valign="top">Lot Number</td></tr><tr><td valign="top">Condition</td><td valign="top">Condition</td></tr><tr><td valign="top">Remarks</td><td valign="top">Remarks</td></tr><tr><td valign="top">Transcribed by</td><td valign="top">Transcribed by</td></tr><tr><td valign="top">Transcribers Notes</td><td valign="top">Transcribers Notes</td></tr><tr><td valign="top">Creative Commons</td><td valign="top">Record owner [DO NOT IMPORT]</td></tr></tbody></table>
+
+4. Select 'OK' to the warning message about updating existing records.
+5. Select ‘Do not import’ for CCO.
+6. Select 'Import (with updates)'.
+7. Once imported, select 'Go to the application's dashboard'.
+8. Select ‘Library Accessions’ > ‘Reports & Charts’ > ‘Common – List changes.’ This shows the most recent imports.
+9. Check the spreadsheet has been imported correctly. Check that the links match with the correct digitised records/pages in ‘Register Page URL’. Other items to look out for include: date of accession, fractions, £ signs, diacritics.
+10. Check accessions by quarter report for outliers. Click on ‘Library Accessions’ > ‘Reports & Charts’ > ‘WHML data analysis – Library accessions by quarter’. Check the bar chart dates to make sure they look accurate
+11. Save the imported transcription spreadsheet in the relevant 'imported to QB' folders in both Sharepoint locations, and mark the import off as complete on the transcribers' log.
 
 [<br>](https://docs.wellcomecollection.org/collections-information/lQ0fMyP8xr8hWWJiQkfl/transcribe-wellcome/project-management/importing-itemisation-batches)
