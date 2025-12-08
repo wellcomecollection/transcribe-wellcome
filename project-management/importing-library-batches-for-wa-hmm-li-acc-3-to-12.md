@@ -82,4 +82,18 @@ description: >-
 10. Check accessions by quarter report for outliers. Click on ‘Library Accessions’ > ‘Reports & Charts’ > ‘WHML data analysis – Library accessions by quarter’. Check the bar chart dates to make sure they look accurate
 11. Save the imported transcription spreadsheet in the relevant 'imported to QB' folders in both Sharepoint locations, and mark the import off as complete on the transcribers' log.
 
-[<br>](https://docs.wellcomecollection.org/collections-information/lQ0fMyP8xr8hWWJiQkfl/transcribe-wellcome/project-management/importing-itemisation-batches)
+### If you spot a mistake on import:
+
+1\.       Don’t be tempted to delete the records you've just imported, as it’s usually possible to correct the error through QB.
+
+2\.       Most fields can be edited in ‘Grid Edit’ mode, apart from: **`Accession Number`** and **`Register`**.
+
+3\.       Or, to batch edit, click on Library Transcription > Reports & Charts > List All then click on the three dots on right hand corner of screen > Find/replace in these records.
+
+* In the field: \[enter the issue, e.g. Register] > Change: Select Value – \[enter the error in ‘Other’ field] >To: Select Value – \[type in correctly, use ‘Other’ field if needed] > Next
+
+![](<../.gitbook/assets/unknown (5).png>)
+
+* If you notice a mistake in **`Accession Number`**/**`Register`** fields, correct the records in the spreadsheet. Re-import the spreadsheet as above, but click ‘Do not import’ for all other fields apart from the one field you need updating. This will overwrite the data in the fields on TW.
+* If you notice a mistake in other fields, you can Grid Edit them. You can also customise the report to include missing fields (e.g. image page numbers) from the report.
+* If you do delete records/RID#s and need to re-import, go through the usual import steps, but for the ‘Record ID#’ field, click ‘Do not import’. This will generate a new batch of RID#s and uploaded the records. The RID#s don’t need updating in spreadsheets elsewhere.[<br>](https://docs.wellcomecollection.org/collections-information/lQ0fMyP8xr8hWWJiQkfl/transcribe-wellcome/project-management/importing-itemisation-batches)
