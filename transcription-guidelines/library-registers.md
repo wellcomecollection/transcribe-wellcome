@@ -292,9 +292,11 @@ Library Accession Register 1 was the first attempt at Wellcome to register mater
 
 **Transcribed by/Transcribers Notes** – use as normal
 
+
+
 ## Upon completion
 
-Please upload your file to **Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Files’** tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.
+Please upload your file to **Grp\_Wellcome Transcribers** on Microsoft Teams. At the top of the group’s page you will see a **‘Shared’** (formerly Files) tab. In that tab you will see a **‘Completed Spreadsheets’** folder, please upload your file there.
 
 ![](<../.gitbook/assets/7 (1) (1).jpeg>)
 
